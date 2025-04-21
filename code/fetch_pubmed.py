@@ -4,10 +4,22 @@ from tqdm import tqdm
 import os
 from datetime import datetime
 
-Entrez.email = "your_email@example.com"
+# Set your email to comply with NCBI guidelines
+Entrez.email = "your_real_email@example.com"
 
-def fetch_pubmed_articles(search_term, max_articles=100):
-    handle = Entrez.esearch(db="pubmed", term=search_term, retmax=max_articles)
+DATA_DIR = "data"
+os.makedirs(DATA_DIR, exist_ok=True)
+
+def fetch_pubmed_articles(domain_term, max_articles=100, output_file="articles.json"):
+    """
+    Fetches articles from PubMed for a given MeSH domain term.
+    
+    Args:
+        domain_term (str): MeSH query term, e.g., 'Oncology[MeSH Major Topic]'
+        max_articles (int): Maximum number of articles to fetch
+        output_file (str): Name of the output JSON file
+    """
+    handle = Entrez.esearch(db="pubmed", term=domain_term, retmax=max_articles)
     record = Entrez.read(handle)
     handle.close()
     ids = record["IdList"]
@@ -22,7 +34,8 @@ def fetch_pubmed_articles(search_term, max_articles=100):
         for article_data in fetched_records['PubmedArticle']:
             pubmed_id = article_data['MedlineCitation']['PMID']
             abstract_text = ' '.join(article_data['MedlineCitation']['Article'].get('Abstract', {}).get('AbstractText', [""]))
-            
+            title = article_data['MedlineCitation']['Article'].get('ArticleTitle', "")
+
             doi = ""
             article_ids = article_data['PubmedData']['ArticleIdList']
             for aid in article_ids:
@@ -32,15 +45,20 @@ def fetch_pubmed_articles(search_term, max_articles=100):
 
             articles.append({
                 "pubmed_id": pubmed_id,
+                "title": title,
                 "abstract": abstract_text,
                 "doi": doi,
+                "domain": domain_term,
                 "timestamp": datetime.now().isoformat()
             })
 
-    # Save
-    os.makedirs("data", exist_ok=True)
-    with open("data/articles.json", "w") as f:
+    save_path = os.path.join(DATA_DIR, output_file)
+    with open(save_path, "w") as f:
         json.dump(articles, f, indent=2)
 
+    print(f"✅ Saved {len(articles)} articles to {save_path}")
+
 if __name__ == "__main__":
-    fetch_pubmed_articles("Cardiology[MeSH Major Topic]", 100)
+    # Example for MVP
+    fetch_pubmed_articles("Oncology[MeSH Major Topic]", max_articles=100, output_file="oncology_articles.json")
+
