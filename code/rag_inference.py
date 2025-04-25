@@ -1,85 +1,92 @@
-import faiss
+import os
+import openai
 import numpy as np
 import pandas as pd
-from openai import OpenAI
+import faiss
+from neo4j import GraphDatabase
 from dotenv import load_dotenv
-import os
 
+# Load environment variables
 load_dotenv()
 
-# Paths
-VECTOR_DIR = "vector_store"
-DATA_DIR = "data"
+# Config
+NEO4J_URI = os.getenv("NEO4J_URI")
+NEO4J_USER = os.getenv("NEO4J_USER")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+VECTOR_DIR = os.getenv("VECTOR_DIR", "vector_store")
 
-client = OpenAI()
+# Setup
+openai.api_key = OPENAI_API_KEY
 
-# Load FAISS Index
-faiss_index = faiss.read_index(os.path.join(VECTOR_DIR, "openai_embeddings.faiss"))
+def load_vector_store(vector_dir):
+    index = faiss.read_index(os.path.join(vector_dir, "openai_embeddings.faiss"))
+    metadata = pd.read_csv(os.path.join(vector_dir, "metadata.csv"))
+    return index, metadata
 
-# Load Chunk Data
-chunk_df = pd.read_csv(os.path.join(DATA_DIR, "chunked_docs.csv"))
+def embed_query(query, model="text-embedding-ada-002"):
+    response = openai.Embedding.create(input=query, model=model)
+    return np.array(response['data'][0]['embedding']).astype('float32')
 
-# Generate embeddings directly from OpenAI
-def embed_query(query, model="text-embedding-3-small"):
-    response = client.embeddings.create(input=query, model=model)
-    return np.array(response.data[0].embedding).astype('float32').reshape(1, -1)
+def retrieve_documents(query_embedding, index, metadata, top_k=5):
+    D, I = index.search(np.array([query_embedding]), top_k)
+    results = metadata.iloc[I[0]].to_dict(orient="records")
+    return results
 
-# RAG query function
-def query_rag(user_query, top_k=3):
-    # 1. Embed the user's query
-    query_vector = embed_query(user_query)
+def retrieve_knowledge_graph(query, driver, top_k=5):
+    with driver.session() as session:
+        result = session.run(
+            """
+            MATCH (a:Entity)-[r]->(b:Entity)
+            WHERE toLower(a.name) CONTAINS toLower($query) OR toLower(b.name) CONTAINS toLower($query)
+            RETURN a.name AS head, type(r) AS relation, b.name AS tail
+            LIMIT $top_k
+            """,
+            query=query,
+            top_k=top_k
+        )
+        return [record.data() for record in result]
 
-    # 2. Retrieve top-K similar chunks
-    distances, indices = faiss_index.search(query_vector, top_k)
-    retrieved_chunks = chunk_df.iloc[indices[0]]["chunk_text"].tolist()
-    retrieved_dois = chunk_df.iloc[indices[0]]["doi"].tolist()
+def generate_answer(query, docs, triples):
+    context = "".join([f"- {doc['title']} (DOI: {doc['doi']})\n" for doc in docs])
+    kg_context = "".join([f"- {triple['head']} {triple['relation']} {triple['tail']}\n" for triple in triples])
 
-    # 3. Construct the RAG prompt
-    prompt = construct_prompt(user_query, retrieved_chunks)
-
-    # 4. Generate LLM response
-    response = generate_completion(prompt)
-
-    return response, retrieved_chunks, retrieved_dois
-
-# Helper: Prompt construction
-def construct_prompt(query, context_chunks):
-    context_text = "\n---\n".join(context_chunks)
     prompt = f"""
-    You are an AI assistant summarizing the latest medical research for a healthcare professional.
-    Use the context provided to answer the query clearly and concisely.
+You are a biomedical assistant. Use the following document summaries and structured knowledge triples to answer the user's query.
 
-    Context:
-    {context_text}
+Documents:
+{context}
 
-    Query:
-    {query}
+Knowledge Graph Triples:
+{kg_context}
 
-    Answer:
-    """
-    return prompt.strip()
+Query: {query}
 
-# Helper: LLM completion call
-def generate_completion(prompt, model="gpt-4-turbo", max_tokens=300):
-    completion = client.chat.completions.create(
-        model=model,
-        messages=[
-            {"role": "system", "content": "You are a helpful medical research assistant."},
-            {"role": "user", "content": prompt}
-        ],
-        max_tokens=max_tokens,
-        temperature=0.2,
+Answer in both a clinical professional format and a simplified patient-friendly format.
+"""
+    
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3,
     )
-    return completion.choices[0].message.content.strip()
+    return response['choices'][0]['message']['content']
 
-# Example execution
+def main():
+    query = input("Enter your medical research query: ")
+
+    index, metadata = load_vector_store(VECTOR_DIR)
+    driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+
+    query_embedding = embed_query(query)
+    docs = retrieve_documents(query_embedding, index, metadata)
+    triples = retrieve_knowledge_graph(query, driver)
+
+    answer = generate_answer(query, docs, triples)
+    print("\n\n===== Generated Answer =====\n")
+    print(answer)
+
+    driver.close()
+
 if __name__ == "__main__":
-    query = "What are recent findings on beta-blockers in heart failure management?"
-    summary, context_used, context_dois = query_rag(query)
-
-    print("🩺 Generated Summary:")
-    print(summary)
-    print("\n🔖 Context used:")
-    for idx, (chunk, doi) in enumerate(zip(context_used, context_dois), 1):
-        print(f"Chunk {idx}: {chunk[:200]}...")  # preview first 200 chars
-        print(f"DOI: {doi}")
+    main()
