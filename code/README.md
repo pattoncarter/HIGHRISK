@@ -1,4 +1,4 @@
-# 🧬 Explainable HybridRAG Oncology Research Assistant
+# Explainable HybridRAG Oncology Research Assistant
 
 This project is a fully containerized, production-grade **Explainable LightRAG + Knowledge Graph Retrieval** system for biomedical research, with a focus on **oncology**.
 
@@ -12,7 +12,7 @@ Designed for researchers who need **grounded, explainable answers** in oncology,
 
 ---
 
-## 📦 Main Components
+## Main Components
 
 - **Frontend**: Streamlit Web App
 - **KG Storage**: Neo4j Database (Dockerized)
@@ -23,7 +23,7 @@ Designed for researchers who need **grounded, explainable answers** in oncology,
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to launch the entire system:
 
@@ -44,14 +44,14 @@ NEO4J_PASSWORD=password
 VECTOR_DIR=vector_store
 ARTICLES_FILE=data/oncology_articles_100.json
 
-✅ Replace your_openai_api_key with your actual OpenAI API key.
+Replace your_openai_api_key with your actual OpenAI API key.
 3. Build and Launch the System
 
 Use make to spin everything up easily:
 
 make up
 
-✅ This will:
+This will:
 
     Start Neo4j inside Docker.
 
@@ -65,7 +65,7 @@ make up
 
     Launch the Streamlit frontend on http://localhost:8501.
 
-🛠 Project Directory Structure
+Project Directory Structure
 
 /app/
   fetch_pubmed.py
@@ -82,14 +82,14 @@ make up
   /data/                      # Downloaded abstracts
   /subgraphs/                 # Subgraph visualizations
 
-🧪 Available Makefile Commands
+Available Makefile Commands
 Command	Description
 make up	Build and launch the system (Neo4j + App + Frontend)
 make down	Shut down and clean up containers
 make logs	View live container logs (debugging)
 make rebuild	Force rebuild all images from scratch
 make recover	Restore the Knowledge Graph into Neo4j from triples_backup.jsonl
-🔥 Recovery Instructions (if Neo4j is Lost)
+Recovery Instructions (if Neo4j is Lost)
 
 If the Neo4j database becomes corrupted or is reset:
 
@@ -101,7 +101,7 @@ make up
 
 make recover
 
-✅ This will:
+This will:
 
     Read from data/triples_backup.jsonl
 
@@ -110,7 +110,7 @@ make recover
     Rebuild the biomedical Knowledge Graph automatically
 
 No need to re-fetch articles or re-embed abstracts!
-⚡ Example Workflow for a New Researcher
+Example Workflow for a New Researcher
 
     Pull the repo
 
@@ -128,28 +128,10 @@ make up
 
     Export your results as JSON if needed.
 
-📋 Notes
+Notes
 
     This system is fully local — no cloud infrastructure required.
 
     If needed, it can easily be deployed to AWS/GCP/Azure via Docker Compose or ECS.
 
     PubMed data fetching is limited by OpenAI API and PubMed API quotas if running at large scale.
-
-🚀 Future Improvements (Ideas)
-
-    Auto-backup updated Neo4j database at intervals
-
-    GraphQL API access to the Knowledge Graph
-
-    Deploy multi-user version with authentication
-
-    Live subgraph clustering and advanced visualization
-
-🙏 Acknowledgments
-
-    Thanks to the PubMed database for public biomedical abstracts.
-
-    Thanks to OpenAI for GPT models.
-
-    Thanks to Neo4j and FAISS teams for incredible open source tools.
