@@ -163,9 +163,7 @@ def build_subgraph(node_ids, driver, output_path="subgraph.json"):
 
     print(f"Subgraph saved to {output_path}")
 
-def main():
-    query = input("Enter your medical research query: ")
-
+def run_inference(query):
     index, metadata = load_vector_store(VECTOR_DIR)
     node_index, node_metadata = load_node_store(VECTOR_DIR)
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
@@ -177,17 +175,16 @@ def main():
 
     answer, dois, node_ids = generate_answer(query, docs, graph_paths)
 
-    print("\n\n===== Generated Answer =====\n")
-    print(answer)
-    print("\n===== Sources =====")
-    print(f"DOIs Used: {dois}")
-    print(f"Node IDs Used: {node_ids}")
-
+    SUBGRAPH_DIR = "subgraphs"
+    os.makedirs(SUBGRAPH_DIR, exist_ok=True)
+    
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    subgraph_filename = f"subgraph_{timestamp}.json"
+    subgraph_filename = os.path.join(SUBGRAPH_DIR, f"subgraph_{timestamp}.json")
+    viz_html_filename = os.path.join(SUBGRAPH_DIR, f"subgraph_visualization_{timestamp}.html")
+
     build_subgraph(node_ids, driver, output_path=subgraph_filename)
-    visualize_subgraph(subgraph_path=subgraph_filename)
+    visualize_subgraph(subgraph_path=subgraph_filename, output_html=viz_html_filename)
+
     driver.close()
 
-if __name__ == "__main__":
-    main()
+    return answer, dois, node_ids, subgraph_filename, viz_html_filename

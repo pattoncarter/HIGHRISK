@@ -42,7 +42,7 @@ def visualize_subgraph(subgraph_path, output_html="subgraphs/subgraph_visualizat
 
     # Generate HTML file
     net.show(output_html, notebook=False)
-    print(f"✅ Subgraph visualization saved to {output_html}")
+    print(f"Subgraph visualization saved to {output_html}")
 
 if __name__ == "__main__":
     visualize_subgraph("subgraph_20250426_161843.json", output_html="subgraphs/subgraph_visualization.html")
