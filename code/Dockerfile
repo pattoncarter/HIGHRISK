@@ -1,21 +1,23 @@
-# Use official Python image
-FROM python:3.11-slim
+# Use a lightweight Python image
+FROM python:3.10-slim
+
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
 
 # Set working directory
 WORKDIR /app
 
-# Install system dependencies
-RUN apt-get update && apt-get install -y gcc libpq-dev
+# Copy your entire project
+COPY . /app
 
 # Install Python dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
 
-# Copy the code
-COPY . .
+# Create necessary folders if missing
+RUN mkdir -p vector_store data subgraphs
 
-# Set environment variables (optional, otherwise use --env-file)
-ENV PYTHONUNBUFFERED=1
-
-# Default command
-CMD ["python", "rag_inference.py"]
+# Default Command:
+# Fetch new documents -> Preprocess into Neo4j -> Launch Streamlit frontend
+CMD ["bash", "-c", "python fetch_pubmed.py && python hybridRAG_preprocess.py && streamlit run streamlit_frontend.py --server.port=8501 --server.address=0.0.0.0"]
