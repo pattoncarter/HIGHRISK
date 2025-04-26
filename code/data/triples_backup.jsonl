@@ -40,3 +40,96 @@
 {"head": "YAP and PARK2", "relation": "could serve as", "tail": "diagnostic and prognostic markers"}
 {"head": "YAP and PARK2", "relation": "might act through", "tail": "common mechanism"}
 {"head": "Common mechanism", "relation": "could be", "tail": "hippo/YAP signaling"}
+{"head": "Oral squamous cell carcinoma", "relation": "is most prevalent", "tail": "oral cancers"}
+{"head": "YAP", "relation": "serves as", "tail": "transcriptional regulator in hippo tumor suppressor pathway"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular proliferation"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular alteration"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular migration"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular invasion"}
+{"head": "PARK2", "relation": "acts as", "tail": "tumor suppressor"}
+{"head": "PARK2", "relation": "role in", "tail": "OSCC carcinogenesis"}
+{"head": "Immunohistochemical expression", "relation": "of", "tail": "YAP"}
+{"head": "Immunohistochemical expression", "relation": "of", "tail": "PARK2"}
+{"head": "YAP", "relation": "showed gradual incline from", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "PARK2", "relation": "showed reverse trend", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "YAP and PARK2 expression", "relation": "showed significant difference", "tail": "between three groups"}
+{"head": "YAP and PARK2", "relation": "showed inverse moderate degree of correlation", "tail": "in OSCC group"}
+{"head": "YAP and PARK2", "relation": "could serve as", "tail": "diagnostic and prognostic markers"}
+{"head": "YAP and PARK2", "relation": "might act through", "tail": "common mechanism"}
+{"head": "Common mechanism", "relation": "could be", "tail": "hippo/YAP signaling"}
+{"head": "Oral squamous cell carcinoma", "relation": "is most prevalent", "tail": "oral cancers"}
+{"head": "YAP", "relation": "serves as", "tail": "transcriptional regulator in hippo tumor suppressor pathway"}
+{"head": "YAP", "relation": "activates", "tail": "transcription of genes in cellular proliferation"}
+{"head": "YAP", "relation": "activates", "tail": "transcription of genes in cellular alteration"}
+{"head": "YAP", "relation": "activates", "tail": "transcription of genes in cellular migration"}
+{"head": "YAP", "relation": "activates", "tail": "transcription of genes in cellular invasion"}
+{"head": "PARK2", "relation": "acts as", "tail": "tumor suppressor"}
+{"head": "PARK2", "relation": "role in", "tail": "OSCC carcinogenesis"}
+{"head": "Immunohistochemical expression", "relation": "of", "tail": "YAP"}
+{"head": "Immunohistochemical expression", "relation": "of", "tail": "PARK2"}
+{"head": "Immunohistochemical expression of YAP", "relation": "showed", "tail": "gradual incline from normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "Immunohistochemical expression of PARK2", "relation": "showed", "tail": "reverse trend from normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "YAP and PARK2 expression", "relation": "showed", "tail": "significant difference between three groups"}
+{"head": "YAP and PARK2", "relation": "had", "tail": "inverse moderate degree of correlation in OSCC group"}
+{"head": "YAP and PARK2", "relation": "could serve as", "tail": "diagnostic and prognostic markers"}
+{"head": "YAP and PARK2", "relation": "might act through", "tail": "common mechanism"}
+{"head": "Common mechanism", "relation": "could be", "tail": "hippo/YAP signaling"}
+{"head": "Oral squamous cell carcinoma", "relation": "is most prevalent", "tail": "oral cancers"}
+{"head": "YAP", "relation": "serves as", "tail": "transcriptional regulator in hippo tumor suppressor pathway"}
+{"head": "YAP", "relation": "activates", "tail": "transcription of genes taking part in cellular proliferation"}
+{"head": "YAP", "relation": "activates", "tail": "transcription of genes taking part in cellular alteration"}
+{"head": "YAP", "relation": "activates", "tail": "transcription of genes taking part in cellular migration"}
+{"head": "YAP", "relation": "activates", "tail": "transcription of genes taking part in cellular invasion"}
+{"head": "PARK2", "relation": "acts as", "tail": "tumor suppressor"}
+{"head": "PARK2", "relation": "role in", "tail": "OSCC carcinogenesis"}
+{"head": "Immunohistochemical expression of YAP", "relation": "increases from", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "Immunohistochemical expression of PARK2", "relation": "decreases from", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "YAP and PARK2", "relation": "could serve as", "tail": "diagnostic and prognostic markers"}
+{"head": "YAP and PARK2", "relation": "might act through", "tail": "common mechanism"}
+{"head": "Common mechanism", "relation": "could be", "tail": "hippo/YAP signaling"}
+{"head": "Oral squamous cell carcinoma", "relation": "is most prevalent", "tail": "oral cancers"}
+{"head": "YAP", "relation": "serves as", "tail": "transcriptional regulator in hippo tumor suppressor pathway"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular proliferation"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular alteration"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular migration"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular invasion"}
+{"head": "PARK2", "relation": "acts as", "tail": "tumor suppressor"}
+{"head": "PARK2", "relation": "role in", "tail": "OSCC carcinogenesis"}
+{"head": "YAP and PARK2", "relation": "evaluated in", "tail": "oral epithelial dysplasia"}
+{"head": "YAP and PARK2", "relation": "evaluated in", "tail": "Oral Squamous Cell Carcinoma"}
+{"head": "YAP and PARK2", "relation": "potential to be", "tail": "prognostic markers"}
+{"head": "YAP", "relation": "shows gradual incline from", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "PARK2", "relation": "shows reverse trend", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "YAP and PARK2", "relation": "have significant difference of expression", "tail": "between three groups"}
+{"head": "YAP and PARK2", "relation": "have inverse moderate degree of correlation", "tail": "in OSCC group"}
+{"head": "YAP and PARK2", "relation": "could serve as", "tail": "diagnostic and prognostic markers"}
+{"head": "YAP and PARK2", "relation": "act through", "tail": "common mechanism"}
+{"head": "Common mechanism", "relation": "could be", "tail": "hippo/YAP signaling"}
+{"head": "Oral squamous cell carcinoma", "relation": "is the most prevalent", "tail": "oral cancers"}
+{"head": "YAP", "relation": "serves as", "tail": "a transcriptional regulator in hippo tumor suppressor pathway"}
+{"head": "YAP", "relation": "activates", "tail": "the transcription of genes taking part in cellular proliferation"}
+{"head": "PARK2", "relation": "acts as", "tail": "a tumor suppressor"}
+{"head": "PARK2", "relation": "has been explored in", "tail": "various malignancies"}
+{"head": "YAP and PARK2", "relation": "evaluated in", "tail": "oral epithelial dysplasia and Oral Squamous Cell Carcinoma"}
+{"head": "YAP and PARK2", "relation": "could be established as", "tail": "prognostic markers"}
+{"head": "Immunohistochemical expression of YAP", "relation": "depicted a gradual incline from", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "PARK2", "relation": "showed a reverse trend", "tail": "Immunohistochemical expression"}
+{"head": "Significant difference", "relation": "was noted", "tail": "YAP and PARK2 expression between three groups"}
+{"head": "Inverse moderate degree of correlation", "relation": "was observed", "tail": "between YAP and PARK2 in OSCC group"}
+{"head": "YAP and PARK2", "relation": "could serve as", "tail": "diagnostic and prognostic markers"}
+{"head": "YAP and PARK2", "relation": "might act through", "tail": "a common mechanism"}
+{"head": "Oral squamous cell carcinoma", "relation": "is most prevalent", "tail": "oral cancers"}
+{"head": "YAP", "relation": "serves as", "tail": "transcriptional regulator in hippo tumor suppressor pathway"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular proliferation"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular alteration"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular migration"}
+{"head": "YAP", "relation": "activates transcription of", "tail": "genes involved in cellular invasion"}
+{"head": "PARK2", "relation": "acts as", "tail": "tumor suppressor"}
+{"head": "PARK2", "relation": "role in", "tail": "OSCC carcinogenesis"}
+{"head": "Immunohistochemical expression of YAP", "relation": "increases from", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "Immunohistochemical expression of PARK2", "relation": "decreases from", "tail": "normal oral mucosa to oral squamous cell carcinoma"}
+{"head": "YAP and PARK2 expression", "relation": "shows significant difference", "tail": "between normal oral mucosa"}
+{"head": "YAP and PARK2", "relation": "shows inverse moderate degree of correlation", "tail": "in OSCC group"}
+{"head": "YAP and PARK2", "relation": "could serve as", "tail": "diagnostic and prognostic markers"}
+{"head": "YAP and PARK2", "relation": "might act through", "tail": "common mechanism"}
+{"head": "Common mechanism", "relation": "could be", "tail": "hippo/YAP signaling"}

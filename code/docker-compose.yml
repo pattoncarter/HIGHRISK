@@ -1,27 +1,14 @@
 version: "3.8"
 
 services:
-  app:
-    build: .
-    container_name: hybrid_rag_app
-    env_file:
-      - .env
-    ports:
-      - "8501:8501"  # If you want to expose a UI later
-    volumes:
-      - ./data:/app/data
-      - ./vector_store:/app/vector_store
-    depends_on:
-      - neo4j
-
   neo4j:
     image: neo4j:5
     container_name: neo4j
     ports:
-      - "7474:7474"
-      - "7687:7687"
+      - "7474:7474"  # Browser GUI
+      - "7687:7687"  # Bolt (Python connector)
     environment:
-      - NEO4J_AUTH=neo4j/password
+      - NEO4J_AUTH=none
     volumes:
       - neo4j_data:/data
 

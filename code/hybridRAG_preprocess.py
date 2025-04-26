@@ -21,6 +21,8 @@ ARTICLES_FILE = os.getenv("ARTICLES_FILE", "data/oncology_articles.json")
 BACKUP_FILE = os.getenv("BACKUP_FILE", "data/triples_backup.jsonl")
 VECTOR_DIR = os.getenv("VECTOR_DIR", "vector_store")
 
+#print(NEO4J_URI, NEO4J_PASSWORD, NEO4J_USER)
+
 # Setup
 openai.api_key = OPENAI_API_KEY
 os.makedirs(os.path.dirname(BACKUP_FILE), exist_ok=True)
@@ -89,7 +91,7 @@ def save_embeddings_and_metadata(embeddings, metadata, vector_dir):
 
 def main():
     articles = load_articles(ARTICLES_FILE)
-    driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+    driver = GraphDatabase.driver(NEO4J_URI)
 
     texts = []
     metadata = []
