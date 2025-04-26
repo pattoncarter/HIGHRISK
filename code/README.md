@@ -32,7 +32,7 @@ Follow these steps to launch the entire system:
 ```bash
 git clone https://your-repo-url.git
 cd your-project-folder
-
+```
 2. Create a .env File
 
 At the project root, create a .env file containing:
