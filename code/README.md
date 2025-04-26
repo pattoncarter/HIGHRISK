@@ -138,7 +138,7 @@ make up
 ```
 
 4. Open your browser and navigate to [http://localhost:8501](http://localhost:8501).
-5. Enter a clinical research query (for example, "How does Metformin affect breast cancer?").
+5. Enter a clinical research query (for example, "How does Metformin affect breast cancer treatments?").
 6. Review the generated answer, sources, and interact with the subgraph visualization.
 7. Export your results as JSON if needed.
 
