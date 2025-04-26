@@ -1,0 +1,2353 @@
+element_id,name
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:0,Activation of NOTCH pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1,Specific markers and signaling pathways of cancer stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2,treatment targets
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:3,Glioma stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:4,immunosuppressive effectors mimicking regulatory T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:5,Immunosuppressive Treg-like GSC state
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:6,mesenchymal GSC subset
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:7,TGFβ type II receptor (TGFBR2)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:8,TGFBR1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:9,Transgenic TGFBR2 expression in patient-derived GBM neurospheres
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:10,mesenchymal transition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:11,six-gene ITL signature
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:12,Six-gene ITL signature
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:13,CD274 (PD-L1)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:14,NT5E (CD73)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:15,ENTPD1 (CD39)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:16,LGALS1 (galectin-1)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:17,PDCD1LG2 (PD-L2)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:18,TGFB1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:19,TGFBR2-driven ITL signature
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:20,clinical GBM specimens
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:21,patient-derived GSCs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:22,systemic mesenchymal malignancies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:23,TGFBR2high GSCs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:24,CD4+ T cell viability
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:25,CD8+ T cell viability
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:26,capacity of CD4+ and CD8+ T cells to kill GBM cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:27,Pharmacologic and shRNA-based TGFBR2 inhibition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:28,inhibition of CD4+ and CD8+ T cell viability and function by TGFBR2high GSCs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:29,Immunosuppressive GSC state
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:30,true
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:31,TGFBR2-targeted therapeutics
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:32,HMGB1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:33,various cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:34,RAGE
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:35,HMGB1/RAGE signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:36,Metformin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:37,HMGB1 pro-inflammatory functions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:38,HMGB1-induced cell migration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:39,RAGE stabilization on the cell membrane
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:40,NF-κB signaling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:41,epithelial-to-mesenchymal transition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:42,E-cadherin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:43,vimentin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:44,β-catenin at the cell membrane
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:45,HMGB1 protein levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:46,RAGE protein levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:47,HMGB1/RAGE positive feedback loop
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:48,cancer aggressiveness
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:49,HMGB1/RAGE-driven metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:50,Lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:51,very poor prognosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:52,Immunotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:53,mainstay therapy mode
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:54,targeted therapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:55,Combination therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:56,efficacy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:57,resistance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:58,Several genetic signatures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:59,therapy resistance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:60,metastatic potential
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:61,Machine learning techniques
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:62,predictive potential of genetic signatures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:63,Artificial intelligence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:64,Immune checkpoint inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:65,key aspect of immunotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:66,PD-L1 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:67,molecular biomarker
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:68,Tumour mutation burden
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:69,Immunoscore
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:70,Neoantigens
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:71,molecular biomarkers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:72,treatment response
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:73,tissues
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:74,targeted organs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:75,Softness of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:76,universal physical marker for malignancy of cancer types
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:77,Stiffer cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:78,more metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:79,Biophysical techniques
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:80,mechanical properties of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:81,Culture and measurement conditions of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:82,mechanical measurements
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:83,Microenvironment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:84,mechanical characteristics of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:85,Combinatorial approaches
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:86,malignant potential of tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:87,ECM involvement
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:88,combinatorial approaches
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:89,Cells in homogeneous or heterogeneous association
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:90,Biological multi-omics analyses
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:91,Dynamic-mechanical analysis of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:92,Malignant pleural mesothelioma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:93,aggressive cancer of the pleural lining
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:94,asbestos exposure
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:95,Epithelial-mesenchymal transition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:96,MPM pathogenesis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:97,MPM metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:98,MPM resistance to therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:99,TGF-β signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:100,EMT in MPM
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:101,Wnt/β-catenin signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:102,PI3K/Akt signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:103,EMT-related biomarkers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:104,diagnostic significance in MPM
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:105,prognostic significance in MPM
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:106,Targeted therapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:107,reversing EMT
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:108,EMT-induced vulnerabilities
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:109,MARS 2 trial
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:110,clinical trial related to MPM treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:111,Bone morphogenetic proteins
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:112,"developmental processes such as limb, kidney and lung formation, cell fate determination, cell proliferation, and apoptosis"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:113,a subpopulation of self-renewing cells within tumors that possess stemness properties and a tumor cell-forming capability
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:114,"growth, metastasis, treatment resistance and cancer recurrence"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:115,Tumor microenvironment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:116,"onset, progression and treatment resistance in many cancers"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:117,Bone morphogenetic proteins and growth differentiation factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:118,transforming growth factor-beta in maintenance of CSC pluripotency and cancer cell differentiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:119,BMP signaling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:120,tumor suppressor in various cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:121,CSC differentiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:122,stemness characteristics
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:123,Differentiation process
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:124,self-renewal capacity of CSCs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:125,Self-renewal capacity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:126,GREMLIN1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:127,a secreted antagonist of BMPs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:128,"human cancers such as gastric, colorectal, glioblastoma, and breast cancer"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:129,GREMLIN1 overexpression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:130,Inhibition of BMP signaling by GREMLIN1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:131,maintenance of pluripotency in CSCs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:132,Maintenance of pluripotency in CSCs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:133,tumorigenesis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:134,CSC immune evasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:135,fibroblast growth factor to Sonic hedgehog signaling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:136,Wnt/Frizzled pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:137,Fibroblast growth factor to Sonic hedgehog signaling and Wnt/Frizzled pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:138,maintenance of CSC stemness
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:139,Inhibiting GREMLIN1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:140,CSC burden in cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:141,patient outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:142,malignant pathology
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:143,Drug resistance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:144,poor prognosis of neoplastic diseases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:145,utility of therapeutic protocols
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:146,Autophagy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:147,nutrient recycling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:148,metabolic adaptation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:149,Autophagy inhibition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:150,response to cancer therapeutics
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:151,Lysosomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:152,autophagy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:153,anticancer treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:154,Lysosome-associated membrane glycoproteins (LAMPs)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:155,cancer development
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:156,LAMPs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:157,drug resistance in colorectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:158,Allogeneic hematopoietic stem cell transplantation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:159,acute myeloid leukemia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:160,Risk stratification
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:161,molecular profiling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:162,measurable residual disease assessment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:163,Post-transplant cyclophosphamide
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:164,graft-versus-host disease prophylaxis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:165,Advances in risk stratification
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:166,outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:167,Advances in conditioning regimens
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:168,Advances in graft-versus-host disease prophylaxis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:169,donor selection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:170,transplant eligibility
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:171,Chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:172,leukemia treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:173,Targeted therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:174,Post-transplant maintenance therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:175,Artesunate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:176,metastatic potential in cisplatin-resistant bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:177,growth in cisplatin-sensitive bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:178,growth in cisplatin-resistant bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:179,tumor cell adhesion to vascular endothelium in parental bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:180,tumor cell adhesion to vascular endothelium in cisplatin-resistant bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:181,tumor cell adhesion to immobilized collagen in parental bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:182,tumor cell adhesion to immobilized collagen in cisplatin-resistant bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:183,tumor cell motility in bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:184,integrin expression in bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:185,Functional blocking of integrins altered by Artesunate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:186,cell adhesion in bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:187,invasion of bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:188,Systemic lupus erythematosus
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:189,radiosensitivity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:190,Chromosomal aberrations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:191,SLE patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:192,chromosomal aberrations than healthy individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:193,chromosomal aberrations than cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:194,Non-oncologic SLE patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:195,chromosomal aberrations as healthy individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:196,Patients with SLE and cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:197,healthy individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:198,patients with isolated cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:199,patients with isolated SLE
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:200,45% of patients in oncologic SLE cohort
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:201,increased radiosensitivity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:202,Anti-Ro-52 autoantibodies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:203,Radiation dose reduction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:204,11 oncological SLE patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:205,5 oncological SLE patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:206,up to 21% per fraction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:207,Inflammatory bowel disease
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:208,ulcerative colitis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:209,Crohn's disease
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:210,persistent intestinal inflammation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:211,Disease onset
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:212,genetic predisposition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:213,environmental factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:214,Genetic predisposition and environmental factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:215,intestinal immune homeostasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:216,Intestinal microbiome and immune response
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:217,disease progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:218,Advances in molecular therapies and early interventions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:219,surgery rates
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:220,significant concern
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:221,chronic inflammation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:222,Risk of UC-associated neoplasia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:223,disease duration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:224,Crohn's disease patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:225,small intestine cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:226,anal fistula cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:227,anal canal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:228,Endoscopic surveillance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:229,UC-associated neoplasia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:230,UC-associated neoplasia morphology
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:231,detection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:232,sporadic colorectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:233,dysplasia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:234,p53 mutations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:235,dysplasia stage
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:236,IBD-associated gastrointestinal cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:237,inflammation-driven carcinogenesis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:238,adenoma-carcinoma sequence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:239,Chemotherapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:240,side effects
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:241,adverse health implications
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:242,Cardiac and microvascular defects
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:243,greatest health risk
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:244,leading cause of death amongst cancer survivors who do not succumb to relapse
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:245,Cardiovascular risk of morbidity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:246,risk of recurrence in many low-grade cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:247,Polyphenols
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:248,naturally occurring metabolites
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:249,vasoprotective effects
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:250,antioxidant activities
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:251,anti-inflammatory activities
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:252,vascular signalling pathways
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:253,vascular toxicity induced by chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:254,Cancer risk
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:255,dysmetabolic obese or overweight people with overt type 2 diabetes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:256,individuals with intermediate hyperglycemia (pre-diabetes)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:257,25 to 250%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:258,pancreatic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:259,hepatocellular cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:260,obesity-related cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:261,Obesity-related cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:262,colorectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:263,kidney cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:264,bladder cancer in men
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:265,endometrial cancer in women
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:266,breast cancer in women
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:267,Cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:268,diabetes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:269,Insulin resistance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:270,cardiorenal disease
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:271,cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:272,Hyperinsulinemia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:273,"Ectopic visceral, hepatic, pancreatic, or renal fat accumulation"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:274,inflammation and lipo-oncogenic signals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:275,Inflammation and lipo-oncogenic signals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:276,mitochondrial oxidative stress and deregulation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:277,mitogenic MAP kinase-related signaling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:278,Mitogenic MAP kinase-related signaling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:279,IGF1 receptors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:280,Increased free IGF1 levels in obesity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:281,mitogenic MAP kinase-related signaling via IGF1 receptors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:282,Weight reduction of 10% or more in obese people with diabetes or pre-diabetes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:283,significantly lower incidence of diabesity-associated cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:284,Intensive lifestyle intervention
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:285,weight reduction of 10% or more in obese people with diabetes or pre-diabetes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:286,Bariatric (metabolic) surgery
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:287,Treatment with GLP-1 receptor agonists
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:288,Treatment with metformin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:289,Cardio-Renal-Metabolic-Cancer Syndrome approach
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:290,looking for cancer at the time of diabetes diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:291,proactively screening for undiagnosed dysglycemia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:292,primary brain tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:293,rapid growth
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:294,extensive infiltration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:295,resistance to standard therapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:296,Glioblastoma stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:297,self-renewal capacity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:298,multipotency
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:299,regenerate tumor heterogeneity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:300,glioblastoma progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:301,resistance to chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:302,resistance to radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:303,tumor recurrence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:304,distinct molecular signatures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:305,enhanced DNA repair
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:306,metabolic adaptations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:307,Metabolic adaptations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:308,glioblastoma stem cells against conventional treatments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:309,specialized niches
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:310,Specialized niches
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:311,perivascular microenvironments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:312,hypoxic microenvironments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:313,stemness
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:314,immunosuppression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:315,Notch signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:316,glioblastoma stem cell maintenance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:317,Hedgehog signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:318,STAT3-PARN signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:319,TFPI2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:320,HML-2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:321,glioblastoma stem cell plasticity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:322,glioblastoma stem cell immune evasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:323,Emerging therapeutic strategies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:324,glioblastoma stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:325,surface markers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:326,immunotherapeutics
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:327,Immunotherapeutics
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:328,CAR T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:329,metabolic vulnerabilities
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:330,combination regimens
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:331,Patient-derived organoids
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:332,accurate representation of tumor ecosystem
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:333,Single-cell omics
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:334,3D co-culture models
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:335,Improved understanding of glioblastoma stem cell-specific targets and tumor microenvironment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:336,more effective interventions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:337,More effective interventions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:338,better clinical outcomes for glioblastoma patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:339,Glioblastoma in patients affected by NF1 germline mutation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:340,a unique heterogeneous clinical and pathological entity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:341,NF1-associated GBM
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:342,standard therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:343,GBM in the non-NF1 population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:344,Case 1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:345,38-year-old woman with cerebellar GBM
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:346,surgical asportation and the Stupp protocol many times
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:347,117 months
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:348,Case 2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:349,47-year-old woman with GBM in the eloquent area of the right frontal lobe
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:350,surgical asportation and the Stupp protocol
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:351,25 months
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:352,NF1-associated GBM patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:353,long-term survivors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:354,Androgen receptor pathway inhibitors (ARPI)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:355,advanced prostate cancer (PCa)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:356,Patients with metastatic castration-sensitive PCa (mCSPC)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:357,metastatic castration-resistant PCa (mCRPC)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:358,Patients with nonmetastatic castration-sensitive PCa (nmCSPC)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:359,Early use of ARPIs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:360,advanced prostate cancer (PCa) at CAD 100K per QALY threshold
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:361,mCSPC-starting patients at CAD 50K per QALY threshold
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:362,nmCSPC-starting patients at CAD 50K per QALY threshold
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:363,Abiraterone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:364,current Canadian prices
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:365,lower price level
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:366,Two million people
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:367,lung cancer each year
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:368,85% of lung cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:369,non-small cell lung cancer (NSCLC)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:370,advanced/metastatic NSCLC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:371,Study population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:372,4841 Stage IB-IIIA NSCLC patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:373,Mean age
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:374,70.9 ± 8.6 years
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:375,69.9% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:376,definitive treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:377,Definitive treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:378,definitive radiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:379,definitive chemoradiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:380,30.1% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:381,52.6% of surgery patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:382,perioperative systemic therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:383,52.2% of radiation patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:384,75.5% of chemoradiation patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:385,Neoadjuvant use
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:386,surgery patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:387,radiation patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:388,chemoradiation patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:389,54.6% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:390,adjuvant therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:391,definitive radiation patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:392,Surgical patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:393,platinum-doublet therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:394,Surgical patient outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:395,all groups
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:396,Definitive chemoradiation or radiation patients without systemic therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:397,lower survival rates
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:398,Bispecific T-cell engager (TCE)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:399,relapsed or refractory multiple myeloma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:400,T-cell engagers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:401,sustained efficacy in patients with heavily treated myeloma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:402,progression-free survival benefits in patients with heavily treated myeloma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:403,Bispecific T-cell engager (TCE) therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:404,cytokine release syndrome (CRS)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:405,immune effector cell-associated neurotoxicity syndrome (ICANS)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:406,infections
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:407,annual per-beneficiary spending
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:408,32.8%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:409,CAD 4422 in 2017/18 to CAD 6579 in 2020/21
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:410,small-molecule targeted therapy and immunotherapy drug classes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:411,three-quarters of total public payer spending on take-home cancer medications in 2020/21
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:412,less than 8% of beneficiaries
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:413,SARS-CoV-2 emergency declaration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:414,short-term decline in per-beneficiary spending between March and June 2020
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:415,per-beneficiary spending
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:416,CAD 179 per month between March and June 2020
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:417,number of beneficiaries receiving low-cost take-home cancer medications within the cytotoxic chemotherapy and hormonal therapy drug class
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:418,5582 per month between March and June 2020
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:419,increase in number of beneficiaries receiving low-cost take-home cancer medications within the cytotoxic chemotherapy and hormonal therapy drug class
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:420,corresponding rise in public payer spending
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:421,Crizotinib
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:422,viability of bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:423,migration of bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:424,phosphorylated c-Met
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:425,phosphorylated Akt
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:426,c-Met/PI3K/Akt pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:427,cell proliferation in T24 bladder cancer cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:428,cell proliferation in T24R2 bladder cancer cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:429,migration in T24 bladder cancer cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:430,migration in T24R2 bladder cancer cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:431,invasion in T24 bladder cancer cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:432,invasion in T24R2 bladder cancer cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:433,apoptosis-related genes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:434,c-Met
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:435,PI3K/Akt pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:436,Physical activity interventions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:437,children and adolescents with cancer undergoing treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:438,physical fitness in children and adolescents with cancer undergoing treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:439,strength in children and adolescents with cancer undergoing treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:440,quality of life in children and adolescents with cancer undergoing treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:441,fatigue in children and adolescents with cancer undergoing treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:442,Physical activity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:443,cancer diagnosis and treatment in children and adolescents
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:444,cancer treatment in children and adolescents
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:445,Late radiation-associated dysphagia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:446,head and neck cancer survivorship
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:447,Fiberoptic Endoscopic Evaluation of Swallowing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:448,oropharyngeal dysphagia assessment in head and neck cancer population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:449,Swallowing safety
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:450,Penetration-Aspiration Scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:451,Swallowing efficacy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:452,Yale Pharyngeal Residue Severity Rating Scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:453,Six distinct dysphagia phenotypes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:454,head and neck cancer patients with late radiation-associated dysphagia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:455,Propulsion deficit
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:456,92% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:457,Delayed pharyngeal phase
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:458,37.5% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:459,Protective deficit
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:460,25% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:461,Multiple phenotypes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:462,46% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:463,Unsafe swallowing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:464,liquid consistency
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:465,Unsafe swallowing with liquid consistency
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:466,62.5% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:467,Residue with semisolid consistency
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:468,valleculae (82.6%)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:469,pyriform sinuses (52.2%)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:470,Residue with solid consistency
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:471,valleculae (92.3%)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:472,pyriform sinuses (53.8%)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:473,Penetration-aspiration scores
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:474,pharyngeal residue scores across consistencies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:475,FEES examination
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:476,late radiation-associated dysphagia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:477,Safety parameters
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:478,efficacy parameters in late radiation-associated dysphagia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:479,Salivary gland carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:480,3-6% of all head and neck cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:481,Surgical resection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:482,locoregional control of salivary gland carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:483,Radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:484,Systemic treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:485,recurrent or metastatic salivary gland carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:486,Molecular profiling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:487,actionable targets in salivary gland carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:488,Actionable targets
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:489,NTRK gene fusions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:490,HER2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:491,immune checkpoint regulators
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:492,androgen receptors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:493,RET receptors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:494,TRK inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:495,HER2-directed agents
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:496,androgen receptor modulators
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:497,combinations of immunotherapy and chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:498,Breast reconstruction after mastectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:499,quality of life for many patients with breast cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:500,Nipple-sparing mastectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:501,"provided there is no clinical, radiological, or pathological indication of nipple-areolar complex involvement"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:502,Surgical factors including incision location
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:503,rates of complications such as necrosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:504,Immediate reconstruction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:505,better short to medium-term quality of life
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:506,Immediate and delayed reconstruction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:507,similar long-term outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:508,Studies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:509,at least 3 months and more commonly at least 6 months
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:510,Radiation after immediate reconstruction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:511,a reasonable option
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:512,Surgical complications
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:513,prepectoral and dual-plane or subpectoral reconstruction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:514,Prepectoral placement
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:515,better quality of life due to lower rates of long-term complications such as pain and animation deformity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:516,Autologous fat grafting
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:517,oncologically safe
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:518,Use of autologous fat grafting
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:519,quality of life and aesthetic results
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:520,Combination of immunotherapy and radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:521,synergistic potential
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:522,CTLA-4 inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:523,clinical and preclinical studies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:524,PD-L1 inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:525,PD-1 inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:526,immunomodulatory mechanisms
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:527,Immunomodulatory mechanisms
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:528,in situ vaccination effect
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:529,abscopal distant response of lesions outside irradiation field
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:530,TIGIT
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:531,new therapeutic target
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:532,LAG-3
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:533,TIM-3
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:534,"New therapeutic targets TIGIT, LAG-3, TIM-3"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:535,traditional ICIs and radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:536,Dynamic evaluation of T lymphocyte expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:537,biomarker value in assessing response to combination therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:538,Combination therapy with traditional and new ICIs and irradiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:539,clinical trials in various tumor pathologies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:540,patients with metastatic non-small-cell lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:541,5-year overall survival rate of up to 10%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:542,pembrolizumab
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:543,patients with metastatic NSCLC and PD-L1 ≥ 50%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:544,first-line setting
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:545,patients with locally advanced and metastatic NSCLC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:546,PD-L1 ≥ 50%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:547,progression-free survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:548,9 months
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:549,14 months
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:550,five-year overall survival rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:551,six-year overall survival rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:552,17.2%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:553,immunotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:554,NSCLC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:555,Medical care structures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:556,urban and rural areas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:557,Brandenburg-Berlin Clinical-Epidemiological Cancer Registry
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:558,5805 cases of gastric carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:559,Preoperative therapy for cT3/cT4N0 tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:560,Berlin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:561,Berlin than in Brandenburg
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:562,Perioperative therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:563,survival benefit for stages T3-/T4N+
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:564,survival benefit for stages T1N+ or T2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:565,Survival data
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:566,no significant differences between Berlin and Brandenburg
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:567,Gastric cancer treatment outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:568,rural region of Brandenburg and urban center of Berlin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:569,Upper rectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:570,white blood cell count
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:571,neutrophil count
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:572,platelet count
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:573,C-reactive protein levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:574,Mid-lower rectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:575,preoperative carcinoembryonic antigen levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:576,lymphovascular invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:577,perineural invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:578,tumor budding
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:579,Age
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:580,ASA score
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:581,C-reactive protein
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:582,Preoperative carcinoembryonic antigen
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:583,Preoperative carbohydrate antigen 19-9
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:584,Lymphovascular invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:585,Perineural invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:586,Tumor budding
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:587,disease-free survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:588,T stage
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:589,Tumor size
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:590,Pancreatic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:591,one of the deadliest types of cancer globally
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:592,Early detection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:593,adverse outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:594,Screening
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:595,individuals at high risk
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:596,High risk individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:597,those with familial and/or genetic predispositions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:598,One-time screening for pancreatic cancer among high-risk individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:599,cost-effective compared with no screening
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:600,Annual screening for pancreatic cancer among high-risk individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:601,cost-effective
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:602,High risk
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:603,>5% lifetime risk of pancreatic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:604,individuals with familial pancreatic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:605,individuals with genetic susceptibility syndromes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:606,Genetic susceptibility syndromes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:607,Peutz-Jeghers Syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:608,hereditary pancreatitis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:609,hereditary non-polypoid colorectal cancer syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:610,familial adenomatous polyposis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:611,BRCA2 mutations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:612,Individuals with new-onset diabetes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:613,high-risk
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:614,Screening using mainly endoscopic ultrasound
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:615,familial pancreatic cancer individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:616,individuals with genetic syndromes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:617,Risk-based screening
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:618,patients with new-onset diabetes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:619,Cost-effectiveness of pancreatic cancer screening
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:620,epidemiological factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:621,cost
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:622,diagnostic performance of screening tools
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:623,overall design of studies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:624,Bone metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:625,cancer management
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:626,morbidity and mortality
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:627,Metastatic lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:628,lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:629,approximately 25% of cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:630,pain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:631,fractures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:632,neurological deficits
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:633,Oligometastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:634,limited metastatic spread (1-5 lesions)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:635,a potential window for curative treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:636,Curative treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:637,stereotactic ablative radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:638,resection surgery
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:639,Tumor boards
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:640,systemic therapies with local interventions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:641,treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:642,Folliculin (FLCN)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:643,thyroid tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:644,FLCN
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:645,Patient 1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:646,Birt-Hogg-Dubé (BHD) syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:647,oncocytic adenoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:648,thyroid tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:649,thyroidectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:650,Patient 2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:651,oncocytic poorly differentiated thyroid carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:652,Oncocytic poorly differentiated thyroid carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:653,extensive angioinvasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:654,high proliferative activity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:655,TP53 and RB1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:656,metastatic disease despite multimodal treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:657,Thyroid carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:658,1.1% of cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:659,Pathogenic FLCN mutations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:660,oncocytic morphology
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:661,Homozygous FLCN deletions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:662,genomically unstable tumors including anaplastic thyroid carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:663,FLCN mutations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:664,oncocytic thyroid neoplasms
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:665,FLCN deletions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:666,aggressive tumor evolution
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:667,Lack of FLCN coverage in standard thyroid molecular panels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:668,clinical relevance of FLCN
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:669,Including FLCN in genetic testing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:670,tumor detection and characterization
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:671,BHD patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:672,routine thyroid screening
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:673,Computed tomography-based radiomic nomogram
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:674,occult pleural metastasis in lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:675,carcinoembryonic antigen
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:676,occult pleural metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:677,neutrophil-to-lymphocyte ratio
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:678,clinical T stage
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:679,tumor-pleural relationship
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:680,clinical model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:681,area under the curve of 0.761
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:682,"integrated model combining radiomic scores, carcinoembryonic antigen, and neutrophil-to-lymphocyte ratio"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:683,area under the curve of 0.890 in training cohort
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:684,area under the curve of 0.855 in validation cohort
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:685,radiomic features derived from CT scans
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:686,patients with lung cancer at risk of occult pleural metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:687,"nomogram integrating carcinoembryonic antigen, neutrophil-to-lymphocyte ratio, and radiomic tumor area scores"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:688,precision of preoperative occult pleural metastasis prediction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:689,Childhood Cancer Registry of Campania
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:690,Italian largest population-based registry specializing in children 0-19 years old
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:691,approximately 1.1 million inhabitants
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:692,study cohort
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:693,219 adolescents with newly diagnosed central nervous system tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:694,annual average incidence rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:695,48.9 cases per million/year
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:696,5-year observed survival rate after diagnosis of CNS tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:697,84.8%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:698,most common tumor site
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:699,pituitary gland and craniopharyngeal duct
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:700,22.4% of all tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:701,most frequently occurring malignant primary CNS tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:702,germinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:703,most common non-malignant tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:704,pituitary adenoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:705,most patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:706,adult services
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:707,nearly half of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:708,cancer care
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:709,care of adolescents with CNS tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:710,institutions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:711,significant variations in practice
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:712,adult and pediatric practitioners
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:713,Head-and-neck cancer patients with dysphagia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:714,lower health-related quality of life
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:715,lower physical functioning
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:716,lower social functioning
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:717,lower emotional functioning
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:718,"more severe general symptoms including fatigue, pain, sleep disturbances, nausea/vomiting, diarrhea, and financial worries"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:719,Control-2 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:720,worse emotional functioning than Control-1 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:721,worse social functioning than Control-1 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:722,Cancer rehabilitation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:723,social functioning in head-and-neck cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:724,emotional functioning in head-and-neck cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:725,role functioning in head-and-neck cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:726,fatigue in head-and-neck cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:727,nausea/vomiting in head-and-neck cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:728,insomnia in head-and-neck cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:729,appetite loss in head-and-neck cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:730,Improvements in health-related quality of life
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:731,dysphagia patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:732,Psychooncological counseling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:733,Noninvasive prognostic evaluation methods
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:734,hepatocellular carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:735,radiographic imaging features
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:736,serum biomarkers such as alpha-fetoprotein
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:737,Epigenetic changes in cell-free DNA
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:738,early cancer diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:739,prognosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:740,cfDNA methylation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:741,"prognostication in patients with active, radiographically viable HCC"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:742,Illumina HumanMethylation450 array data
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:743,158 HCC-related DNA methylation markers associated with overall survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:744,158 HCC-related DNA methylation markers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:745,overall survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:746,29 HCC tumor tissue samples
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:747,cfDNA methylation-based risk score (methRisk)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:748,plasma cfDNA samples of 52 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:749,strong discriminatory power for overall survival prediction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:750,methRisk
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:751,noninvasive prognostic assessments for overall survival when integrated with Barcelona clinic liver cancer staging
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:752,survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:753,cfDNA methylation biomarkers assessed from peripheral blood
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:754,HCC patients into clinically meaningful risk groups
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:755,GLUT2 (SLC2A2)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:756,"glucose transporter in liver, pancreas, and kidney tissues"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:757,blood glucose levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:758,energy metabolism
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:759,SLC2A2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:760,cell differentiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:761,metabolic adaptation during embryogenesis and tissue regeneration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:762,SLC2A2 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:763,HCC progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:764,Stemness-associated genes including SOX2 and POU5F1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:765,upregulated with HCC progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:766,Zebrafish embryos injected with SLC2A2-targeting morpholino
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:767,reduced expression of liver differentiation marker fabp10a
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:768,hepatoblast marker hhex expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:769,SLC2A2 knockdown in HepG2 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:770,stemness markers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:771,IGF1R pathway markers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:772,liver differentiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:773,glucose metabolism
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:774,pathways associated with stemness and malignancy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:775,Targeting SLC2A2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:776,therapeutic strategy for liver-related diseases including HCC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:777,Mosunetuzumab
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:778,T cells to eliminate malignant B cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:779,YO43555
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:780,pharmacokinetics of mosunetuzumab in Chinese patients with relapsed/refractory follicular lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:781,safety of mosunetuzumab in Chinese patients with relapsed/refractory follicular lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:782,tolerability of mosunetuzumab in Chinese patients with relapsed/refractory follicular lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:783,efficacy of mosunetuzumab in Chinese patients with relapsed/refractory follicular lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:784,Ethnicity/region
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:785,pharmacokinetics disposition of mosunetuzumab
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:786,Global popPK model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:787,individual pharmacokinetics of the Chinese population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:788,Model predicted mosunetuzumab exposure metrics in Chinese patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:789,those observed in Asian patients in GO29781 R/R FL subpopulation with the same dose regimen
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:790,Exposure differences between Chinese and Non-Asians from the global population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:791,20%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:792,Mosunetuzumab exposure of Chinese patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:793,established bounds for clinical safety and efficacy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:794,Cytokine biomarkers IL-6 and TNF-α
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:795,similar time-course patterns of release as observed in globally enrolled patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:796,Mosunetuzumab pharmacokinetics disposition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:797,significant ethnic sensitivity that would impact patient outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:798,Dose adjustment of globally approved mosunetuzumab regimen
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:799,Chinese patients with relapsed/refractory follicular lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:800,KRAS mutation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:801,metastatic colorectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:802,BRAF mutation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:803,29.8% of stage II/III colorectal cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:804,NRAS mutation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:805,4.3% of stage II/III colorectal cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:806,8.5% of stage II/III colorectal cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:807,PIK3CA mutation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:808,14.9% of stage II/III colorectal cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:809,concurrent mutations in MSS patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:810,shorter overall survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:811,shorter disease-free survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:812,stage II/III colorectal cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:813,BRAF mutation prognostic impact
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:814,microsatellite instability adjustment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:815,KRAS mutation in MSS tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:816,BRAF mutation in MSS tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:817,reduced overall survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:818,reduced disease-free survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:819,no significant survival differences
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:820,mutant and wildtype patients in MSI-H population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:821,MSS stage II/III colorectal cancer patients receiving adjuvant therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:822,CD8 T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:823,antitumor immunity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:824,dysfunctional
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:825,exhausted
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:826,dysfunctional or exhausted CD8 T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:827,tumor growth
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:828,molecular pathways
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:829,CD8 T cell heterogeneity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:830,CD8 T cell function
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:831,T cell-intrinsic factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:832,CD8 T cell differentiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:833,T cell-extrinsic factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:834,CD8 T cell fate choices
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:835,CD8 T cell functional states
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:836,T cell-intrinsic and -extrinsic factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:837,CD8 T cell response to therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:838,therapeutic checkpoint blockade
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:839,T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:840,cells that orchestrate long-term antitumor immunity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:841,cancer immunotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:842,mechanisms that govern development and persistence of cells that orchestrate long-term antitumor immunity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:843,improving cancer immunotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:844,Testicular microcalcifications
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:845,hydroxyapatite
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:846,testicular germ cell tumors (TGCTs)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:847,Loss-of-function variants in phosphate transporter SLC34A2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:848,benign testicular microcalcifications
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:849,Fibroblast growth factor 23 (FGF23)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:850,phosphate homeostasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:851,testicular germ cell neoplasia in situ (GCNIS)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:852,embryonal carcinoma (EC)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:853,human embryonic stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:854,FGF23
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:855,C-terminal fragment in TGCTs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:856,C-terminal fragment of FGF23
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:857,full-length FGF23
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:858,Fgf23 knockout mice
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:859,marked calcifications in epididymis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:860,spermatogenic arrest
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:861,germ cells expressing osteoblast marker Osteocalcin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:862,Testicular microcalcifications in mice with no functional androgen receptor and lack of circulating gonadotropins
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:863,lower Slc34a2 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:864,higher Bglap/Slc34a1 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:865,Human testicular specimens with microcalcifications
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:866,lower SLC34A2 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:867,Subpopulation of germ cells in human testicular specimens with microcalcifications
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:868,phosphate transporter NPT2a
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:869,Osteocalcin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:870,RUNX2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:871,Calcium or phosphate treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:872,deposition of calcium phosphate in spermatogonial cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:873,Pyrophosphate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:874,calcium phosphate deposition induced by mineral disturbance in spermatogonial cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:875,local alterations in mineral homeostasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:876,Impaired Sertoli cell function and reduced levels of mineralization inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:877,osteogenic-like differentiation of testicular cells and deposition of hydroxyapatite in GCNIS and TGCTs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:878,High alkaline phosphatase activity in GCNIS and TGCTs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:879,reduced levels of mineralization inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:880,cancer-associated fibroblast-related gene signature
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:881,clinical outcomes in patients with diffuse large B cell lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:882,weighted gene co-expression network analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:883,cancer-associated fibroblast-related module genes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:884,Least Absolute Shrinkage and Selection Operator Cox regression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:885,minimal set of genes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:886,prognostic cancer-associated fibroblast-related gene signature for diffuse large B cell lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:887,Kaplan-Meier plots and receiver operating characteristic curves
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:888,prognostic performance of prognostic cancer-associated fibroblast-related genes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:889,nomogram
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:890,clinical information and prognostic scores of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:891,prognostic cancer-associated fibroblast-related gene signature risk model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:892,patients with diffuse large B cell lymphoma into high- and low-risk groups
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:893,survival in diffuse large B cell lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:894,clinical factor-based model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:895,risk score alone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:896,high- and low-risk groups
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:897,immune cell profiles
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:898,therapeutic responses
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:899,prognostic cancer-associated fibroblast-related gene-based genetic risk model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:900,prognosis of diffuse large B cell lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:901,treatment selection for diffuse large B cell lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:902,Asian patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:903,White patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:904,Black patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:905,Hispanic patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:906,Black patients in California
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:907,White patients in California
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:908,Black patients in New Jersey
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:909,White patients in New Jersey
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:910,Black patients in Georgia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:911,White patients in Georgia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:912,Black patients in Louisiana
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:913,White patients in Louisiana
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:914,Black patients in Connecticut
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:915,White patients in Connecticut
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:916,Black patients in Iowa
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:917,White patients in Iowa
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:918,Hispanic patients in Hawaii
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:919,White patients in Hawaii
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:920,Hispanic patients in Georgia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:921,Asian patients in California
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:922,Oral squamous cell carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:923,oral cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:924,YAP
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:925,transcriptional regulator in hippo tumor suppressor pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:926,cellular proliferation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:927,alteration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:928,migration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:929,invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:930,PARK2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:931,tumor suppressor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:932,Immunohistochemical expression of YAP
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:933,normal oral mucosa to oral squamous cell carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:934,Immunohistochemical expression of PARK2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:935,YAP expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:936,"normal oral mucosa, oral epithelial dysplasia, and oral squamous cell carcinoma"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:937,PARK2 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:938,YAP and PARK2 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:939,oral squamous cell carcinoma group
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:940,Concomitant immunoexpression of YAP and PARK2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:941,diagnostic and prognostic markers for oral squamous cell carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:942,Ghost cell odontogenic carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:943,rare malignant neoplasm
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:944,maxilla
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:945,male
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:946,cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:947,38-year-old male patient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:948,maxillary lesion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:949,oral and maxillofacial surgery clinic at King Fahad Medical City
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:950,lesion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:951,ghost cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:952,dentinoid deposition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:953,ameloblastoma-like epithelial linings
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:954,malignant features
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:955,nuclear pleomorphism
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:956,increased mitosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:957,necrosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:958,perivascular invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:959,invasion into adjacent bone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:960,tumor cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:961,CAM5.2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:962,p63
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:963,CK5/6
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:964,CK19
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:965,CK5/6 and CK19
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:966,peripheral area in a ring-like pattern in the ghost cell region
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:967,nuclear staining of beta-catenin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:968,next generation sequencing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:969,CTNNB1 variant c.110 C > G p.(Ser37Cys)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:970,ARID1A variant c.4420 C > T p. (Gln1474*)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:971,patient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:972,surgical excision
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:973,bilateral cervical lymph node dissection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:974,adjuvant radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:975,30 months
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:976,rare aggressive odontogenic tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:977,CTNNB1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:978,consistent gene mutation in ghost cell odontogenic carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:979,ARID1A
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:980,ghost cell odontogenic carcinoma patient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:981,GWAS
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:982,three genome-wide significant loci associated with OTSCC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:983,Locus 5p15.33 (rs27067 near gene LINC01511)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:984,OTSCC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:985,Locus 10q24 (rs1007771191 near RPS3AP36)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:986,Locus 20p12.3 (rs1438070080 near PLCB1)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:987,rs27067
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:988,prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:989,seborrheic keratosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:990,melanoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:991,Chondrosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:992,malignant neoplasm
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:993,production of a cartilaginous matrix
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:994,58-year-old male patient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:995,swelling in the posterior region of the right maxilla
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:996,fibro-osseous lesion in the posterior maxilla region
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:997,Intraoral examination
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:998,rounded lesion with ulceration in area of teeth 17 and 18
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:999,Panoramic radiograph
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1000,radiopaque lesion with flocculated pattern in right maxilla
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1001,Computed tomography
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1002,hyperdense lesion containing hypodense areas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1003,Histopathological analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1004,"presence of immature cartilage with rounded neoplastic cells, nuclei of varied sizes, and intense pleomorphism"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1005,chondrosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1006,Patient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1007,surgical resection followed by radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1008,no signs of recurrence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1009,osseous enlargement in gnathic bones
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1010,Loss of heterozygosity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1011,Oral Potentially Malignant Disorders
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1012,Oral Squamous Cell Carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1013,p53 gene
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1014,Loss of heterozygosity in Oral Potentially Malignant Disorders and Oral Squamous Cell Carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1015,p16 gene
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1016,adenomatous polyposis coli gene
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1017,retinoblastoma gene
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1018,fragile histidine triad gene
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1019,phosphatase and tensin homolog gene
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1020,chromosome loci 17p
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1021,Oral Potentially Malignant Disorders and Oral Squamous Cell Carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1022,chromosome loci 9p
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1023,chromosome loci 5q
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1024,chromosome loci 13q
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1025,chromosome loci 3p
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1026,chromosome loci 10q
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1027,p53
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1028,p16
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1029,circ_0000517
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1030,non-small cell lung cancer tissues and cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1031,m6A modification
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1032,silenced circ_0000517
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1033,proliferation of NSCLC cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1034,colony formation of NSCLC cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1035,migration of NSCLC cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1036,invasion of NSCLC cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1037,EMT-related process
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1038,highly expressed circ_0000517
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1039,CDH6 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1040,EMT evolution
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1041,miR-1233-3p
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1042,circ_0000517 on malignant biological behavior of NSCLC cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1043,m6A-modified circ_0000517
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1044,non-small cell lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1045,miR-1233-3p/CDH6 axis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1046,MoS2-CuS nanocomposites
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1047,physically mixing MoS2 suspensions with CuS
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1048,MoS2-AuNR nanocomposites
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1049,physically mixing MoS2 suspensions with AuNRs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1050,X-ray diffraction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1051,structural properties of nanocomposites
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1052,transmission electron microscopy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1053,ultraviolet-visible spectroscopy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1054,optical properties of nanocomposites
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1055,Fourier transform infrared spectroscopy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1056,enhanced photothermal heating compared to individual components
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1057,higher photothermal heat than MoS2-CuS nanocomposites
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1058,photothermal agents for cancer therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1059,Melanotic Neuroectodermal Tumor of Infancy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1060,rare locally aggressive tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1061,head and neck region
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1062,biphasic population of small neuroblast-like cells and larger melanin-containing epithelioid cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1063,MNTI cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1064,single institution
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1065,Eleven MNTI cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1066,
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1067,Median patient age
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1068,5 months
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1069,Male to Female ratio
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1070,1.75 to 1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1071,Tumor distribution
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1072,"Maxilla, Mandible, greater wing of Sphenoid, Temporal bone"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1073,All tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1074,classic biphasic morphology in resection specimens
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1075,Larger epithelioid cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1076,AE1/AE3 and HMB45
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1077,Smaller neuroblast-like cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1078,Synaptophysin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1079,One patient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1080,nested areas composed of mature glial tissue
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1081,One patient with incomplete resection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1082,solitary ipsilateral lymph nodal metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1083,Follow-up period
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1084,1 to 93 months
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1085,All patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1086,last follow-up
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1087,Lack of consideration of MNTI in differential diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1088,misdiagnosis and undue exposure to cytotoxic therapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1089,Awareness of classic biphasic morphology and distinct immunoprofile of MNTI
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1090,correct diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1091,CXC chemokines
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1092,cytokines
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1093,miscellaneous cancer categories
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1094,advancement of tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1095,Breast cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1096,female population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1097,Breast cancer pathogenesis and progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1098,metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1099,angiogenesis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1100,inflammation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1101,Chemokines and their receptors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1102,CXC chemokine receptors (CXCRs) and their related ligands
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1103,tumor proliferation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1104,CXCRs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1105,cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1106,immune cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1107,tumor microenvironment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1108,immune response
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1109,Psoriasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1110,chronic systemic autoimmune disease
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1111,Hematopoietic stem cell transplantation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1112,promising therapeutic modality for hematological malignancies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1113,psoriasis in patients with hematological tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1114,recurrence of psoriasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1115,potential immunomodulatory activity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1116,psoriasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1117,31 of 41 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1118,recurrence of psoriasis during follow-up
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1119,10 of 41 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1120,recurrence of psoriasis during post-transplantation follow-up
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1121,Earliest recurrence of skin lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1122,1.4 months after transplantation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1123,Skin lesions recurrence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1124,3.5 months after transplantation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1125,Latest recurrence of psoriasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1126,60 months post-transplant
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1127,Flare-up of psoriatic arthritis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1128,156 months post-transplant
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1129,Severity and duration of psoriasis and arthritis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1130,pretransplant
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1131,Nurse cancer survivors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1132,significant challenges in adapting to returning to work
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1133,special attention and support
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1134,This interpretive phenomenological study
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1135,NCSs' feelings and experiences after returning to work
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1136,Semi-structured interviews
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1137,15 nurse cancer survivors in China
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1138,The transcripts
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1139,interpretative phenomenological analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1140,Data
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1141,psychological odyssey
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1142,accessing social support
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1143,benefiting from professional background
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1144,realization of professional values
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1145,Managers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1146,psychology of nurse cancer survivors' returning to work
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1147,support for nurse cancer survivors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1148,use of professional strengths by nurse cancer survivors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1149,insights and professional development of nurse cancer survivors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1150,Oncology patients aged 65 and older
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1151,emergency department
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1152,Infection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1153,emergency department visits among oncology patients aged 65 and older
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1154,Pain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1155,Nausea-vomiting
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1156,Dyspnea
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1157,Reason for emergency department visit
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1158,knowledge of when to seek medical help
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1159,Recurrent visits of cancer patients to emergency departments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1160,inadequacy of comprehensive information for patients and caregivers concerning emergency medical intervention
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1161,gastric venous congestion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1162,total pancreatectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1163,gastric venous drainage reconstruction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1164,primary one-step total pancreatectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1165,planned elective completion pancreatectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1166,pancreatoduodenectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1167,distal pancreatectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1168,intraoperative gastric venous congestion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1169,portal vein-right gastroepiploic vein side-to-side anastomosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1170,postoperative gastric venous congestion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1171,patients with intraoperative gastric venous congestion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1172,acidic urine
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1173,5.5
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1174,patients with acidic urine
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1175,fasting plasma glucose levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1176,serum uric acid level
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1177,estimated glomerular filtration rates
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1178,abnormal urinary cytology
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1179,acidic urine group
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1180,recurrence-free survival rate compared to high urine pH group
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1181,disease recurrence after intravesical BCG induction for NMIBC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1182,intravesical Bacillus Calmette-Guérin induction therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1183,nonmuscle-invasive bladder cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1184,patients with nonmuscle-invasive bladder cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1185,transurethral resection of bladder tumor followed by intravesical Bacillus Calmette-Guérin induction therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1186,images of oral potentially malignant disorders
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1187,visual quality and image distortion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1188,misdiagnosis and missed diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1189,multiscale retinex
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1190,original images
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1191,adaptive histogram equalization
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1192,adaptive contrast enhancement
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1193,object detection models based on You Only Look Once version 8
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1194,lesion detection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1195,model performance in the MSR-enhanced image set
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1196,model performance in the original image set
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1197,total accuracy for all three lesion types
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1198,sensitivity of complete correct recognition for complex multi-lesion images
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1199,models trained with adaptive histogram equalization preprocessing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1200,reduced diagnostic performance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1201,models trained with adaptive contrast enhancement preprocessing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1202,image enhancement algorithms
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1203,visual quality of OPMDs images
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1204,multiscale retinex algorithm
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1205,object detection ability in the computer vision model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1206,misdiagnosis and missed diagnosis of OPMDs lesions in object detection model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1207,Laparoscopic surgery
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1208,Robotic surgery
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1209,Re-exploration rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1210,Laparoscopic surgery and Robotic surgery
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1211,Length of hospital stay
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1212,R0 resection rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1213,Rate of conversion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1214,Spleen preservation rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1215,CHD1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1216,chromatin dynamics
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1217,gene expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1218,DNA repair
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1219,genomic stability
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1220,tumour suppressor in prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1221,neuroendocrine differentiation in prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1222,loss of CHD1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1223,aggressive phenotypes in prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1224,resistance to androgen receptor therapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1225,synthetic lethality with PTEN loss
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1226,breast cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1227,ovarian cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1228,hematological cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1229,"chromatin accessibility in breast, ovarian, and hematological cancers"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1230,"transcription regulation in breast, ovarian, and hematological cancers"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1231,"therapy resistance in breast, ovarian, and hematological cancers"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1232,Immune effector cell-associated neurotoxicity syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1233,CD19-directed CAR T-cell therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1234,EEG
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1235,Pre-infusion EEG abnormalities
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1236,Post-infusion qualitative EEG abnormalities
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1237,Higher theta energy in post-infusion EEGs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1238,Higher delta + theta/alfa ratio in post-infusion EEGs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1239,Higher beta energy in post-infusion EEGs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1240,Immune effector cell-associated neurotoxicity syndrome before CAR T-cell infusion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1241,Immune effector cell-associated neurotoxicity syndrome following infusion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1242,financial toxicity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1243,older Indian patients with cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1244,COST-FACIT scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1245,CFPB Financial Well-Being Scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1246,poor quality of life
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1247,higher distress
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1248,higher financial toxicity on the COST-FACIT scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1249,poor financial well-being on the CFPB scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1250,history of tobacco chewing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1251,greater financial toxicity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1252,"monthly family income less than ₹50,000"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1253,lack of health insurance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1254,illiteracy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1255,depression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1256,cognitive impairment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1257,Testosterone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1258,development of benign prostatic hyperplasia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1259,Prostatic inflammation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1260,Testicular cancer survivors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1261,benign prostatic hyperplasia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1262,Receipt of chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1263,incidence of benign prostatic hyperplasia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1264,Diagnosis of hypogonadism prior to BPH
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1265,Age at diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1266,Inpatient rehabilitation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1267,patients with brain metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1268,Patients with brain metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1269,inpatient rehabilitation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1270,Median length of inpatient rehabilitation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1271,19.2 days
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1272,33 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1273,home
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1274,1 patient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1275,long-term care facility
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1276,3 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1277,acute care ward
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1278,2 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1279,palliative care
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1280,Functional Independence Measure
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1281,Weighted average total Functional Independence Measure percent gain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1282,14.9%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1283,Average Functional Independence Measure efficiency
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1284,0.61
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1285,Weighted average motor Functional Independence Measure gain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1286,cognitive Functional Independence Measure gain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1287,16.5%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1288,Weighted average cognitive Functional Independence Measure gain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1289,3.6%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1290,functional status in patients with brain metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1291,independence in patients with brain metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1292,Resistance training
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1293,inflammatory markers in patients with colon cancer undergoing adjuvant chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1294,Patients in the highest tertile of baseline hsCRP
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1295,relative dose intensity >70%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1296,Changes in inflammatory markers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1297,relative dose intensity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1298,"Patients in the highest tertiles of hsCRP, interleukin-6, and tumor necrosis factor-α receptor-II"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1299,baseline body mass index
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1300,total lean mass
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1301,total fat mass
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1302,Rectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1303,mortality in the United States
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1304,Locally advanced rectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1305,up to T3-4 N+
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1306,Standard of care for locally advanced rectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1307,total mesorectal excision following neoadjuvant chemoradiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1308,Magnetic resonance imaging
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1309,local tumor staging
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1310,post-treatment restaging
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1311,MRI-based radiomic model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1312,characteristic features of peritumoral mesorectal fat
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1313,Patients with locally advanced rectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1314,pre- and post-neoadjuvant chemoradiotherapy MRI scans
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1315,Patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1316,good responders or poor responders to neoadjuvant therapy based on MRI findings
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1317,MRI findings
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1318,"tumor volume reduction, signal intensity changes on T2-weighted and diffusion-weighted imaging, alterations in circumferential resection margin and extramural vascular invasion status"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1319,Radiomic model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1320,LASSO algorithm for feature selection and regularization
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1321,LASSO algorithm
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1322,"shape_Sphericity, shape_Maximum2DDiameterSlice, glcm_Imc2"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1323,Radiomic logistic regression model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1324,selected radiomic features
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1325,0.76
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1326,responders and non-responders to neoadjuvant chemoradiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1327,lesions with high likelihood of requiring surgery
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1328,lesions potentially managed with medical treatment alone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1329,Ultrasound monochromatic Superb Microvascular Index
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1330,malignancy of solid focal lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1331,Vascular index
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1332,bioptic histological results
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1333,Monochromatic Superb Microvascular Index examination
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1334,extremely low-velocity flows
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1335,during mSMI examination
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1336,Bioptic procedures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1337,ultrasound guidance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1338,Malignant lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1339,benign lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1340,Vascular index in malignant lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1341,35.45%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1342,Vascular index in benign lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1343,11%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1344,Threshold vascular index value
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1345,malignant lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1346,Vascular index with mSMI
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1347,0.878
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1348,Monochromatic Superb Microvascular Index analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1349,histological findings in malignant/benign predictive value
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1350,histological vascular changes in malignant lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1351,ICRP 103 model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1352,US EPA model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1353,BEIR VII model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1354,oncogenic risk related to radiation exposure
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1355,different oncogenic risk models
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1356,"organ, leukemia, and all-cancer risk values"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1357,intraclass correlation coefficient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1358,different risk models
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1359,Friedman test
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1360,different models
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1361,Ion channels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1362,tumor progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1363,proliferation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1364,apoptosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1365,Voltage-gated potassium (Kv) channels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1366,oncogenic signaling pathways
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1367,Voltage-gated sodium (Nav) channels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1368,Scorpion venom peptides
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1369,selective ion-channel-blocking properties
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1370,antineoplastic activity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1371,Bioactive fractions derived from Chihuahuanus coahuilae
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1372,breast cancer cell lines
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1373,Venom-derived peptides
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1374,cancer cell homeostasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1375,ion fluxes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1376,metastatic traits
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1377,Ion-channel-targeting peptides
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1378,selective anticancer agents
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1379,Vipera ammodytes venom
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1380,Phospholipases A2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1381,C-type lectins
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1382,metalloproteinases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1383,cytotoxic properties
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1384,anti-proliferative properties
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1385,tumor-inhibiting properties
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1386,"melanoma cell lines M001, Me501, and A375"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1387,approximately 1.1 µg/mL in melanoma cell lines
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1388,Combined treatment with Vipera ammodytes venom and cisplatin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1389,cytotoxicity compared to single-agent treatments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1390,cisplatin in resistant melanoma cell lines M001 and Me501
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1391,Vipera ammodytes venom and cisplatin combination
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1392,cell mortality by up to 40% in resistant melanoma cell lines
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1393,A375 cell line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1394,cisplatin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1395,morphological changes in melanoma cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1396,Vipera ammodytes venom components
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1397,melanoma cells in muscle-associated metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1398,Cisplatin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1399,established cytotoxicity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1400,MyPal project
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1401,palliative care support for patients with cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1402,electronic patient-reported outcomes eHealth platform
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1403,MyPal for adults
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1404,co-designed palliative care mobile app
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1405,adults with cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1406,participants
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1407,intervention content useful
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1408,satisfactory usability
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1409,Post-Study System Usability Questionnaire score
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1410,2.458
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1411,System Usability Scale score
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1412,68.9
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1413,User Experience Questionnaire aspects
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1414,usability quality benchmarks
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1415,qualitative analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1416,43 usability issues
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1417,usability issues
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1418,effectiveness and efficiency as defined in ISO 9241-210
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1419,MyPal for adults app
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1420,digital tool designed to enhance the palliative care experience
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1421,study findings
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1422,user-friendly interface
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1423,positive patient experiences
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1424,Bronchial sleeve lobectomies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1425,technically challenging procedures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1426,Robotic technique
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1427,advantages for anastomosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1428,Uniportal robotic sleeve lower lobectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1429,endobronchial tumour of the lower lobe
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1430,Endobronchial tumour of the lower lobe
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1431,distal end of the intermediate bronchus
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1432,4-cm skin incision
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1433,sixth intercostal space in the middle axillary line
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1434,30-degree 10-mm camera
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1435,posterior edge of the incision
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1436,Right lower sleeve lobectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1437,end-to-end anastomosis between proximal intermediate bronchial stump and middle lobe bronchial stump
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1438,Postoperative endobronchial examination
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1439,well-done anastomosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1440,postoperative day 5
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1441,Histologic examination
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1442,2-cm atypical carcinoid without lymph node involvement
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1443,Glioblastoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1444,brain cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1445,low survival rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1446,frequently invasive
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1447,Epithelial-mesenchymal transition biomarkers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1448,glioblastoma cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1449,chemoresistance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1450,relapse after treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1451,Marine eukaryotic microalgae
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1452,secondary metabolites with biological activity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1453,Dinoflagellates belonging to Amphidinium carterae
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1454,neurotoxins
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1455,cytotoxic compounds
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1456,Chemical extracts from Amphidinium carterae
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1457,EMT markers in T98G human GBM cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1458,proliferation capability of GBM cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1459,migration capability of GBM cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1460,Allium pseudojaponicum Makino extracts
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1461,cell viability in A549 and H460 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1462,cell viability to 38.6% in A549-Ctr cells at 40 µg/mL after 48 h
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1463,cell viability to 37.2% in A549-CR cells at 40 µg/mL after 48 h
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1464,cell viability to 28.4% in H460-Ctr cells at 40 µg/mL after 48 h
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1465,cell viability to 30.4% in H460-CR cells at 40 µg/mL after 48 h
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1466,colony formation by over 90% in 2D and soft agar assays
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1467,normal human keratinocytes up to 80 µg/mL
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1468,G1 phase arrest in A549-Ctr and A549-CR cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1469,cyclin D1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1470,CDK4
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1471,cyclin E
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1472,CDK2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1473,phosphorylated STAT3
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1474,c-Myc expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1475,STAT3 knockdown
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1476,effects of Allium pseudojaponicum Makino extracts
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1477,STAT3 signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1478,lycorine
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1479,tazettine
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1480,tricetin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1481,alkaloids
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1482,flavonoids
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1483,Xanthocillin X dimethyl ether
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1484,triple-negative breast cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1485,hemin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1486,Hemin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1487,heme
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1488,intracellular regulatory heme
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1489,mitochondria
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1490,mitochondrial cytochromes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1491,electron transport chain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1492,mitochondrial complexes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1493,mitochondrial respiration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1494,Inhibitory activity of Xanthocillin X dimethyl ether on mitochondrial function
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1495,anti-triple-negative breast cancer effects
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1496,Resistance to PARP inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1497,ovarian cancer treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1498,Gukulenin A
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1499,marine sponge Phorbas gukhulensis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1500,olaparib-induced cytotoxicity in human ovarian cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1501,Combination treatment of Gukulenin A and olaparib
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1502,reactive oxygen species levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1503,lipid peroxidation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1504,ferroptotic cell death
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1505,apoptotic cell death
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1506,Oxidative stress-related pathways
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1507,ferroptosis induced by combination treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1508,Inhibition of NADPH oxidase
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1509,combination-induced cell death
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1510,Ferrostatin-1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1511,lipid peroxidation and cytotoxicity induced by combination treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1512,Gukulenin A and olaparib treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1513,ERK1/2 activation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1514,ERK overexpression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1515,Marine-derived Gukulenin A
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1516,PARP inhibitor efficacy in ovarian cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1517,ferroptosis through oxidative stress and ERK pathway modulation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1518,Colorectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1519,third most common malignancy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1520,Marine-derived quinolone alkaloids
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1521,antitumor properties
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1522,Compounds 1-13
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1523,4'-desmethoxyyaequinolone J1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1524,4-phenyl derivative of yaequinolone J1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1525,Yaequinolone J1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1526,Penicillium sp. FKI-2140
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1527,CHNQD-02792
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1528,HT-29 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1529,4.5 μM in HT-29 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1530,5-fluorouracil
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1531,15.58 μM in HT-29 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1532,growth of HT-29 cells at 9 μM
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1533,CDK1 expression in HT-29 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1534,G2/M phase arrest in HT-29 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1535,Bcl-2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1536,Caspase-3
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1537,Bax
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1538,ERK
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1539,JNK
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1540,MAPK signaling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1541,G2/M arrest
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1542,ERK/JNK dephosphorylation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1543,CD4+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1544,CD8+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1545,activated CD4+ and CD8+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1546,CTT-induced antitumor immunity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1547,interaction between activated CD4+ and CD8+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1548,cryo-thermal therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1549,reciprocal regulation of activated CD8+ and CD4+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1550,LFA-1/ICAM-1 interactions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1551,Notch1-dependent CD4+ Th1-dominant differentiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1552,IL-2 by CD4+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1553,IL-2 derived from CD4+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1554,IL-2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1555,LFA-1 and ICAM-1 on T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1556,LFA-1/ICAM interactions between CD4+ and CD8+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1557,clinical outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1558,Vasculogenic mimicry
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1559,Tumor cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1560,three-dimensional channel-like structures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1561,Three-dimensional channel-like structures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1562,nutrients and oxygen
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1563,aggressive solid tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1564,poor prognosis in oncologic patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1565,Long non-coding RNAs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1566,protein-encoding genes involved in cancer development and progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1567,cell proliferation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1568,vasculogenic mimicry
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1569,therapy response
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1570,miR-146a
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1571,SNP rs2910164:G>C
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1572,miR-146a precursor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1573,breast cancer risk
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1574,rs2910164:G>C
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1575,mature miR-146a sequences 3p and 5p
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1576,pre-miR-146a-C
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1577,proliferation in luminal A and triple-negative breast cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1578,migration in luminal A and triple-negative breast cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1579,invasion in luminal A and triple-negative breast cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1580,cisplatin-induced apoptosis in luminal A and triple-negative breast cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1581,pre-miR-146a C allele
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1582,cisplatin resistance in MCF-7 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1583,cisplatin resistance in MDA-MB-231 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1584,rs2910164 C allele
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1585,miR-146a overexpression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1586,cisplatin resistance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1587,Paclitaxel
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1588,overall survival of non-small cell lung cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1589,AdipoRon
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1590,adiponectin receptor agonist
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1591,anticancer compound in non-small cell lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1592,Combination of AdipoRon and Paclitaxel
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1593,cell growth in non-small cell lung cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1594,clonogenic potential in non-small cell lung cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1595,cell death in non-small cell lung cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1596,poly-ADP ribose polymerase
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1597,caspase-3 apoptotic markers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1598,AMP-activated protein kinase
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1599,efficacy of combination of AdipoRon and Paclitaxel
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1600,Inhibition of AMP-activated protein kinase by Compound-C
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1601,cell growth in presence of combination of AdipoRon and Paclitaxel
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1602,extracellular signal-regulated kinase 1/2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1603,Inhibition of extracellular signal-regulated kinase 1/2 by PD98059
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1604,effects of combination of AdipoRon and Paclitaxel
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1605,Paclitaxel-based therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1606,Hepatocyte nuclear factor 4α
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1607,nuclear receptor superfamily of transcription factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1608,colorectal adenocarcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1609,HNF4α
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1610,carcinogenesis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1611,HNF4α overexpression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1612,CRAC cell migration and invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1613,HNF4α inhibition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1614,HNF4α levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1615,metastatic and poorly differentiated CRAC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1616,Reduced HNF4α levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1617,unfavorable prognostic factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1618,NF-κb protein levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1619,YAP levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1620,early carcinogenesis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1621,Reduced HNF4α expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1622,progression and metastasis of CRAC
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1623,TIGAR
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1624,balance between glycolysis and antioxidant defense mechanisms
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1625,Cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1626,shift towards aerobic glycolysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1627,glycolysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1628,proliferation rate of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1629,Metabolic shift
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1630,increased levels of reactive oxygen species
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1631,pentose phosphate pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1632,Pentose phosphate pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1633,NADPH
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1634,antioxidant defense
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1635,glycolytic flux
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1636,diversion of glucose-6-phosphate into pentose phosphate pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1637,biosynthesis and cell survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1638,balance of nucleotides and lipids
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1639,prognostic and potential therapeutic target in different types of cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1640,diagnostic marker and therapeutic target
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1641,Endometrial cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1642,women in developed countries
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1643,Early stages of endometrial cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1644,surgery
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1645,adjuvant hormonal therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1646,chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1647,Patients with recurrence of endometrial cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1648,treatment resistance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1649,Cancer stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1650,gynecologic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1651,endometrial cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1652,conventional therapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1653,Conventional therapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1654,radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1655,progression of malignancy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1656,recurrence of malignancy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1657,Activation of WNT pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1658,cancer stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1659,Activation of PI3K pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1660,depression in dysphagia patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1661,depression in Control-2 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1662,Depression levels after psychooncological counseling in dysphagia and Control-2 patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1663,levels in the general population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1664,Activation of NF-kB pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1665,Pseudomyogenic haemangioendotheliomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1666,soft tissue
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1667,Malignant cases of pseudomyogenic haemangioendotheliomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1668,uncommon
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1669,28-year-old male patient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1670,fibroblastic osteosarcoma of the right femur
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1671,primary pseudomyogenic hemangioendothelioma of the bone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1672,Primary pseudomyogenic hemangioendothelioma of the bone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1673,synchronous metastases to other skeletal segments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1674,Molecular analysis through targeted RNA sequencing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1675,correct diagnosis of primary pseudomyogenic hemangioendothelioma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1676,Molecular analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1677,fusion transcript ACTB::FOSB
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1678,multiple pathological fractures
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1679,This case
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1680,rapid skeletal progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1681,onset of distant metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1682,Typical clinical course of pseudomyogenic haemangioendothelioma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1683,indolent
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1684,non-Hodgkin lymphoma of the spleen
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1685,39-year-old woman
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1686,invasive lobular carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1687,right breast
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1688,mastectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1689,hormonal therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1690,right axillary mass
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1691,fine-needle aspiration biopsy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1692,neoadjuvant chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1693,axillary lymph node dissection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1694,bilateral adnexectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1695,CT and PET scans
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1696,suspicious splenic lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1697,metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1698,laparoscopic splenectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1699,histological examination
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1700,follicular B-cell non-Hodgkin lymphoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1701,biannual follow-up
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1702,Low-malignant-potential adenocarcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1703,a type of non-mucinous tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1704,≤ 3 cm
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1705,≥ 15%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1706,"≥10% cribriform, ≥5% micropapillary, ≥5% solid"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1707,angiolymphatic invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1708,visceral pleural invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1709,spread through air spaces (STAS)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1710,>1 mitosis per 2 mm2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1711,≥ 0.5 cm
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1712,mitosis (>1 per 2 mm2)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1713,mucinous subtype
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1714,tumor necrosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1715,Patients with low-malignant-potential adenocarcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1716,100% 10-year CSS
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1717,Patients without low-malignant-potential adenocarcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1718,77.4% 10-year CSS
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1719,other solid adenocarcinomas at IA stage
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1720,Low-malignant-potential adenocarcinoma features
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1721,low risk of recurrence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1722,good cancer-specific survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1723,good disease-free survival
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1724,Lymph node status
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1725,the most critical prognostic factor in vulvar cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1726,Inguinofemoral lymphadenectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1727,significant morbidity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1728,Sentinel lymph node biopsy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1729,a less invasive alternative to inguinofemoral lymphadenectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1730,favorable oncologic outcomes in selected cases of vulvar cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1731,unifocal vulvar tumors less than 4 cm with stromal invasion greater than 1 mm and clinically negative nodes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1732,GROINSS-V-I and GOG-173 trials
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1733,accuracy and lower morbidity of sentinel lymph node biopsy compared to lymphadenectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1734,Sentinel lymph node biopsy utilization
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1735,its inclusion in guidelines
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1736,Lymphadenectomy rates
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1737,increased sentinel lymph node biopsy utilization
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1738,Combined detection techniques
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1739,mandatory for sentinel lymph node biopsy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1740,Indocyanine green
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1741,an emerging option for sentinel lymph node biopsy detection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1742,"a validated, minimally invasive staging approach in early-stage vulvar cancer"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1743,Soft tissue sarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1744,adolescent and young adult population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1745,Soft tissue sarcoma tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1746,aggressive
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1747,multimodal management
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1748,Multimodal management
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1749,radiation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1750,Surgical and radiation-related morbidity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1751,lasting side effects of therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1752,Chemotherapy toxicity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1753,a lasting side effect of therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1754,Secondary effects on other organ systems
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1755,cardiac dysfunction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1756,endocrine dysfunction
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1757,development of secondary cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1758,Sarcoma diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1759,fertility
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1760,mental health
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1761,relationship
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1762,education
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1763,career
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1764,Azacitidine and venetoclax
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1765,new standard of care for elderly patients with Acute Myeloid Leukemia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1766,patients with AML at our centre
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1767,Azacitidine and venetoclax for close monitoring for tumour lysis syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1768,incidence of tumour lysis syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1769,25% using Cairo-Bishop diagnostic criteria
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1770,tumour lysis syndrome incidence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1771,2% using Howard diagnostic criteria
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1772,patients who developed Cairo-Bishop tumour lysis syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1773,significantly higher baseline white blood count
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1774,patients with white blood count less than 30 × 10^9/L
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1775,outpatient initiation of Azacitidine and venetoclax
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1776,one patient with white blood count less than 30 × 10^9/L
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1777,"mild, transient tumour lysis syndrome by Cairo-Bishop criteria but not by Howard criteria"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1778,significant portion of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1779,Azacitidine and venetoclax in outpatient facility
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1780,hospitalization
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1781,patient experience
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1782,significant resource burden
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1783,Intensity-modulated radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1784,localized prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1785,Intensity-modulated proton therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1786,clinically meaningful decline in bowel function mean score at 24 months post-radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1787,higher proportion of clinically relevant reduction in bowel function compared to intensity-modulated proton therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1788,statistically significant or clinically relevant changes in urinary incontinence scores
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1789,statistically significant or clinically relevant changes in urinary irritative/obstructive symptoms scores
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1790,smaller decrease in bowel function than intensity-modulated radiotherapy at 24 months post-radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1791,Merkel cell carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1792,lymph nodes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1793,distant metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1794,patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1795,lymph node metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1796,lifetime distant metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1797,patients with lifetime distant metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1798,time from initial diagnosis to lymph node metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1799,time from initial diagnosis to distant metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1800,patients with primary tumors ≤1 cm
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1801,prior lymph node metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1802,subsequent distant metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1803,patients with nodal metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1804,adjuvant systemic therapy studies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1805,Fear of cancer recurrence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1806,family caregivers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1807,Fear of cancer recurrence in cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1808,well
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1809,Focus group and semi-structured interviews
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1810,family caregivers of cancer survivors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1811,Family caregivers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1812,fear of cancer recurrence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1813,Fear of cancer recurrence in family caregivers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1814,all-consuming
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1815,constant
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1816,sense of helplessness
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1817,Relational aspects of fear of cancer recurrence in family caregivers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1818,patient-centric hypervigilance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1819,self-silencing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1820,fear of cancer recurrence as isolating
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1821,finding support
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1822,Relational factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1823,how family caregivers experience and manage fear of cancer recurrence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1824,High-quality survivorship care
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1825,fear of cancer recurrence interventions tailored to family caregivers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1826,recurrence rates
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1827,Tongue
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1828,oral squamous cell carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1829,Floor of the mouth
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1830,24.3% of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1831,recurrence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1832,Most recurrence cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1833,first year
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1834,T2 tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1835,Recurrence rates
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1836,patients with and without adjuvant therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1837,Positive surgical margins
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1838,recurrence cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1839,No significant correlation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1840,margin status and recurrence in patients without adjuvant therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1841,Recurrence-free survival in oral squamous cell carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1842,surgical technique
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1843,Tumors of the tongue and floor of the mouth
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1844,disease stage
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1845,Ectopic adrenocorticotropic hormone syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1846,a tumor develops neuroendocrine differentiation with the secretion of ACTH
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1847,Secretion of ACTH
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1848,hypercortisolism
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1849,Cushing's syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1850,5-10% of Cushing's syndrome cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1851,Breast tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1852,1% of Ectopic adrenocorticotropic hormone syndrome cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1853,Breast neuroendocrine tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1854,neuroendocrine-differentiated carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1855,ductal carcinoma with neuroendocrine features
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1856,Biopsy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1857,invasive poorly differentiated breast carcinoma with high-grade neuroendocrine features and necrosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1858,Staging at diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1859,metastatic disease of the liver and bone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1860,First-line chemotherapy (Cisplatin/Etoposide/Durvalumab)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1861,disease progression after four cycles
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1862,Simple mastectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1863,local control and complete pathologic analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1864,Pathologic analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1865,high-grade neuroendocrine carcinoma with large-cell features
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1866,Second-line therapy (Adriamycin/Cyclophosphamide)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1867,three cycles
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1868,Workup
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1869,elevated ACTH consistent with paraneoplastic Ectopic adrenocorticotropic hormone syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1870,evidence of disease progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1871,Third-line therapy (Nab-Paclitaxel)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1872,Genetic testing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1873,PIK3 mutation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1874,Access to Alpelisib therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1875,urgent bilateral laparoscopic adrenalectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1876,Laparoscopic bilateral adrenalectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1877,"an accepted, definitive treatment option for Ectopic adrenocorticotropic hormone syndrome resulting in Cushing's syndrome secondary to breast neuroendocrine carcinoma"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1878,Biological sex and gender factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1879,pathogenesis in hematologic malignancies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1880,progression in hematologic malignancies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1881,treatment response in hematologic malignancies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1882,Male patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1883,multiple myeloma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1884,acute myeloid leukemia hospitalizations for ages 18-39
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1885,hematologic malignancies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1886,Male patients with acute myeloid leukemia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1887,48.8%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1888,Female patients with acute myeloid leukemia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1889,60.4%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1890,Female patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1891,Sex-specific patterns
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1892,distinct mutational profiles
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1893,differences in immune system function
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1894,sex-based pharmacokinetic variations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1895,Females
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1896,leukemias
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1897,Neuropilin-1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1898,neuronal guidance protein
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1899,cancer biology
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1900,tumor cell proliferation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1901,tumor cell migration
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1902,tumor cell invasion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1903,tumor cell metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1904,vascular endothelial growth factor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1905,semaphorins
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1906,transforming growth factor-beta
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1907,Neuropilin-1 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1908,poor prognosis in various malignancies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1909,targeting Neuropilin-1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1910,efficacy of chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1911,efficacy of radiotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1912,NRP1-targeted therapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1913,monoclonal antibodies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1914,small molecule inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1915,gene silencing techniques
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1916,noninvasive prognostic evaluation methods
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1917,serum biomarkers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1918,alpha-fetoprotein
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1919,epigenetic changes in cell-free DNA
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1920,plasma cfDNA samples
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1921,Barcelona clinic liver cancer staging
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1922,cfDNA methylation biomarkers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1923,Stemness-associated genes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1924,SOX2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1925,POU5F1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1926,shift toward less differentiated states
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1927,therapeutic strategy for liver-related diseases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1928,therapeutic strategy for hepatocellular carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1929,CD20 × CD3 T-cell-engaging bispecific antibody
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1930,individual pharmacokinetics of mosunetuzumab in Chinese population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1931,mosunetuzumab exposure metrics in Chinese patients similar to Asian patients in GO29781 R/R FL subpopulation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1932,Exposure differences between Chinese and Non-Asians
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1933,less than 20%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1934,Mosunetuzumab exposure in Chinese patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1935,similar time-course patterns of release as in globally enrolled patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1936,significant ethnic sensitivity impacting patient outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1937,poor overall survival in colorectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1938,poor disease-free survival in colorectal cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1939,shorter disease-free survival in microsatellite-stable tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1940,reduced overall survival in microsatellite-stable tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1941,reduced disease-free survival in microsatellite-stable tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1942,"Concurrent mutations in KRAS, NRAS, BRAF, and PIK3CA"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1943,shorter overall survival and disease-free survival in microsatellite-stable patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1944,KRAS and BRAF mutations
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1945,negative prognostic impact on microsatellite-stable stage II/III colorectal cancer patients receiving adjuvant therapy following curative resection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1946,testicular germ cell tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1947,Loss-of-function variants in SLC34A2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1948,benign cases with testicular microcalcifications
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1949,Fibroblast growth factor 23
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1950,testicular germ cell neoplasia in situ
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1951,embryonal carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1952,Fibroblast growth factor 23 in testicular germ cell tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1953,C-terminal fragment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1954,C-terminal fragment of fibroblast growth factor 23
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1955,full-length fibroblast growth factor 23
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1956,marked calcifications in the epididymis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1957,Germ cells in Fgf23 knockout mice
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1958,osteoblast marker Osteocalcin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1959,A subpopulation of germ cells in human testicular specimens with microcalcifications
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1960,Calcium or phosphate treatment in vitro
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1961,osteogenic-like differentiation of testicular cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1962,Osteogenic-like differentiation of testicular cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1963,deposition of hydroxyapatite
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1964,stronger prognostic ability than clinical factor-based model or risk score alone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1965,significant differences in immune cell profiles and therapeutic responses
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1966,"normal oral mucosa, oral epithelial dysplasia, and oral squamous cell carcinoma groups"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1967,PARK2 expression in oral squamous cell carcinoma group
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1968,Lesion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1969,beta-catenin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1970,Next generation sequencing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1971,ghost cell odontogenic carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1972,Osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1973,primary bone cancer in children and adolescents
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1974,35-45% of osteosarcoma patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1975,standard chemotherapeutic treatments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1976,non-response to standard chemotherapeutic treatments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1977,5-20% 5-year survival rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1978,ATG4B
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1979,cysteine protease for autophagosome formation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1980,ATG4B overexpression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1981,poor prognosis in various cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1982,ATG4B expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1983,tumor size in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1984,tumor stage in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1985,histological response to neoadjuvant chemotherapy in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1986,VEGF expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1987,presence of distant metastasis at diagnosis in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1988,VEGF expression in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1989,High ATG4B overexpression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1990,worse overall survival in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1991,High VEGF overexpression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1992,tumor promoter in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1993,inhibit tumor growth in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1994,Elevated ATG4B levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1995,marker for poor prognosis in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1996,VEGF overexpression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1997,greater likelihood of pulmonary metastasis in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1998,worse overall prognosis in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:1999,Absence of ATG4B and VEGF
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2000,better chemotherapy response in osteosarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2001,GWAS analysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2002,loci at 5p15.33 (rs27067 near gene LINC01511)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2003,loci at 10q24 (rs1007771191 near RPS3AP36)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2004,loci at 20p12.3 (rs1438070080 near PLCB1)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2005,posterior region of right maxilla
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2006,one year of follow-up
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2007,Chromosome loci 17p
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2008,Chromosome loci 9p
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2009,Chromosome loci 5q
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2010,Chromosome loci 13q
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2011,Chromosome loci 3p
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2012,Chromosome loci 10q
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2013,Loss of heterozygosity patterns
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2014,rare tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2015,locally aggressive tumor
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2016,Maxilla
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2017,Mandible
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2018,greater wing of Sphenoid
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2019,Temporal bone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2020,classic biphasic morphology
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2021,AE1/AE3
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2022,HMB45
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2023,high rate of progression and relapse
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2024,immunomodulatory activity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2025,Skin lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2026,Patient flare-up of psoriatic arthritis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2027,NCSs' feelings and experiences after RTW
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2028,15 NCSs in China
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2029,psychology of RTW
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2030,support
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2031,use of professional strengths
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2032,insights and professional development of NCSs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2033,infection
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2034,nausea-vomiting
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2035,dyspnea
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2036,reason for the patient's emergency department visit
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2037,patient's knowledge of when to seek medical help
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2038,recurrent visits of cancer patients to emergency departments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2039,inadequacy of comprehensive information available to patients and caregivers concerning pursuit of emergency medical intervention
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2040,preservation of gastric drainage veins is not feasible
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2041,higher fasting plasma glucose levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2042,higher serum uric acid level
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2043,lower estimated glomerular filtration rates
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2044,higher rates of abnormal urinary cytology
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2045,urine pH status
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2046,oral potentially malignant disorders
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2047,image distortion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2048,misdiagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2049,missed diagnosis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2050,You Only Look Once version 8
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2051,lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2052,total accuracy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2053,all three lesion types in MSR-enhanced image set
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2054,sensitivity of complete correct recognition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2055,complex multi-lesion images in MSR-enhanced image set
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2056,models trained with AHE and ACE preprocessing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2057,MSR algorithm
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2058,object detection ability in computer vision model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2059,misdiagnosis of OPMDs lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2060,missed diagnosis of OPMDs lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2061,Laparoscopic and robotic surgery
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2062,Chromodomain-Helicase-DNA-binding protein 1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2063,Loss of CHD1
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2064,resistance to androgen receptor therapies in prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2065,PTEN loss in prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2066,Refractory B-cell non-Hodgkin lymphoma patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2067,CAR T-cell therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2068,EEG abnormalities grade 1 and 2 pre-infusion
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2069,Post-infusion qualitative EEG abnormalities grade 2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2070,Post-infusion qualitative EEG abnormalities grade 3
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2071,Financial toxicity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2072,73.7% as per the COST-FACIT scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2073,66% as per the CFPB scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2074,Higher financial toxicity on the COST-FACIT scale
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2075,History of tobacco chewing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2076,significantly greater financial toxicity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2077,"Monthly family income less than ₹50,000"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2078,Lack of health insurance
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2079,Illiteracy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2080,Depression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2081,Cognitive impairment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2082,Therapy planned with palliative intent
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2083,63.7% patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2084,Discharge destination after inpatient rehabilitation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2085,function after inpatient rehabilitation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2086,Weighted average total FIM percent gain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2087,Average FIM efficiency
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2088,Weighted average motor gain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2089,Weighted average cognitive gain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2090,weighted average cognitive gain
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2091,High-sensitivity C-reactive protein (hsCRP) baseline levels
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2092,relative dose intensity (RDI) >70%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2093,relative dose intensity (RDI)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2094,"Highest tertiles of hsCRP, interleukin-6, and tumor necrosis factor-α receptor-II"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2095,higher baseline body mass index
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2096,higher total lean mass
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2097,higher total fat mass
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2098,semi-automatic method
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2099,Threshold vascular index value of 15.4%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2100,Vascular index with monochromatic Superb Microvascular Index
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2101,Monochromatic Superb Microvascular Index analysis of solid focal lesions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2102,histological findings in terms of malignant/benign predictive value
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2103,histological vascular changes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2104,162.08 median
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2105,24.66 median
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2106,139.68 median
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2107,23.34 median
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2108,69.05 median
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2109,8.22 median
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2110,Different oncogenic risk models
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2111,Intraclass correlation coefficient
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2112,therapeutic potential as selective anticancer agents
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2113,cytotoxicity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2114,anticancer drugs
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2115,Dinoflagellates of species Amphidinium carterae
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2116,Chemical extracts from Amphidinium carterae strains
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2117,phosphorylated STAT3 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2118,cisplatin resistance in non-small-cell lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2119,Scedosporium apiospermum
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2120,effect of combination treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2121,CHNQD-02792 (13)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2122,HT-29 cells at 9 μM
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2123,CHNQD-02792 (4.5 μM)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2124,CDK1 in HT-29 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2125,G2/M arrest in HT-29 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2126,apoptosis in HT-29 cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2127,CD4+ T cells after cryo-thermal therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2128,Activated CD4+ and CD8+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2129,Interaction between activated T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2130,Activated CD8+ and CD4+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2131,CD4+ Th1-dominant cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2132,LFA-1/ICAM-1 adhesion pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2133,CD4+ and CD8+ T cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2134,increased breast cancer risk in early-onset sporadic breast cancer patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2135,proliferation in luminal A and triple-negative breast cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2136,migration in luminal A and triple-negative breast cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2137,invasion in luminal A and triple-negative breast cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2138,cisplatin-induced apoptosis in luminal A and triple-negative breast cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2139,apoptosis suppression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2140,combination of AdipoRon and Paclitaxel
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2141,combination of AdipoRon and Paclitaxel efficacy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2142,inhibition of AMP-activated protein kinase by Compound-C
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2143,cell growth in non-small cell lung cancer cells treated with combination of AdipoRon and Paclitaxel
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2144,hindrance of extracellular signal-regulated kinase 1/2 cascade by PD98059
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2145,primary CRAC samples
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2146,Tumor metabolism
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2147,cancer therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2148,TP53 inducible glycolysis and apoptosis regulator
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2149,cellular and molecular processes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2150,cancer cell metabolism
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2151,Aerobic glycolysis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2152,rapid energy production
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2153,biosynthetic intermediates for proliferation
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2154,Inhibition of glycolysis by TP53 inducible glycolysis and apoptosis regulator
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2155,Metabolic shift caused by TP53 inducible glycolysis and apoptosis regulator
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2156,tumor-suppressive effect
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2157,different types of cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2158,Patients in early stages of endometrial cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2159,treatment targets for cancer stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2160,CD4+ and CD8+ T cell capacity to kill GBM cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2161,HMGB1-RAGE signaling pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2162,Cancer metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2163,Universal physical marker for malignancy of cancer types
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2164,More metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2165,Mechanical properties of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2166,Mechanical measurements of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2167,Mechanical characteristics of cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2168,"ECM involvement, cell associations, biological multi-omics analyses, dynamic-mechanical analysis of cancer cells"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2169,Malignant potential of tumors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2170,Malignant pleural mesothelioma pathogenesis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2171,Malignant pleural mesothelioma metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2172,Malignant pleural mesothelioma resistance to therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2173,epithelial-mesenchymal transition in Malignant pleural mesothelioma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2174,diagnostic and prognostic significance in Malignant pleural mesothelioma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2175,reversing epithelial-mesenchymal transition
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2176,epithelial-mesenchymal transition-induced vulnerabilities
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2177,clinical trial for Malignant pleural mesothelioma treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2178,novel therapeutic strategies aimed at reducing CSC burden in cancers and improving patient outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2179,graft-versus-host disease
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2180,tumor cell motility depending on cell type
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2181,integrin expression on bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2182,cell adhesion of bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2183,metastatic potential of parental bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2184,metastatic potential of cisplatin-resistant bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2185,45% of patients with oncologic SLE
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2186,21% of the dose per fraction in 5 oncological SLE patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2187,chemotherapies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2188,cardiac defects
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2189,microvascular defects
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2190,cardiac and microvascular defects
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2191,cancer survivors who do not succumb to relapse
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2192,polyphenols
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2193,glioblastoma malignancies
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2194,ability to regenerate tumor heterogeneity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2195,relentless progression of glioblastoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2196,inevitable recurrence of glioblastoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2197,Perivascular microenvironments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2198,stemness of glioblastoma stem cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2199,Hypoxic microenvironments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2200,unique heterogeneous clinical and pathological entity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2201,androgen receptor pathway inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2202,advanced prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2203,Monte Carlo Markov model
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2204,management of advanced prostate cancer to end-of-life
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2205,metastatic castration-sensitive prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2206,nonmetastatic castration-sensitive prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2207,metastatic castration-resistant prostate cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2208,CAD 100K per QALY
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2209,early androgen receptor pathway inhibitor use
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2210,metastatic castration-sensitive prostate cancer-starting patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2211,nonmetastatic castration-sensitive prostate cancer-starting patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2212,abiraterone
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2213,advanced/metastatic non-small cell lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2214,early non-small cell lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2215,I-IIIA
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2216,study population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2217,Stage IB-IIIA non-small cell lung cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2218,70.9 years
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2219,many definitive treatment patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2220,neoadjuvant use
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2221,all treatment groups
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2222,54.6% of patients receiving adjuvant therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2223,immune checkpoint inhibitors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2224,definitive chemoradiation patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2225,surgical patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2226,surgical patient outcomes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2227,definitive chemoradiation or radiation patients without systemic therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2228,Annual per-beneficiary spending
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2229,32.8% from CAD 4422 in 2017/18 to CAD 6579 in 2020/21
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2230,Small-molecule targeted therapy and immunotherapy drug classes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2231,Declaration of emergency for SARS-CoV-2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2232,Number of beneficiaries receiving low-cost take-home cancer medications within cytotoxic chemotherapy and hormonal therapy drug class
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2233,Increase in number of beneficiaries receiving low-cost take-home cancer medications within cytotoxic chemotherapy and hormonal therapy drug class
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2234,cisplatin-naïve human bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2235,cisplatin-resistant human bladder cancer cells
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2236,Antitumor effect of crizotinib
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2237,phosphorylated activation of c-Met/PI3K/Akt pathway
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2238,Cancer diagnosis and its treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2239,Child's and adolescent's normal level of physical activity
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2240,"When tailored to patient's age, treatment phase, and clinical condition"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2241,Physical fitness
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2242,Strength
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2243,Quality of life
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2244,Fatigue
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2245,Cancer treatment in children and adolescents
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2246,Fiberoptic Endoscopic Evaluation of Swallowing (FEES)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2247,Late radiation-associated dysphagia (late-RAD)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2248,head and neck cancer (HNC) patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2249,This study
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2250,FEES-based assessment to characterize swallowing safety and efficacy profiles
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2251,FEES-based assessment to identify distinct phenotypes in HNC patients with late-RAD
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2252,FEES-based assessment to examine correlations between safety and efficacy parameters
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2253,Twenty-four post-radiotherapy HNC patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2254,"standardized FEES protocols across three bolus consistencies (liquid, semisolid, solid)"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2255,Penetration-Aspiration Scale (PAS)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2256,Yale Pharyngeal Residue Severity Rating Scale (YPRSRS)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2257,the cohort of HNC patients with late-RAD
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2258,HNC patients with late-RAD (92%)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2259,HNC patients with late-RAD (37.5%)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2260,HNC patients with late-RAD (25%)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2261,Forty-six percent of patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2262,multiple dysphagia phenotypes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2263,liquid consistency (62.5%)
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2264,Residue
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2265,"semisolid consistency (82.6% valleculae, 52.2% pyriform sinuses)"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2266,"solid consistency (92.3% valleculae, 53.8% pyriform sinuses)"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2267,Immunotherapy and chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2268,emerging treatment combinations for salivary gland carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2269,Resistance mechanisms
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2270,challenges in treatment of salivary gland carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2271,Limited therapeutic efficacy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2272,Overall response rates
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2273,most systemic therapies for salivary gland carcinomas
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2274,KEYNOTE-024
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2275,pembrolizumab approval in first-line setting for metastatic NSCLC with PD-L1 ≥ 50%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2276,up to 10%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2277,first-line pembrolizumab
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2278,patients with locally advanced and metastatic NSCLC with high PD-L1 expression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2279,≥ 50%
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2280,Brandenburg
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2281,stages T3-/T4N+
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2282,stages T1N+ or T2
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2283,Lower proportion of pre-treated T3/T4N+ patients in rural Brandenburg
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2284,significant survival difference
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2285,rural Brandenburg and urban Berlin
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2286,individuals at high risk of pancreatic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2287,One-time screening for pancreatic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2288,no screening among high-risk individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2289,Annual screening for pancreatic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2290,among high-risk individuals
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2291,high-risk for pancreatic cancer
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2292,Screening using endoscopic ultrasound
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2293,potential window for curative treatment
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2294,molecular testing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2295,area under the curve of 0.761 for predicting occult pleural metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2296,area under the curve of 0.890 in training cohort for predicting occult pleural metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2297,area under the curve of 0.855 in validation cohort for predicting occult pleural metastasis
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2298,48.9 cases per million per year
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2299,fragmented across institutions
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2300,health-related quality of life in dysphagia patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2301,Depression levels in dysphagia and Control-2 patients after psychooncological counseling
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2302,similar to levels in the general population
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2303,28-year-old male
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2304,other skeletal segments
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2305,Fusion transcript ACTB::FOSB
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2306,molecular analysis through targeted RNA sequencing
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2307,Rapid skeletal progression and onset of distant metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2308,primary pseudomyogenic hemangioendothelioma of the bone case
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2309,invasive lobular carcinoma in her right breast
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2310,suspicious splenic lesions suggestive of metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2311,favorable oncologic outcomes in selected cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2312,unifocal vulvar tumors < 4 cm with stromal invasion > 1 mm and clinically negative nodes
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2313,an emerging detection option for sentinel lymph node biopsy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2314,therapy for soft tissue sarcoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2315,Secondary effects on cardiac and endocrine systems
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2316,Development of secondary cancers
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2317,relationships
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2318,patients with Acute Myeloid Leukemia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2319,tumour lysis syndrome
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2320,"low incidence of mild, transient tumour lysis syndrome by Cairo-Bishop criteria"
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2321,statistically significant or clinically relevant changes in urinary irritative/obstructive symptoms
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2322,statistically significant or clinically relevant changes in urinary incontinence
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2323,lymph node metastases before distant metastases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2324,well-documented
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2325,focus group
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2326,semi-structured interviews
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2327,recurrence rate
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2328,Patients with adjuvant therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2329,recurrence rates to patients without adjuvant therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2330,recurrence rates regardless of disease stage
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2331,less than 1% of Ectopic adrenocorticotropic hormone syndrome cases
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2332,First-line chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2333,Cisplatin/Etoposide/Durvalumab
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2334,patient with breast neuroendocrine carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2335,Disease progression
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2336,four cycles of first-line chemotherapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2337,Second-line therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2338,Adriamycin/Cyclophosphamide
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2339,severe and refractory hypokalemia
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2340,Third-line therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2341,Nab-Paclitaxel
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2342,Alpelisib therapy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2343,Bilateral laparoscopic adrenalectomy
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2344,definitive treatment option for Ectopic adrenocorticotropic hormone syndrome resulting in Cushing's syndrome secondary to breast neuroendocrine carcinoma
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2345,biological sex and gender factors
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2346,male patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2347,female patients
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2348,sex-specific patterns
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2349,females
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2350,favorable prognostic mutations in leukemias
+4:21a121b1-edc6-4f27-92d9-a818cb434acd:2351,chromosomal abnormalities in multiple myeloma

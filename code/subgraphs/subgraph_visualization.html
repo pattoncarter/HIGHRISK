@@ -1,0 +1,163 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 800px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:38", "label": "HMGB1-induced cell migration\nEntity", "shape": "dot", "title": "{\n  \"name\": \"HMGB1-induced cell migration\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "Metformin\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Metformin\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:32", "label": "HMGB1\nEntity", "shape": "dot", "title": "{\n  \"name\": \"HMGB1\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:37", "label": "HMGB1 pro-inflammatory functions\nEntity", "shape": "dot", "title": "{\n  \"name\": \"HMGB1 pro-inflammatory functions\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1567", "label": "cell proliferation\nEntity", "shape": "dot", "title": "{\n  \"name\": \"cell proliferation\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:39", "label": "RAGE stabilization on the cell membrane\nEntity", "shape": "dot", "title": "{\n  \"name\": \"RAGE stabilization on the cell membrane\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:40", "label": "NF-\u03baB signaling\nEntity", "shape": "dot", "title": "{\n  \"name\": \"NF-\\u03baB signaling\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:41", "label": "epithelial-to-mesenchymal transition\nEntity", "shape": "dot", "title": "{\n  \"name\": \"epithelial-to-mesenchymal transition\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:42", "label": "E-cadherin\nEntity", "shape": "dot", "title": "{\n  \"name\": \"E-cadherin\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:43", "label": "vimentin\nEntity", "shape": "dot", "title": "{\n  \"name\": \"vimentin\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:44", "label": "\u03b2-catenin at the cell membrane\nEntity", "shape": "dot", "title": "{\n  \"name\": \"\\u03b2-catenin at the cell membrane\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:45", "label": "HMGB1 protein levels\nEntity", "shape": "dot", "title": "{\n  \"name\": \"HMGB1 protein levels\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:46", "label": "RAGE protein levels\nEntity", "shape": "dot", "title": "{\n  \"name\": \"RAGE protein levels\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:49", "label": "HMGB1/RAGE-driven metastasis\nEntity", "shape": "dot", "title": "{\n  \"name\": \"HMGB1/RAGE-driven metastasis\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1484", "label": "triple-negative breast cancer\nEntity", "shape": "dot", "title": "{\n  \"name\": \"triple-negative breast cancer\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1362", "label": "tumor progression\nEntity", "shape": "dot", "title": "{\n  \"name\": \"tumor progression\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1361", "label": "Ion channels\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Ion channels\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1363", "label": "proliferation\nEntity", "shape": "dot", "title": "{\n  \"name\": \"proliferation\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1364", "label": "apoptosis\nEntity", "shape": "dot", "title": "{\n  \"name\": \"apoptosis\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:928", "label": "migration\nEntity", "shape": "dot", "title": "{\n  \"name\": \"migration\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1098", "label": "metastasis\nEntity", "shape": "dot", "title": "{\n  \"name\": \"metastasis\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1447", "label": "Epithelial-mesenchymal transition biomarkers\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Epithelial-mesenchymal transition biomarkers\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1448", "label": "glioblastoma cells\nEntity", "shape": "dot", "title": "{\n  \"name\": \"glioblastoma cells\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1449", "label": "chemoresistance\nEntity", "shape": "dot", "title": "{\n  \"name\": \"chemoresistance\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1450", "label": "relapse after treatment\nEntity", "shape": "dot", "title": "{\n  \"name\": \"relapse after treatment\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:33", "label": "various cancers\nEntity", "shape": "dot", "title": "{\n  \"name\": \"various cancers\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:34", "label": "RAGE\nEntity", "shape": "dot", "title": "{\n  \"name\": \"RAGE\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:287", "label": "Treatment with GLP-1 receptor agonists\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Treatment with GLP-1 receptor agonists\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:285", "label": "weight reduction of 10% or more in obese people with diabetes or pre-diabetes\nEntity", "shape": "dot", "title": "{\n  \"name\": \"weight reduction of 10% or more in obese people with diabetes or pre-diabetes\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:284", "label": "Intensive lifestyle intervention\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Intensive lifestyle intervention\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:286", "label": "Bariatric (metabolic) surgery\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Bariatric (metabolic) surgery\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:288", "label": "Treatment with metformin\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Treatment with metformin\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1978", "label": "ATG4B\nEntity", "shape": "dot", "title": "{\n  \"name\": \"ATG4B\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1565", "label": "Long non-coding RNAs\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Long non-coding RNAs\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:421", "label": "Crizotinib\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Crizotinib\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1483", "label": "Xanthocillin X dimethyl ether\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Xanthocillin X dimethyl ether\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1979", "label": "cysteine protease for autophagosome formation\nEntity", "shape": "dot", "title": "{\n  \"name\": \"cysteine protease for autophagosome formation\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1992", "label": "tumor promoter in osteosarcoma\nEntity", "shape": "dot", "title": "{\n  \"name\": \"tumor promoter in osteosarcoma\"\n}"}, {"color": "#97c2fc", "id": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1993", "label": "inhibit tumor growth in osteosarcoma\nEntity", "shape": "dot", "title": "{\n  \"name\": \"inhibit tumor growth in osteosarcoma\"\n}"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"reduces\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:38"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"interacts with\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:32"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"inhibits\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:37"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"reduces\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1567"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"decreases\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:39"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"disrupts\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:40"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"reverses\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:41"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"increases\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:42"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"reduces\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:43"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"stabilizes\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:44"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"lowers\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:45"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"lowers\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:46"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"inhibits\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:49"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:36", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"has potential as therapeutic agent in\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1484"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1361", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"play crucial roles in\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1362"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1361", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"regulate\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1363"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1361", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"regulate\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1364"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1361", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"regulate\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:928"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1361", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"regulate\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1098"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1447", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"are associated with\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1362"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1447", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"are modulated in\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1448"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1447", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"are associated with\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1449"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1447", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"are associated with\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1450"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:32", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"is linked to\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1362"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:32", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"is overexpressed in\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:33"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:32", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"binds to\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:34"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:287", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"causes\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:285"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:284", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"causes\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:285"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:286", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"causes\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:285"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:288", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"causes\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:285"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1978", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"is overexpressed in\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:33"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1565", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"regulate\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1567"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:421", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"reduces expression of\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:42"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:421", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"enhances expression of\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:43"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1483", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"treats\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1484"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1978", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"is\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1979"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1978", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"acts as\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1992"}, {"arrows": "to", "from": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1978", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"is potential therapeutic target to\"\n}", "to": "4:21a121b1-edc6-4f27-92d9-a818cb434acd:1993"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.3,
+            "damping": 0.09,
+            "gravitationalConstant": -80000,
+            "springConstant": 0.001,
+            "springLength": 250
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

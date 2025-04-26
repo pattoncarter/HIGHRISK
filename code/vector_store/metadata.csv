@@ -1,4 +1,12 @@
 pubmed_id,doi,title
+40279344,10.1371/journal.pone.0321736,Noninvasive prognostication of hepatocellular carcinoma based on cell-free DNA methylation.
+40279337,10.1371/journal.pone.0321020,Solute carrier family 2 member 2 (glucose transporter 2): a common factor of hepatocyte and hepatocellular carcinoma differentiation.
+40279333,10.1111/cts.70211,Ethnic Sensitivity Assessment of Mosunetuzumab Pharmacokinetics and Pharmacodynamics in Chinese Patients With Relapsed or Refractory Follicular Lymphoma.
+40279317,10.1371/journal.pone.0320783,"Prognostic significance of KRAS, NRAS, BRAF, and PIK3CA mutations in stage II/III colorectal cancer: A retrospective study and meta-analysis."
+40279308,10.1146/annurev-immunol-082223-044122,Molecular Mechanisms Governing CD8 T Cell Differentiation and Checkpoint Inhibitor Response in Cancer.
+40279260,10.7554/eLife.95545,Changes in local mineral homeostasis facilitate the formation of benign and malignant testicular microcalcifications.
+40279206,10.1177/03000605251331250,A novel cancer-associated fibroblast-related gene signature for predicting diffuse large B cell lymphoma prognosis using weighted gene co-expression network analysis and machine learning.
+40279127,10.1001/jamanetworkopen.2025.7227,Geographic Variation of Racial and Ethnic Differences in Uterine Cancer Survival.
 40279065,10.1007/s12105-025-01790-2,Immunohistochemical Expression of PARK2 and YAP in Oral Epithelial Dysplasia and Oral Squamous Cell Carcinoma.
 40279034,10.1007/s12105-025-01785-z,Ghost Cell Odontogenic Carcinoma of the Anterior Maxilla with ARID1A Mutation: A Case Report and Literature Review.
 40279002,10.1186/s43046-025-00269-z,Upregulated ATG4B predicts poor prognosis and correlates with angiogenesis in osteosarcoma.
@@ -9,3 +17,85 @@ pubmed_id,doi,title
 40278959,10.1007/s10856-025-06883-6,"Comparison of structural, optical, and thermal properties in MoS<sub>2</sub> based nanocomposites into cancer therapy."
 40278957,10.1007/s12105-025-01789-9,Melanotic Neuroectodermal Tumor of Infancy: Clinicopathological Evaluation of a 10-Year Consecutive Case Series from a Tertiary Cancer Center.
 40278951,10.1007/s10238-025-01662-7,The role of CXC chemokines and receptors in breast cancer.
+40278948,10.1007/s00403-025-04191-1,Hematopoietic stem cell translation for relapse of psoriasis. Systematic review.
+40278945,10.1007/s00520-025-09467-w,"""Returning beyond cancer""-a journey of professional reinvention for nurses."
+40278937,10.1007/s00520-025-09462-1,Investigation of the reasons and frequency of oncology patients over the age of 65 who apply to the emergency department.
+40278935,10.1007/s00423-025-03702-y,How-I-do-it: a novel technique of portal vein-right gastroepiploic vein side-to-side anastomosis to improve gastric venous congestion following total pancreatectomy: a retrospective cohort study and literature review (with video).
+40278931,10.1007/s00345-025-05648-8,Acidic urine as a prognostic factor after intravesical Bacillus Calmette-Guérin induction therapy for nonmuscle-invasive bladder cancer.
+40278928,10.1007/s00784-025-06357-7,Application of image enhancement in the auxiliary diagnosis of oral potentially malignant disorders.
+40278927,10.1007/s00423-025-03662-3,Comparison of outcomes of laparoscopic vs. robotic surgical resection of pancreatic neuroendocrine tumors: a systematic review and meta-analysis.
+40278910,10.1007/s11033-025-10536-w,"CHD1 dysregulation in cancer: bridging chromatin instability, therapy resistance, and immune evasion."
+40278905,10.1007/s00415-025-13102-3,EEG as a predictive biomarker of neurotoxicity in anti-CD19 CAR T-cell therapy.
+40278900,10.1007/s00520-025-09252-9,Prevalence and impact of financial toxicity in older patients with cancer: a prospective observational study in India.
+40278898,10.1007/s00345-025-05631-3,Incidence of benign prostatic hyperplasia in testicular cancer survivors in the Veteran's affairs health system.
+40278896,10.1007/s00520-025-09468-9,Optimizing post-acute care inpatient rehabilitation for patients with brain metastasis: A systematic review of functional outcomes.
+40278841,10.1002/cncr.35865,Impact of resistance training on inflammatory biomarkers and associations with treatment outcomes in colon cancer.
+40278711,10.3390/tomography11040044,Radiomic Features of Mesorectal Fat as Indicators of Response in Rectal Cancer Patients Undergoing Neoadjuvant Therapy.
+40278710,10.3390/tomography11040043,The Role of Monochromatic Superb Microvascular Index to Predict Malignancy of Solid Focal Lesions: Correlation Between Vascular Index and Histological Bioptic Findings.
+40278709,10.3390/tomography11040042,Variability Between Radiation-Induced Cancer Risk Models in Estimating Oncogenic Risk in Intensive Care Unit Patients.
+40278664,10.3390/toxins17040166,Ion-Channel-Targeting Scorpion Recombinant Toxin as Novel Therapeutic Agent for Breast Cancer.
+40278650,10.3390/toxins17040152,Enhancing the Efficacy of Melanoma Treatment: The In Vitro Chemosensitising Impact of <i>Vipera ammodytes</i> Venom on Human Melanoma Cell Lines.
+40278640,10.2196/57342,"Usability and User Experience Testing of a Co-Designed Electronic Patient-Reported Outcomes App (""MyPal for Adults"") for Palliative Cancer Care: Mixed Methods Study."
+40278416,10.1510/mmcts.2025.029,Uniportal robotic right lower sleeve lobectomy.
+40278295,10.3390/md23040173,Effects of <i>Amphidinium carterae</i> Phytocompounds on Proliferation and the Epithelial-Mesenchymal Transition Process in T98G Glioblastoma Cells.
+40278288,10.3390/md23040167,Extracts from <i>Allium pseudojaponicum Makino</i> Target STAT3 Signaling Pathway to Overcome Cisplatin Resistance in Lung Cancer.
+40278267,10.3390/md23040146,Xanthocillin X Dimethyl Ether Exhibits Anti-Proliferative Effect on Triple-Negative Breast Cancer by Depletion of Mitochondrial Heme.
+40278259,10.3390/md23040138,Marine Sponge-Derived Gukulenin A Sensitizes Ovarian Cancer Cells to PARP Inhibition via Ferroptosis Induction.
+40278257,10.3390/md23040136,Marine-Derived Yaequinolone Derivative CHNQD-02792 Suppresses Colorectal Cancer Cell Proliferation and Induces Apoptosis via MAPK Pathway Modulation.
+40277945,10.3390/cells14080620,LFA-1/ICAM-1 Interactions Between CD8<sup>+</sup> and CD4<sup>+</sup> T Cells Promote CD4<sup>+</sup> Th1-Dominant Differentiation and CD8<sup>+</sup> T Cell Cytotoxicity for Strong Antitumor Immunity After Cryo-Thermal Therapy.
+40277941,10.3390/cells14080616,LncRNAs Regulate Vasculogenic Mimicry in Human Cancers.
+40277937,10.3390/cells14080612,"The miR-146a Single Nucleotide Polymorphism rs2910164 Promotes Proliferation, Chemoresistance, Migration, Invasion, and Apoptosis Suppression in Breast Cancer Cells."
+40277927,10.3390/cells14080602,Combining AdipoRon with Paclitaxel Unveils Synergistic Potential in Non-Small Cell Lung Cancer Cells via AMPK-ERK1/2 Signaling.
+40277924,10.3390/cells14080599,Dual Role of HNF4α in Colorectal Adenocarcinoma During Carcinogenesis and Metastasis.
+40277923,10.3390/cells14080598,Deciphering the Controversial Role of TP53 Inducible Glycolysis and Apoptosis Regulator (TIGAR) in Cancer Metabolism as a Potential Therapeutic Strategy.
+40277919,10.3390/cells14080594,The Importance of Cancer Stem Cells and Their Pathways in Endometrial Cancer: A Narrative Review.
+40277917,10.3390/cells14080592,Regulatory T Cell Mimicry by a Subset of Mesenchymal GBM Stem Cells Suppresses CD4 and CD8 Cells.
+40277915,10.3390/cells14080590,Metformin Inhibits Cell Motility and Proliferation of Triple-Negative Breast Cancer Cells by Blocking HMGB1/RAGE Signaling.
+40277912,10.3390/cells14080587,Resistance in Lung Cancer Immunotherapy and How to Overcome It: Insights from the Genetics Perspective and Combination Therapies Approach.
+40277910,10.3390/cells14080584,Softness or Stiffness What Contributes to Cancer and Cancer Metastasis?
+40277909,10.3390/cells14080585,The Role of Epithelial-Mesenchymal Transition in Malignant Pleural Mesothelioma: From Pathogenesis to Diagnosis and Treatment.
+40277903,10.3390/cells14080578,"The Role of GREMLIN1, a Bone Morphogenetic Protein Antagonist, in Cancer Stem Cell Regulation."
+40277899,10.3390/cells14080574,Lysosomes and LAMPs as Autophagy Drivers of Drug Resistance in Colorectal Cancer.
+40277898,10.3390/cells14080572,Evolution of Allogeneic Stem Cell Transplantation: Main Focus on AML.
+40277897,10.3390/cells14080570,Artesunate Inhibits Metastatic Potential in Cisplatin-Resistant Bladder Cancer Cells by Altering Integrins.
+40277895,10.3390/cells14080569,Increased Sensitivity to Ionizing Radiation in a Relevant Subset of Patients with Cancer and Systemic Lupus Erythematosus.
+40277893,10.3390/cells14080567,Inflammation-Associated Carcinogenesis in Inflammatory Bowel Disease: Clinical Features and Molecular Mechanisms.
+40277892,10.3390/cells14080566,Thinking Outside the Therapeutic Box: The Potential of Polyphenols in Preventing Chemotherapy-Induced Endothelial Dysfunction.
+40277890,10.3390/cells14080564,Increased Risk of Cancer-An Integral Component of the Cardio-Renal-Metabolic Disease Cluster and Its Management.
+40277888,10.3390/cells14080562,"Glioblastoma Stem Cells at the Nexus of Tumor Heterogeneity, Immune Evasion, and Therapeutic Resistance."
+40277798,10.3390/curroncol32040242,Glioblastoma in NF1: A Unique Entity-A Literature Review Focusing on Surgical Implication and Our Experience.
+40277797,10.3390/curroncol32040240,Cost-Effectiveness Analysis of Contemporary Advanced Prostate Cancer Treatment Sequences.
+40277796,10.3390/curroncol32040241,40th Annual CAPO Conference-Responding to the Human Experience of Cancer and Caring for the Soul: Building on 40 Years of Global Leadership in Psychosocial Oncology.
+40277795,10.3390/curroncol32040239,Real-World Treatment Patterns and Outcomes Among Patients with Early Non-Small Cell Lung Cancer.
+40277794,10.3390/curroncol32040238,Perspectives on Outpatient Delivery of Bispecific T-Cell Engager Therapies for Multiple Myeloma.
+40277793,10.3390/curroncol32040237,Trends in the Cost and Utilization of Publicly Reimbursed Cancer Medications Dispensed as Take-Home Treatments from 2017-2021.
+40277792,10.3390/curroncol32040236,"Crizotinib Inhibits Viability, Migration, and Invasion by Suppressing the <i>c-Met</i>/<i>PI3K</i>/<i>Akt</i> Pathway in the Three-Dimensional Bladder Cancer Spheroid Model."
+40277791,10.3390/curroncol32040234,Supervised Physical Activity Interventions in Children and Adolescents with Cancer Undergoing Treatment-A Systematic Review.
+40277789,10.3390/curroncol32040233,"Fiberoptic Endoscopic Evaluation of Swallowing (FEES) in Head and Neck Cancer Patients with Late Radiation-Associated Dysphagia: Swallowing Safety, Efficacy, and Dysphagia Phenotype."
+40277788,10.3390/curroncol32040232,Advances in Targeted and Systemic Therapy for Salivary Gland Carcinomas: Current Options and Future Directions.
+40277787,10.3390/curroncol32040231,Postmastectomy Breast Reconstruction in Patients with Non-Metastatic Breast Cancer: A Systematic Review.
+40277786,10.3390/curroncol32040230,"LAG3, TIM3 and TIGIT: New Targets for Immunotherapy and Potential Associations with Radiotherapy."
+40277785,10.3390/curroncol32040229,Long-Term Outcomes in Patients with Locally Advanced and Metastatic Non-Small Cell Lung Cancer with High PD-L1 Expression.
+40277784,10.3390/curroncol32040228,Gastric Cancer in the Countryside or in the City: Does the Prognosis Change? An Analysis from the German States of Brandenburg and Berlin.
+40277783,10.3390/curroncol32040227,Prognostic and Inflammatory Differences Between Upper and Mid-Lower Rectal Cancers in Non-Metastatic Stage II-II Disease.
+40277782,10.3390/curroncol32040225,A Systematic Review of Cost-Effectiveness Studies on Pancreatic Cancer Screening.
+40277781,10.3390/curroncol32040226,Modern Treatment of Skeletal Metastases: Multidisciplinarity and the Concept of Oligometastasis in the Recent Literature.
+40277780,10.3390/curroncol32040224,"<i>Folliculin</i> (<i>FLCN</i>) in Thyroid Tumors: Incidence, Significance, and Role as a Driver Gene and Secondary Alteration."
+40277779,10.3390/curroncol32040223,Computed Tomography-Based Radiomic Nomogram to Predict Occult Pleural Metastasis in Lung Cancer.
+40277777,10.3390/curroncol32040222,Primary Central Nervous System Tumors in Adolescents: A Population-Based Study on Epidemiology and Clinical Pathways in a Challenging Age Group.
+40277776,10.3390/curroncol32040220,"The Role of Dysphagia on Head and Neck Cancer Patients' Quality of Life, Functional Disabilities and Psychological Distress: Outcomes of Cancer Rehabilitation from an Observational Single-Center Study."
+40277775,10.3390/curroncol32040219,A Rare Malignant Case of a Primary Pseudomyogenic Haemangioendothelioma of the Bone.
+40277774,10.3390/curroncol32040218,A Rare Case of Non-Hodgkin B-Cell Lymphoma Following Invasive Lobular Carcinoma of the Breast: A Case Report.
+40277773,10.3390/curroncol32040217,Low-Malignant-Potential Adenocarcinoma: A Histological Category with a Significantly Better Prognosis than Other Solid Adenocarcinomas at IA Stage.
+40277771,10.3390/curroncol32040215,Current Limitations of Sentinel Node Biopsy in Vulvar Cancer.
+40277770,10.3390/curroncol32040214,Survivorship Considerations and Management in the Adolescent and Young Adult Sarcoma Population: A Review.
+40277769,10.3390/curroncol32040213,Incidence of Tumour Lysis Syndrome in Patients with Acute Myeloid Leukemia During Initiation of Therapy with Azacitidine and Venetoclax: A Retrospective Chart Review from a Canadian Single-Centre Perspective.
+40277768,10.3390/curroncol32040212,Long-Term Patient-Reported Bowel and Urinary Quality of Life in Patients Treated with Intensity-Modulated Radiotherapy Versus Intensity-Modulated Proton Therapy for Localized Prostate Cancer.
+40277767,10.3390/curroncol32040211,Merkel Cell Carcinoma of the Skin: Deducing the Pattern of Spread from an International Aggregated Database of 949 Patients.
+40277766,10.3390/curroncol32040209,The Relational Experience of Fear of Cancer Recurrence in Family Caregivers: A Reflexive Thematic Analysis Study.
+40277765,10.3390/curroncol32040208,Cancer Recurrence in Operated Primary Oral Squamous Cell Carcinoma Patients Seems to Be Independent of the Currently Available Postoperative Therapeutic Approach: A Retrospective Clinical Study.
+40277764,10.3390/curroncol32040207,Canadian Expert Consensus Recommendations for the Diagnosis and Management of Glioblastoma: Results of a Delphi Study.
+40277763,10.3390/curroncol32040206,Unveiling the Synergistic Potential: Bispecific Antibodies in Conjunction with Chemotherapy for Advanced Non-Small-Cell Lung Cancer Treatment.
+40277762,10.3390/curroncol32040205,Neuroendocrine Breast Cancer-Associated Ectopic Adrenocorticotropic Hormone Syndrome Requiring Bilateral Adrenalectomy.
+40277761,10.3390/curroncol32040204,Sex and Gender in Myeloid and Lymphoblastic Leukemias and Multiple Myeloma: From Molecular Mechanisms to Clinical Outcomes.
+40277760,10.3390/curroncol32040203,Neuropilin-1: A Multifaceted Target for Cancer Therapy.
