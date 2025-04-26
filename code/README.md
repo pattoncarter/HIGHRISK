@@ -151,6 +151,3 @@ make up
 - PubMed data fetching may be subject to OpenAI API and PubMed API usage limits when scaled up significantly.
 
 ---
-
-Would you also like me to give you a version that uses even more formal academic report style formatting (for example if you want to submit this as a project deliverable)?  
-I can easily polish this even further if needed.
