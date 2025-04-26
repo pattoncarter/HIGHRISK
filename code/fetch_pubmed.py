@@ -56,9 +56,9 @@ def fetch_pubmed_articles(domain_term, max_articles=100, output_file="articles.j
     with open(save_path, "w") as f:
         json.dump(articles, f, indent=2)
 
-    print(f"✅ Saved {len(articles)} articles to {save_path}")
+    print(f"Saved {len(articles)} articles to {save_path}")
 
 if __name__ == "__main__":
     # Example for MVP
-    fetch_pubmed_articles("Oncology[MeSH Major Topic]", max_articles=10, output_file="oncology_articles.json")
+    fetch_pubmed_articles("Oncology[MeSH Major Topic]", max_articles=100, output_file="oncology_articles_100.json")
 
