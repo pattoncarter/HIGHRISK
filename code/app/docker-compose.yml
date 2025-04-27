@@ -1,0 +1,33 @@
+version: '3.9'
+
+services:
+  neo4j:
+    image: neo4j:latest
+    container_name: neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    environment:
+      - NEO4J_AUTH=none
+    volumes:
+      - neo4j_data:/data
+
+  hybridrag-app:
+    build: .
+    container_name: hybridrag-app
+    ports:
+      - "8501:8501"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - NEO4J_URI=${NEO4J_URI}
+      - VECTOR_DIR=${VECTOR_DIR}
+      - ARTICLES_FILE=${ARTICLES_FILE}
+    depends_on:
+      - neo4j
+    volumes:
+      - ./vector_store:/app/vector_store
+      - ./data:/app/data
+      - ./subgraphs:/app/subgraphs
+
+volumes:
+  neo4j_data:

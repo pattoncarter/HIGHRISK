@@ -1,0 +1,10 @@
+openai
+tqdm
+numpy
+pandas
+faiss-cpu
+python-dotenv
+neo4j
+streamlit
+pyvis
+biopython

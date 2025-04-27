@@ -44,8 +44,6 @@ At the project root, create a `.env` file with the following contents:
 ```
 OPENAI_API_KEY=your_openai_api_key
 NEO4J_URI=bolt://neo4j:7687
-NEO4J_USER=neo4j
-NEO4J_PASSWORD=password
 VECTOR_DIR=vector_store
 ARTICLES_FILE=data/oncology_articles_100.json
 ```
@@ -57,7 +55,7 @@ Replace `your_openai_api_key` with your actual OpenAI API key.
 Use the provided Makefile to spin everything up:
 
 ```bash
-make up
+sudo make up
 ```
 
 This command will:
@@ -134,11 +132,11 @@ There is no need to re-fetch articles or re-embed abstracts.
 3. Run:
 
 ```bash
-make up
+sudo make up
 ```
 
 4. Open your browser and navigate to [http://localhost:8501](http://localhost:8501).
-5. Enter a clinical research query (for example, "How does Metformin affect breast cancer?").
+5. Enter a clinical research query (for example, "How does Metformin affect breast cancer treatments?").
 6. Review the generated answer, sources, and interact with the subgraph visualization.
 7. Export your results as JSON if needed.
 
@@ -149,8 +147,7 @@ make up
 - This system is fully local and requires no external cloud infrastructure.
 - If desired, it can be easily deployed to AWS, GCP, or Azure using Docker Compose or container orchestration services.
 - PubMed data fetching may be subject to OpenAI API and PubMed API usage limits when scaled up significantly.
+- If you want to run Cypher commands against your neo4j database directly, you can access the portal at http://localhost:7474 and connect with no password
+- The Neo4j database is currently configured without a password in order to simplify deployment. Please be aware this was done with the intent of fully local deployment. If you choose to host this application it is best parctice to enable authentication on the Neo4j database.
 
 ---
-
-Would you also like me to give you a version that uses even more formal academic report style formatting (for example if you want to submit this as a project deliverable)?  
-I can easily polish this even further if needed.
