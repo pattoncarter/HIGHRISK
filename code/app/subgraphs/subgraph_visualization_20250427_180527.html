@@ -1,0 +1,163 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 800px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1533", "label": "Chemotherapy\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Chemotherapy\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1534", "label": "6 months in first-line treatment\nEntity", "shape": "dot", "title": "{\n  \"name\": \"6 months in first-line treatment\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1536", "label": "3 months in third-line treatment\nEntity", "shape": "dot", "title": "{\n  \"name\": \"3 months in third-line treatment\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:93", "label": "anemia\nEntity", "shape": "dot", "title": "{\n  \"name\": \"anemia\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:92", "label": "Deregulation of iron metabolism in cancer patients\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Deregulation of iron metabolism in cancer patients\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:94", "label": "toxic iron overload\nEntity", "shape": "dot", "title": "{\n  \"name\": \"toxic iron overload\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:95", "label": "gut microbiota\nEntity", "shape": "dot", "title": "{\n  \"name\": \"gut microbiota\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "venetoclax with hypomethylating agents\nEntity", "shape": "dot", "title": "{\n  \"name\": \"venetoclax with hypomethylating agents\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:585", "label": "acute myeloid leukemia\nEntity", "shape": "dot", "title": "{\n  \"name\": \"acute myeloid leukemia\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2098", "label": "elderly patients with acute myeloid leukemia\nEntity", "shape": "dot", "title": "{\n  \"name\": \"elderly patients with acute myeloid leukemia\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2099", "label": "acute myeloid leukemia patients unfit for standard treatments\nEntity", "shape": "dot", "title": "{\n  \"name\": \"acute myeloid leukemia patients unfit for standard treatments\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2100", "label": "0.57\nEntity", "shape": "dot", "title": "{\n  \"name\": \"0.57\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2101", "label": "0.52\nEntity", "shape": "dot", "title": "{\n  \"name\": \"0.52\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2102", "label": "0.71 in IDH mutation carriers\nEntity", "shape": "dot", "title": "{\n  \"name\": \"0.71 in IDH mutation carriers\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2103", "label": "0.64 in FLT-3 mutation carriers\nEntity", "shape": "dot", "title": "{\n  \"name\": \"0.64 in FLT-3 mutation carriers\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2104", "label": "0.44 in TP53 mutation carriers\nEntity", "shape": "dot", "title": "{\n  \"name\": \"0.44 in TP53 mutation carriers\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2105", "label": "neutropenia\nEntity", "shape": "dot", "title": "{\n  \"name\": \"neutropenia\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2106", "label": "thrombocytopenia\nEntity", "shape": "dot", "title": "{\n  \"name\": \"thrombocytopenia\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1342", "label": "cardiac issues\nEntity", "shape": "dot", "title": "{\n  \"name\": \"cardiac issues\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1341", "label": "Cancer medications\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Cancer medications\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:877", "label": "Cancer and related treatments\nEntity", "shape": "dot", "title": "{\n  \"name\": \"Cancer and related treatments\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:878", "label": "body composition\nEntity", "shape": "dot", "title": "{\n  \"name\": \"body composition\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2637", "label": "DNA methylation inhibitors\nEntity", "shape": "dot", "title": "{\n  \"name\": \"DNA methylation inhibitors\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2638", "label": "cancer treatment\nEntity", "shape": "dot", "title": "{\n  \"name\": \"cancer treatment\"\n}"}, {"color": "#97c2fc", "id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:584", "label": "miR-186-5p\nEntity", "shape": "dot", "title": "{\n  \"name\": \"miR-186-5p\"\n}"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1533", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"achieves median PFS of\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1534"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1533", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"achieves median PFS of\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1536"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:92", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"leads to\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:93"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:92", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"leads to\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:94"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:92", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"affects\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:95"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"causes\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:93"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"treats\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:585"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"shows efficacy in\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2098"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"shows efficacy in\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2099"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"has overall response rate of\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2100"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"has complete remission/complete remission with incomplete marrow recovery rate of\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2101"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"has complete remission/complete remission with incomplete marrow recovery rate of\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2102"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"has complete remission/complete remission with incomplete marrow recovery rate of\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2103"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"has complete remission/complete remission with incomplete marrow recovery rate of\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2104"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"causes\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2105"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2097", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"causes\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2106"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1341", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"cause\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1342"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:877", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"impair\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:878"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2637", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"are used in\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2638"}, {"arrows": "to", "from": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:584", "label": "RELATION", "length": 25, "title": "{\n  \"type\": \"is diminished in\"\n}", "to": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:585"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.3,
+            "damping": 0.09,
+            "gravitationalConstant": -80000,
+            "springConstant": 0.001,
+            "springLength": 250
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

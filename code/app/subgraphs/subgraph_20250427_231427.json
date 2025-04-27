@@ -1,0 +1,942 @@
+{
+  "nodes": [
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:41",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Photodynamic therapy"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:42",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "light and a photosensitizer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:690",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "multi-type cancers"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1198",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Frequent sleep trouble"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1199",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "High physical activity"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "incretin-based therapies"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:238",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Age"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2134",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Body mass index (BMI)"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2135",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Triglyceride (TG) levels"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2136",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "High-density lipoprotein-cholesterol (HDL-C) levels"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2149",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Women aged \u2265 40 years old"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2309",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Triple-negative breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2537",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sacituzumab govitecan"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:130",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:131",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Photothermal therapy"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:526",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Immune checkpoint inhibitors"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2578",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Metastasis"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:528",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "immune checkpoint inhibitors"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:132",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "standard therapeutic modalities for cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1466",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "diabetes mellitus"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1467",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "dipeptidyl peptidase-4 (DPP-4) inhibitors"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1468",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "glucagon-like peptide-1 (GLP-1) receptor agonists"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1469",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "dual GLP-1/glucose-dependent insulinotropic polypeptide (GIP) receptor agonists"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1470",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "weight reduction"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1471",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "metabolic regulation"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1472",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "thyroid cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1473",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "pancreatic cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1679",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "CEACAM6"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1474",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "prostate cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "colorectal cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:934",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Diet rich in bioactive compounds from Brassica species combined with physical activity"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:935",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Vitamin D"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:940",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "inflammatory responses"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:955",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "maintaining optimal vitamin D levels and adequate dietary intake"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:985",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Moderate total iron consumption in the second quintile (5.00-6.27 mg/day)"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:987",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Moderate non-heme iron intake in the second quintile (4.98-6.24 mg/day)"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1052",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "health systems in several countries"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1932",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Immune checkpoint blockade"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2369",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "alterations in tertiary lymphoid structures"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2670",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Circulating tumor cells (CTCs)"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:691",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "ovarian cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1514",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "HER2-null breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1510",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "HER2-low breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1511",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "immunohistochemistry score of 1+ and 2+ without HER2 gene amplification"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1512",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "hormone receptor-positive breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1513",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "triple-negative breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:239",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "sociodemographic factor influencing nonroutine discharge"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:897",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "increased risk of sarcopenia"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2486",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "body's immune defences"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2543",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Hormone receptor-positive breast cancer with high Matrix metalloproteinase 1 expression"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1637",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Breast cancer"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:33",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:41",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:42",
+      "properties": {
+        "type": "is based on interaction between"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:35",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:41",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "treats"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:529",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:690",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "include"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:879",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1198",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "is associated with increased odds of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:880",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1199",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "is associated with lower risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1091",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "protect against"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1614",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:238",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "is associated with increased risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1615",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2134",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "is associated with increased risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1616",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2135",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "is associated with increased risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1617",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2136",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "is associated with decreased risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1624",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2149",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "have increased risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1753",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2309",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "is subtype of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1940",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2537",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:45",
+      "properties": {
+        "type": "treats"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:101",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:41",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:130",
+      "properties": {
+        "type": "treats"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:102",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:131",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:130",
+      "properties": {
+        "type": "treats"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:397",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:526",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:130",
+      "properties": {
+        "type": "treat"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1980",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2578",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:130",
+      "properties": {
+        "type": "is disease of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:2080",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:528",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:130",
+      "properties": {
+        "type": "treat"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:105",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:41",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:132",
+      "properties": {
+        "type": "has fewer side effects than"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:106",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:131",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:132",
+      "properties": {
+        "type": "has fewer side effects than"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1081",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1466",
+      "properties": {
+        "type": "treat"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1082",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1467",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "properties": {
+        "type": "are a type of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1083",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1468",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "properties": {
+        "type": "are a type of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1084",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1469",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "properties": {
+        "type": "are a type of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1085",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1470",
+      "properties": {
+        "type": "cause"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1086",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1471",
+      "properties": {
+        "type": "cause"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1087",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1472",
+      "properties": {
+        "type": "increase risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1088",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1473",
+      "properties": {
+        "type": "increase risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1247",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1679",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1473",
+      "properties": {
+        "type": "is therapeutic target for"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1089",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1474",
+      "properties": {
+        "type": "protect against"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1090",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1465",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "protect against"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:531",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:690",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "include"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:703",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:934",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "is a prevention strategy for"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:705",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:935",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "prevents"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:710",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:940",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "contribute to"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:722",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:955",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "prevents"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:741",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:985",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "decreases risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:743",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:987",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "decreases risk of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:788",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1052",
+      "properties": {
+        "type": "is a threat to"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1450",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1932",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "is ineffective in"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1805",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2369",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "occur during progression of"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:2054",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2670",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:692",
+      "properties": {
+        "type": "have a role in"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:530",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:690",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:691",
+      "properties": {
+        "type": "include"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1126",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1510",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1514",
+      "properties": {
+        "type": "differs from"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1123",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1510",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1511",
+      "properties": {
+        "type": "is defined as"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1124",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1510",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1512",
+      "properties": {
+        "type": "encompasses"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1125",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1510",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1513",
+      "properties": {
+        "type": "encompasses"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:185",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:238",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:239",
+      "properties": {
+        "type": "is a"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:678",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:238",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:897",
+      "properties": {
+        "type": "is associated with"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1901",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2309",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2486",
+      "properties": {
+        "type": "evades"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1946",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2543",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2537",
+      "properties": {
+        "type": "displays resistance to"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1900",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1637",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2486",
+      "properties": {
+        "type": "evades"
+      }
+    }
+  ]
+}

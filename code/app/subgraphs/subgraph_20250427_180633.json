@@ -1,0 +1,303 @@
+{
+  "nodes": [
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1897",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "designing advanced therapy for cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1894",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "TIM-3"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1895",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "advanced stages with reduced survival in several types of cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1896",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "dysfunction in T cells"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1898",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "resistance to immunotherapy"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1899",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "T cell exhaustion"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1352",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Targeted therapies for cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1350",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "harmful effects on the heart"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1349",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Anthracyclines"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1351",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Alkylating agents"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:102",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "oxidative stress"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:96",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Lactoferrin"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1358",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "direct harm to heart muscle cells"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:878",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "body composition"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:877",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Cancer and related treatments"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1640",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "cardiovascular complications"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1639",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Anticancer therapies"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2637",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "DNA methylation inhibitors"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2638",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "cancer treatment"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1423",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1894",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1897",
+      "properties": {
+        "type": "is a target in"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1421",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1894",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1895",
+      "properties": {
+        "type": "is linked to"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1422",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1894",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1896",
+      "properties": {
+        "type": "is associated with"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1424",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1894",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1898",
+      "properties": {
+        "type": "is implicated in"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1425",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1894",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1899",
+      "properties": {
+        "type": "is involved in"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1001",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1352",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1350",
+      "properties": {
+        "type": "cause"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:999",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1349",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1350",
+      "properties": {
+        "type": "cause"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1000",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1351",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1350",
+      "properties": {
+        "type": "cause"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1006",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1349",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:102",
+      "properties": {
+        "type": "impact"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:78",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:96",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:102",
+      "properties": {
+        "type": "reduces"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1007",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1349",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1358",
+      "properties": {
+        "type": "cause"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:663",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:877",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:878",
+      "properties": {
+        "type": "impair"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:1218",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1639",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:1640",
+      "properties": {
+        "type": "cause"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:2027",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2637",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2638",
+      "properties": {
+        "type": "are used in"
+      }
+    }
+  ]
+}

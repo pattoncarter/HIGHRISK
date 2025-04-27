@@ -1,0 +1,1256 @@
+{"head": "Robotic surgery", "relation": "associated with", "tail": "longer operative time"}
+{"head": "Robotic surgery", "relation": "associated with", "tail": "lower rate of conversion to open surgery"}
+{"head": "Robotic surgery", "relation": "associated with", "tail": "higher lymph node yield"}
+{"head": "Robotic surgery", "relation": "associated with", "tail": "lower rate of positive circumferential resection margin"}
+{"head": "Robotic surgery", "relation": "associated with", "tail": "lower rate of reoperation within 30 days postoperatively"}
+{"head": "Robotic surgery", "relation": "no significant difference in", "tail": "estimated blood loss compared with laparoscopic surgery"}
+{"head": "Robotic surgery", "relation": "no significant difference in", "tail": "postoperative hospital stay compared with laparoscopic surgery"}
+{"head": "Robotic surgery", "relation": "no significant difference in", "tail": "rates of overall postoperative complications compared with laparoscopic surgery"}
+{"head": "Robotic surgery", "relation": "no significant difference in", "tail": "rates of severe postoperative complications compared with laparoscopic surgery"}
+{"head": "Robotic surgery", "relation": "no significant difference in", "tail": "time to first autonomous urination compared with laparoscopic surgery"}
+{"head": "Robotic surgery", "relation": "no significant difference in", "tail": "time to first flatus compared with laparoscopic surgery"}
+{"head": "Robotic surgery", "relation": "no significant difference in", "tail": "rate of readmission within 30 days postoperatively compared with laparoscopic surgery"}
+{"head": "Robotic surgery", "relation": "reduces", "tail": "conversion rates for mid-low rectal cancer surgery"}
+{"head": "Robotic surgery", "relation": "improves", "tail": "pathological outcomes for mid-low rectal cancer"}
+{"head": "Robotic surgery", "relation": "is a technically more refined option for", "tail": "mid-low rectal cancer surgery"}
+{"head": "Obesity", "relation": "affects", "tail": "reproductive hormones in Chinese patients with polycystic ovarian syndrome"}
+{"head": "Obese PCOS patients", "relation": "have lower levels of", "tail": "luteinizing hormone (LH)"}
+{"head": "Obese PCOS patients", "relation": "have lower levels of", "tail": "LH/FSH ratio"}
+{"head": "Obese PCOS patients", "relation": "have lower levels of", "tail": "progesterone (P)"}
+{"head": "Obese PCOS patients", "relation": "have lower levels of", "tail": "anti-mullerian hormone (AMH)"}
+{"head": "Obese PCOS patients", "relation": "have higher levels of", "tail": "testosterone (T)"}
+{"head": "No significant difference", "relation": "in levels of", "tail": "follicle-stimulating hormone (FSH) between obese and nonobese PCOS patients"}
+{"head": "No significant difference", "relation": "in levels of", "tail": "estradiol (E2) between obese and nonobese PCOS patients"}
+{"head": "No significant difference", "relation": "in levels of", "tail": "prolactin (PRL) between obese and nonobese PCOS patients"}
+{"head": "patients with incurable cancer", "relation": "deserve", "tail": "quality end-of-life care"}
+{"head": "clinical trials", "relation": "are critical for", "tail": "advancing cancer care"}
+{"head": "trial enrollment in the last year of life", "relation": "is associated with", "tail": "end-of-life quality metrics"}
+{"head": "patients enrolled in clinical trials in the last year of life", "relation": "are more likely to initiate", "tail": "new anticancer treatments in the last 30 days of life"}
+{"head": "patients enrolled in clinical trials in the last year of life", "relation": "are less likely to have", "tail": "palliative care referral"}
+{"head": "patients enrolled in clinical trials in the last year of life", "relation": "are less likely to have", "tail": "goals of care documentation"}
+{"head": "patients enrolled in clinical trials in the last year of life", "relation": "are less likely to have", "tail": "emergency department encounter in the last 30 days of life"}
+{"head": "patients enrolled in clinical trials in the last year of life", "relation": "are less likely to die in", "tail": "acute care setting"}
+{"head": "enrollment in clinical trials in the last year of life", "relation": "is associated with", "tail": "metrics of aggressive end-of-life care"}
+{"head": "low rates of palliative care and hospice engagement", "relation": "suggest", "tail": "opportunities for improvement for all patients regardless of trial enrollment"}
+{"head": "Integrin glycosylation", "relation": "regulates", "tail": "invasion and metastasis of malignant tumors"}
+{"head": "Integrin glycosylation", "relation": "occurs in", "tail": "head and neck squamous cell carcinoma"}
+{"head": "Integrins ITGA2, ITGA3, ITGA5, ITGA6, ITGB1, and ITGB4", "relation": "are glycosylated in", "tail": "HNSCC tumor and serum samples"}
+{"head": "High intratumoral ITGB1-WFL results", "relation": "are associated with", "tail": "high T class"}
+{"head": "Integrin glycovariant assays", "relation": "do not provide significant resolution in detection of", "tail": "nodal metastasis"}
+{"head": "Serum ITGA2-UEA", "relation": "predicts", "tail": "radiotherapy response"}
+{"head": "Serum ITGA2-UEA", "relation": "prognosticates", "tail": "cancer recurrence"}
+{"head": "Integrin glycovariants", "relation": "are abundant in", "tail": "HNSCC tumors"}
+{"head": "ITGB1-WFL", "relation": "is associated with", "tail": "invasiveness"}
+{"head": "Integrin glycovariants", "relation": "do not directly correlate with", "tail": "metastatic behavior"}
+{"head": "Serum ITGA2-UEA", "relation": "is a potential biomarker for", "tail": "radioresponse"}
+{"head": "Diabetes", "relation": "contributes to", "tail": "mortality from liver disease"}
+{"head": "People with type 2 diabetes", "relation": "have higher risk of", "tail": "mortality from hepatic causes"}
+{"head": "Diabetic individuals", "relation": "have", "tail": "threefold higher risk of liver-related mortality compared to non-diabetic individuals"}
+{"head": "Hepatocellular carcinoma", "relation": "is a primary hepatic cause of death in", "tail": "people with diabetes"}
+{"head": "Metabolic dysfunction-associated steatotic liver disease", "relation": "is a primary hepatic cause of death in", "tail": "people with diabetes"}
+{"head": "Male gender", "relation": "is a risk factor for", "tail": "increased hepatic mortality in diabetic individuals"}
+{"head": "Advanced age", "relation": "is a risk factor for", "tail": "increased hepatic mortality in diabetic individuals"}
+{"head": "High FIB-4 scores", "relation": "indicate", "tail": "liver fibrosis"}
+{"head": "High FIB-4 scores", "relation": "are a risk factor for", "tail": "increased hepatic mortality in diabetic individuals"}
+{"head": "Poor glycemic control (HbA1c > 9%)", "relation": "is a risk factor for", "tail": "increased hepatic mortality in diabetic individuals"}
+{"head": "History of alcohol abuse", "relation": "is a risk factor for", "tail": "increased hepatic mortality in diabetic individuals"}
+{"head": "Antidiabetic treatments", "relation": "are associated with", "tail": "reduced liver mortality"}
+{"head": "Newer therapies like GLP-1 RAs and SGLT2 inhibitors", "relation": "are associated with", "tail": "reduced liver mortality"}
+{"head": "Insulin treatment", "relation": "is linked to", "tail": "higher liver mortality"}
+{"head": "Chordoma", "relation": "is a", "tail": "primary malignant bone tumor"}
+{"head": "lncRNA NEAT1", "relation": "is highly expressed in", "tail": "Chordoma"}
+{"head": "Silencing lncRNA NEAT1", "relation": "inhibits", "tail": "survival of chordoma cell lines MUG-Chor1 and U-CH1"}
+{"head": "Silencing lncRNA NEAT1", "relation": "inhibits", "tail": "proliferation of chordoma cell lines MUG-Chor1 and U-CH1"}
+{"head": "Silencing lncRNA NEAT1", "relation": "promotes", "tail": "apoptosis in chordoma cell lines MUG-Chor1 and U-CH1"}
+{"head": "Overexpression of iASPP", "relation": "counteracts", "tail": "effects of silencing lncRNA NEAT1"}
+{"head": "Overexpression of iASPP", "relation": "enhances", "tail": "cell growth in si-lncRNA NEAT1 group"}
+{"head": "Overexpression of iASPP", "relation": "inhibits", "tail": "apoptosis in si-lncRNA NEAT1 group"}
+{"head": "Silencing lncRNA NEAT1", "relation": "reduces", "tail": "cell proliferation and division in chordoma tissues"}
+{"head": "Silencing lncRNA NEAT1", "relation": "increases", "tail": "apoptosis in chordoma tissues"}
+{"head": "Overexpression of iASPP", "relation": "reverses", "tail": "effects of silencing lncRNA NEAT1 in chordoma tissues"}
+{"head": "Silencing lncRNA NEAT1", "relation": "decreases", "tail": "expression of iASPP"}
+{"head": "lncRNA NEAT1/iASPP pathway", "relation": "is involved in", "tail": "chordoma development"}
+{"head": "Celastrol", "relation": "inhibits", "tail": "hepatocellular carcinoma progression"}
+{"head": "FANCD2", "relation": "promotes", "tail": "hepatocellular carcinoma proliferation"}
+{"head": "FANCD2", "relation": "promotes", "tail": "hepatocellular carcinoma invasion"}
+{"head": "FANCD2", "relation": "is a", "tail": "ferroptosis inhibitor"}
+{"head": "High expression of FANCD2", "relation": "correlates with", "tail": "poor survival in hepatocellular carcinoma patients"}
+{"head": "Celastrol", "relation": "targets", "tail": "FANCD2"}
+{"head": "Celastrol", "relation": "reduces level in", "tail": "SNU-423 and SNU-387 cells"}
+{"head": "FANCD2 overexpression", "relation": "increases", "tail": "SNU-423 cell viability"}
+{"head": "FANCD2 overexpression", "relation": "increases", "tail": "SNU-423 cell migration"}
+{"head": "FANCD2 overexpression", "relation": "increases", "tail": "SNU-423 cell invasion"}
+{"head": "FANCD2 overexpression", "relation": "increases", "tail": "SNU-423 tube formation ability"}
+{"head": "FANCD2 overexpression", "relation": "attenuates", "tail": "autophagy"}
+{"head": "FANCD2 overexpression", "relation": "attenuates", "tail": "ferroptosis"}
+{"head": "FANCD2 knockdown in SNU-387 cells", "relation": "increases", "tail": "autophagy"}
+{"head": "FANCD2 knockdown in SNU-387 cells", "relation": "increases", "tail": "ferroptosis"}
+{"head": "FANCD2 knockdown in SNU-387 cells", "relation": "decreases", "tail": "cell viability, migration, invasion, and tube formation ability"}
+{"head": "FANCD2 overexpression", "relation": "reverses", "tail": "Celastrol-induced autophagy and ferroptosis"}
+{"head": "FANCD2 overexpression", "relation": "reverses", "tail": "Celastrol inhibition of SNU-423 cell survival"}
+{"head": "FANCD2 knockdown", "relation": "enhances", "tail": "Celastrol effects in SNU-387 cells"}
+{"head": "Celastrol", "relation": "induces", "tail": "autophagy-dependent ferroptosis"}
+{"head": "Celastrol", "relation": "inhibits", "tail": "malignant behavior in hepatocellular carcinoma cells"}
+{"head": "Protocatechuic acid", "relation": "activates", "tail": "pyroptosis in glioma cells"}
+{"head": "Protocatechuic acid", "relation": "suppresses", "tail": "viability of glioma cells"}
+{"head": "Protocatechuic acid", "relation": "suppresses", "tail": "invasion of glioma cells"}
+{"head": "Protocatechuic acid", "relation": "suppresses", "tail": "migration of glioma cells"}
+{"head": "Protocatechuic acid", "relation": "increases expression of", "tail": "NLRP3 protein and mRNA in glioma cells"}
+{"head": "Protocatechuic acid", "relation": "increases expression of", "tail": "caspase-1 protein and mRNA in glioma cells"}
+{"head": "Protocatechuic acid", "relation": "increases expression of", "tail": "GSDMD protein and mRNA in glioma cells"}
+{"head": "NLRP3-specific inhibitor MCC950", "relation": "reverses effects of", "tail": "Protocatechuic acid on glioma cells"}
+{"head": "NLRP3-specific inhibitor MCC950", "relation": "increases", "tail": "viability of glioma cells"}
+{"head": "NLRP3-specific inhibitor MCC950", "relation": "increases", "tail": "number of invading glioma cells"}
+{"head": "NLRP3-specific inhibitor MCC950", "relation": "decreases", "tail": "GSDMD positivity in glioma cells"}
+{"head": "NLRP3-specific inhibitor MCC950", "relation": "decreases expression of", "tail": "NLRP3 protein and mRNA in glioma cells"}
+{"head": "NLRP3-specific inhibitor MCC950", "relation": "decreases expression of", "tail": "caspase-1 protein and mRNA in glioma cells"}
+{"head": "NLRP3-specific inhibitor MCC950", "relation": "decreases expression of", "tail": "GSDMD protein and mRNA in glioma cells"}
+{"head": "Protocatechuic acid", "relation": "mediates pyroptosis via", "tail": "NLRP3/caspase-1/GSDMD signaling pathway in glioma cells"}
+{"head": "TIM-3", "relation": "is linked to", "tail": "advanced stages with reduced survival in several types of cancer"}
+{"head": "TIM-3", "relation": "is associated with", "tail": "dysfunction in T cells"}
+{"head": "TIM-3", "relation": "is a target in", "tail": "designing advanced therapy for cancer"}
+{"head": "TIM-3", "relation": "is implicated in", "tail": "resistance to immunotherapy"}
+{"head": "TIM-3", "relation": "is involved in", "tail": "T cell exhaustion"}
+{"head": "small molecule inhibitors targeting TIM-3", "relation": "enhance", "tail": "life span"}
+{"head": "small molecule inhibitors targeting TIM-3", "relation": "overcome", "tail": "resistance in therapy"}
+{"head": "TIM-3 pathway", "relation": "modulates", "tail": "immune response"}
+{"head": "TIM-3 pathway", "relation": "restores functioning of", "tail": "killer T lymphocytes"}
+{"head": "TIM-3 pathway", "relation": "restores functioning of", "tail": "natural killer cells (NK cells)"}
+{"head": "Colorectal cancer", "relation": "is a type of", "tail": "malignancy"}
+{"head": "Advanced colorectal cancer", "relation": "has", "tail": "poor prognosis"}
+{"head": "Treatment of advanced colorectal cancer", "relation": "relies on", "tail": "chemotherapy combined with targeted therapies"}
+{"head": "Immunotherapy based on immune checkpoint inhibitors", "relation": "is reserved for", "tail": "mismatch repair-deficient tumors"}
+{"head": "Immunotherapy based on immune checkpoint inhibitors", "relation": "is reserved for", "tail": "microsatellite instability-high tumors"}
+{"head": "Mismatch repair-deficient tumors", "relation": "represent", "tail": "less than 10% of advanced colorectal cancer cases"}
+{"head": "Microsatellite instability-high tumors", "relation": "represent", "tail": "less than 10% of advanced colorectal cancer cases"}
+{"head": "Chimeric antigen receptor-T cell therapy", "relation": "is a type of", "tail": "adoptive cell therapy"}
+{"head": "Chimeric antigen receptor-T cell therapy", "relation": "involves", "tail": "modified T-lymphocytes engineered to express chimeric antigen receptors"}
+{"head": "Chimeric antigen receptor-T cell therapy", "relation": "enables", "tail": "recognition of surface antigens expressed by tumor cells"}
+{"head": "Chimeric antigen receptor-T cell therapy", "relation": "has demonstrated efficacy in treating", "tail": "hematological malignancies"}
+{"head": "Hematological malignancies", "relation": "include", "tail": "lymphoma"}
+{"head": "Hematological malignancies", "relation": "include", "tail": "myeloma"}
+{"head": "Hematological malignancies", "relation": "include", "tail": "leukemia"}
+{"head": "Efficacy of chimeric antigen receptor-T cell therapy in solid tumors", "relation": "is", "tail": "limited"}
+{"head": "Limitations of chimeric antigen receptor-T cell therapy in solid tumors", "relation": "include", "tail": "antigen heterogeneity"}
+{"head": "Limitations of chimeric antigen receptor-T cell therapy in solid tumors", "relation": "include", "tail": "restricted CAR-T cell trafficking into the tumor area"}
+{"head": "Limitations of chimeric antigen receptor-T cell therapy in solid tumors", "relation": "include", "tail": "presence of an immunosuppressive tumor microenvironment"}
+{"head": "Novel chimeric antigen receptor-T cell therapies", "relation": "represent", "tail": "an unmet need for solid tumors"}
+{"head": "Immune checkpoint blockade", "relation": "is ineffective in", "tail": "colorectal cancer"}
+{"head": "Preclinical studies", "relation": "have shown efficacy of", "tail": "various chimeric antigen receptor-T cell models targeting tumor-associated antigens in colorectal cancer"}
+{"head": "Clinical efficacy of chimeric antigen receptor-T cell therapy for colorectal cancer", "relation": "has been", "tail": "limited in early-phase clinical trials"}
+{"head": "Factors affecting clinical efficacy of chimeric antigen receptor-T cell therapy for colorectal cancer", "relation": "include", "tail": "trial design"}
+{"head": "Factors affecting clinical efficacy of chimeric antigen receptor-T cell therapy for colorectal cancer", "relation": "include", "tail": "tumor characteristics"}
+{"head": "Tumor characteristics", "relation": "include", "tail": "antigen heterogeneity"}
+{"head": "Tumor characteristics", "relation": "include", "tail": "immunosuppressive microenvironment"}
+{"head": "Development of innovative chimeric antigen receptor-T cell models and identification of novel antigens", "relation": "may improve", "tail": "effectiveness of chimeric antigen receptor-T cell therapy for colorectal cancer patients"}
+{"head": "Double minutes", "relation": "are", "tail": "extrachromosomal circular chromosomes"}
+{"head": "Double minutes", "relation": "carry", "tail": "amplified oncogenes"}
+{"head": "Double minutes", "relation": "carry", "tail": "drug resistance genes"}
+{"head": "Double minutes", "relation": "are associated with", "tail": "tumorigenesis"}
+{"head": "Double minutes", "relation": "are associated with", "tail": "drug resistance"}
+{"head": "Double minutes enhancers", "relation": "regulate", "tail": "target genes in gastric cancer"}
+{"head": "Double minutes enhancers", "relation": "affect", "tail": "drug resistance"}
+{"head": "Double minutes enhancers", "relation": "affect", "tail": "tumor immunity"}
+{"head": "Disruptions in enhancer-transcription factor-target gene regulatory loops", "relation": "are linked to", "tail": "tumor immunity"}
+{"head": "Target genes regulated by double minutes enhancers", "relation": "alter expression of", "tail": "immune-related genes"}
+{"head": "Target genes regulated by double minutes enhancers", "relation": "contribute to", "tail": "increased drug resistance to common chemotherapy agents in gastric cancer"}
+{"head": "High expression of drug resistance-related target genes in gastric cancer samples with double minutes", "relation": "is associated with", "tail": "poor prognosis"}
+{"head": "STAT1", "relation": "executes", "tail": "anti-microbial functions"}
+{"head": "STAT1", "relation": "executes", "tail": "pro-apoptotic functions"}
+{"head": "loss-of-function mutations in STAT1", "relation": "are associated with", "tail": "increased susceptibility to infections"}
+{"head": "loss-of-function mutations in STAT1", "relation": "are associated with", "tail": "development of tumors"}
+{"head": "mice expressing N-terminally truncated STAT1 protein (STAT1-\u0394N)", "relation": "develop", "tail": "splenomegaly"}
+{"head": "splenomegaly in mice expressing STAT1-\u0394N", "relation": "is due to", "tail": "formation of splenic non-Hodgkin lymphomas"}
+{"head": "STAT1-\u0394N variant expression", "relation": "results in", "tail": "disruption of normal spleen architecture"}
+{"head": "malignant tumor cells in spleen", "relation": "are", "tail": "CD3-negative"}
+{"head": "malignant tumor cells in spleen", "relation": "are", "tail": "CD20-negative"}
+{"head": "malignant tumor cells in spleen", "relation": "stain positively for", "tail": "tyrosine-phosphorylated STAT1"}
+{"head": "malignant tumor cells in spleen", "relation": "stain positively for", "tail": "tyrosine-phosphorylated STAT3"}
+{"head": "tumor cell lysates", "relation": "show", "tail": "cytokine-independent hyperphosphorylation of STAT1 and STAT3"}
+{"head": "expression level of NF-\u03baB in tumor cells", "relation": "is", "tail": "significantly reduced"}
+{"head": "DNA-binding activity of STAT1-\u0394N", "relation": "is increased compared to", "tail": "wild-type STAT1 protein"}
+{"head": "tyrosine-phosphorylated STAT1-\u0394N level", "relation": "does not increase upon stimulation with", "tail": "interferon-\u03b3 (IFN\u03b3)"}
+{"head": "tyrosine-phosphorylated STAT1-\u0394N level", "relation": "does not increase upon stimulation with", "tail": "lipopolysaccharide (LPS)"}
+{"head": "tyrosine-phosphorylated STAT1-\u0394N level", "relation": "does not increase upon stimulation with", "tail": "combination of IFN\u03b3 and LPS"}
+{"head": "STAT1-\u0394N truncation mutant", "relation": "is unable to accumulate in", "tail": "nucleus upon cytokine stimulation"}
+{"head": "tumor tissue and isolated lymphoma cells treated with IFN\u03b3/LPS", "relation": "show", "tail": "significantly reduced STAT1-regulated target gene expression"}
+{"head": "lack of STAT1 nuclear accumulation", "relation": "is associated with", "tail": "elevated tyrosine-phosphorylation of STAT3"}
+{"head": "STAT3", "relation": "is", "tail": "oncogene"}
+{"head": "lack of STAT1 nuclear accumulation", "relation": "promotes", "tail": "formation of phospho-STAT3-expressing CD3-negative CD20-negative non-Hodgkin lymphomas in spleen"}
+{"head": "Laser en bloc resection of bladder tumor", "relation": "has potential superiority to", "tail": "Transurethral resection of bladder tumor"}
+{"head": "Laser en bloc resection of bladder tumor", "relation": "has advantage", "tail": "Complete resection"}
+{"head": "Laser en bloc resection of bladder tumor", "relation": "has advantage", "tail": "Intact specimen for accurate histologic assessment"}
+{"head": "Laser en bloc resection of bladder tumor", "relation": "has advantage", "tail": "Avoiding fragmentation and tumor seeding"}
+{"head": "Laser en bloc resection of bladder tumor", "relation": "has advantage", "tail": "Preventing obturator nerve reflex"}
+{"head": "Laser en bloc resection of bladder tumor", "relation": "has advantage", "tail": "Reduction of inflammatory response"}
+{"head": "Holmium laser", "relation": "is type of", "tail": "Laser used in en bloc resection of bladder tumor"}
+{"head": "Green-light laser", "relation": "is type of", "tail": "Laser used in en bloc resection of bladder tumor"}
+{"head": "Thulium laser", "relation": "is type of", "tail": "Laser used in en bloc resection of bladder tumor"}
+{"head": "Diode laser", "relation": "is type of", "tail": "Laser used in en bloc resection of bladder tumor"}
+{"head": "Exosomes", "relation": "function as", "tail": "key carriers of signaling molecules"}
+{"head": "Tumor-associated macrophages", "relation": "signal on", "tail": "cancer cells"}
+{"head": "Tumor-associated macrophages", "relation": "signal on", "tail": "tumor microenvironment"}
+{"head": "Exosomes", "relation": "have", "tail": "natural lipid bilayer structures"}
+{"head": "Exosomes", "relation": "have", "tail": "biological activity related to their original cell"}
+{"head": "Exosomes", "relation": "emerged as", "tail": "efficient carriers in cancer therapy studies"}
+{"head": "Tumor-associated macrophage-derived exosomes", "relation": "promote", "tail": "resistance to cancer therapies"}
+{"head": "Macrophage-derived exosomes generated in vitro", "relation": "have shown", "tail": "favorable potential in cancer therapy"}
+{"head": "Tumor-associated macrophage-derived exosomes", "relation": "have roles in", "tail": "cancer progression"}
+{"head": "Tumor-associated macrophage-derived exosomes", "relation": "have roles in", "tail": "cancer metastasis"}
+{"head": "Tumor-associated macrophage-derived exosomes", "relation": "have roles in", "tail": "resistance to cancer therapy"}
+{"head": "Modified macrophage-derived exosomes", "relation": "have", "tail": "unique advantages by their macrophage origin"}
+{"head": "Modified macrophage-derived exosomes", "relation": "used in", "tail": "diverse cancer therapies"}
+{"head": "lymphoma", "relation": "complicated with", "tail": "malignant solid tumors"}
+{"head": "35 patients", "relation": "treated at", "tail": "Yantai Yuhuangding Hospital"}
+{"head": "35 patients", "relation": "treated between", "tail": "January 2018 and March 2023"}
+{"head": "35 patients", "relation": "found to have", "tail": "solid tumors"}
+{"head": "solid tumors", "relation": "occurred in", "tail": "22 males"}
+{"head": "solid tumors", "relation": "occurred in", "tail": "13 females"}
+{"head": "median age of patients with lymphoma and solid tumors", "relation": "is", "tail": "62 years"}
+{"head": "lymphoma subtypes", "relation": "include", "tail": "diffuse large B-cell lymphoma (DLBCL)"}
+{"head": "lymphoma subtypes", "relation": "include", "tail": "small lymphocytic lymphoma/chronic lymphocytic leukemia (SLL/CLL)"}
+{"head": "lymphoma subtypes", "relation": "include", "tail": "marginal zone lymphoma (MZL)"}
+{"head": "lymphoma subtypes", "relation": "include", "tail": "peripheral T-cell lymphoma (PTCL)"}
+{"head": "lymphoma subtypes", "relation": "include", "tail": "follicular lymphoma (FL)"}
+{"head": "lymphoma subtypes", "relation": "include", "tail": "Waldenstr\u00f6m macroglobulinemia (WM)"}
+{"head": "solid tumors", "relation": "include", "tail": "papillary thyroid carcinoma (PTC)"}
+{"head": "solid tumors", "relation": "include", "tail": "colorectal cancer (CRC)"}
+{"head": "solid tumors", "relation": "include", "tail": "lung cancer (LC)"}
+{"head": "solid tumors", "relation": "include", "tail": "gastric cancer (GC)"}
+{"head": "solid tumors", "relation": "include", "tail": "prostate cancer (PCa)"}
+{"head": "solid tumors", "relation": "include", "tail": "breast cancer (BC)"}
+{"head": "solid tumors", "relation": "include", "tail": "clear cell renal cell carcinoma (ccRCC)"}
+{"head": "solid tumors", "relation": "include", "tail": "pharyngeal squamous cell carcinoma (PSCC)"}
+{"head": "solid tumors", "relation": "include", "tail": "bladder cancer (BLCA)"}
+{"head": "lymphoma with solid tumors", "relation": "is", "tail": "rare"}
+{"head": "lymphoma with solid tumors", "relation": "often affects", "tail": "elderly males"}
+{"head": "Non-Hodgkin's lymphoma", "relation": "is", "tail": "most common subtype"}
+{"head": "diffuse large B-cell lymphoma (DLBCL)", "relation": "is subtype of", "tail": "Non-Hodgkin's lymphoma"}
+{"head": "papillary thyroid carcinoma (PTC)", "relation": "is", "tail": "most frequent solid tumor"}
+{"head": "Gastric cancer", "relation": "is a", "tail": "prevalent digestive system tumor"}
+{"head": "Gastric cancer", "relation": "is the fifth most diagnosed", "tail": "cancer worldwide"}
+{"head": "Gastric cancer", "relation": "is a leading cause of", "tail": "cancer deaths"}
+{"head": "Gastric cancer", "relation": "is distinguished by", "tail": "pronounced heterogeneity"}
+{"head": "Gastric cancer", "relation": "has", "tail": "dynamically evolving tumor microenvironment"}
+{"head": "GC organoids", "relation": "are developed using", "tail": "organoid culture technology"}
+{"head": "GC organoids", "relation": "preserve", "tail": "genetic characteristics"}
+{"head": "GC organoids", "relation": "preserve", "tail": "phenotypic characteristics"}
+{"head": "GC organoids", "relation": "preserve", "tail": "behavioral characteristics"}
+{"head": "GC organoids", "relation": "hold potential for predicting", "tail": "treatment responses in individual patients"}
+{"head": "organoids", "relation": "simulate", "tail": "tumor microenvironment"}
+{"head": "organoids", "relation": "explore mechanisms of", "tail": "immune evasion in gastric cancer"}
+{"head": "organoids", "relation": "explore mechanisms of", "tail": "intratumoral microbiota in gastric cancer"}
+{"head": "organoids", "relation": "guide", "tail": "clinical drug therapy"}
+{"head": "organoids", "relation": "facilitate", "tail": "novel drug screening"}
+{"head": "GC organoid models", "relation": "have", "tail": "limitations"}
+{"head": "technological advancements", "relation": "benefit", "tail": "basic and translational oncological research"}
+{"head": "Gut microbiota", "relation": "has causal impact on", "tail": "Cancer risk"}
+{"head": "Inflammatory proteins", "relation": "has causal impact on", "tail": "Cancer risk"}
+{"head": "Genus Collinsella", "relation": "decreases risk of", "tail": "Lung cancer"}
+{"head": "Genus Collinsella", "relation": "decreases levels of", "tail": "T-cell surface glycoprotein CD5"}
+{"head": "T-cell surface glycoprotein CD5", "relation": "mediates effect of", "tail": "Genus Collinsella on Lung cancer risk"}
+{"head": "Genus Ruminococcaceae UCG005", "relation": "increases risk of", "tail": "Mesothelioma"}
+{"head": "Genus Ruminococcaceae UCG005", "relation": "increases levels of", "tail": "CCL4"}
+{"head": "CCL4", "relation": "mediates effect of", "tail": "Genus Ruminococcaceae UCG005 on Mesothelioma risk"}
+{"head": "MRI-based fusion model", "relation": "predicts preoperatively", "tail": "perineural invasion status"}
+{"head": "perineural invasion status", "relation": "is in patients with", "tail": "intrahepatic cholangiocarcinoma"}
+{"head": "patients", "relation": "are classified into", "tail": "PNI-positive and PNI-negative groups"}
+{"head": "radiomics model", "relation": "is constructed using", "tail": "machine learning algorithms"}
+{"head": "deep learning model", "relation": "is constructed based on", "tail": "pre-trained ResNet101"}
+{"head": "fusion model", "relation": "incorporates", "tail": "deep learning, radiomics, and clinical features"}
+{"head": "fusion model", "relation": "is developed using", "tail": "logistic regression"}
+{"head": "fusion model", "relation": "demonstrates", "tail": "strong discrimination for PNI status"}
+{"head": "fusion model", "relation": "has AUC of", "tail": "0.905 in training set"}
+{"head": "fusion model", "relation": "has accuracy of", "tail": "0.823 in training set"}
+{"head": "fusion model", "relation": "has AUC of", "tail": "0.760 in external test set"}
+{"head": "fusion model", "relation": "has accuracy of", "tail": "0.778 in external test set"}
+{"head": "fusion model", "relation": "aids in", "tail": "preoperative identification of PNI status in patients with ICC"}
+{"head": "fusion model", "relation": "helps guide", "tail": "clinical decision-making regarding preoperative staging and adjuvant therapy"}
+{"head": "venetoclax with hypomethylating agents", "relation": "treats", "tail": "acute myeloid leukemia"}
+{"head": "venetoclax with hypomethylating agents", "relation": "shows efficacy in", "tail": "elderly patients with acute myeloid leukemia"}
+{"head": "venetoclax with hypomethylating agents", "relation": "shows efficacy in", "tail": "acute myeloid leukemia patients unfit for standard treatments"}
+{"head": "venetoclax with hypomethylating agents", "relation": "has overall response rate of", "tail": "0.57"}
+{"head": "venetoclax with hypomethylating agents", "relation": "has complete remission/complete remission with incomplete marrow recovery rate of", "tail": "0.52"}
+{"head": "venetoclax with hypomethylating agents", "relation": "has complete remission/complete remission with incomplete marrow recovery rate of", "tail": "0.71 in IDH mutation carriers"}
+{"head": "venetoclax with hypomethylating agents", "relation": "has complete remission/complete remission with incomplete marrow recovery rate of", "tail": "0.64 in FLT-3 mutation carriers"}
+{"head": "venetoclax with hypomethylating agents", "relation": "has complete remission/complete remission with incomplete marrow recovery rate of", "tail": "0.44 in TP53 mutation carriers"}
+{"head": "venetoclax with hypomethylating agents", "relation": "causes", "tail": "anemia"}
+{"head": "venetoclax with hypomethylating agents", "relation": "causes", "tail": "neutropenia"}
+{"head": "venetoclax with hypomethylating agents", "relation": "causes", "tail": "thrombocytopenia"}
+{"head": "Hepatocellular carcinoma", "relation": "is", "tail": "prevalent and lethal cancer"}
+{"head": "Hepatocellular carcinoma", "relation": "is often diagnosed at", "tail": "advanced stages"}
+{"head": "Surgical resection", "relation": "provides", "tail": "limited benefits for advanced HCC"}
+{"head": "Liver transplantation", "relation": "provides", "tail": "limited benefits for advanced HCC"}
+{"head": "Locoregional therapies", "relation": "provide", "tail": "limited benefits for advanced HCC"}
+{"head": "Hepatic arterial infusion chemotherapy", "relation": "is", "tail": "promising treatment modality for advanced HCC"}
+{"head": "Hepatic arterial infusion chemotherapy", "relation": "enhances", "tail": "anti-tumor efficacy"}
+{"head": "Hepatic arterial infusion chemotherapy", "relation": "minimizes", "tail": "systemic side effects"}
+{"head": "Hepatocellular carcinoma", "relation": "has", "tail": "heterogeneous nature"}
+{"head": "Hepatocellular carcinoma", "relation": "leads to", "tail": "variable responses to hepatic arterial infusion chemotherapy"}
+{"head": "Patient demographics", "relation": "influence", "tail": "hepatic arterial infusion chemotherapy success"}
+{"head": "Tumor characteristics", "relation": "influence", "tail": "hepatic arterial infusion chemotherapy success"}
+{"head": "Biomarkers", "relation": "influence", "tail": "hepatic arterial infusion chemotherapy success"}
+{"head": "Genomic profiles", "relation": "influence", "tail": "hepatic arterial infusion chemotherapy success"}
+{"head": "Advanced imaging techniques", "relation": "include", "tail": "radiomics"}
+{"head": "Advanced imaging techniques", "relation": "include", "tail": "deep learning models"}
+{"head": "Hepatic arterial infusion chemotherapy combined with immunotherapy", "relation": "demonstrates", "tail": "improved survival outcomes"}
+{"head": "Hepatic arterial infusion chemotherapy combined with molecular targeted therapies", "relation": "demonstrates", "tail": "improved survival outcomes"}
+{"head": "Prognostic scoring systems and nomograms", "relation": "integrate", "tail": "clinical, molecular, and imaging data"}
+{"head": "Prognostic scoring systems and nomograms", "relation": "are", "tail": "superior tools for individualized prognostication compared to traditional staging systems"}
+{"head": "Understanding predictors", "relation": "is essential for", "tail": "optimizing hepatic arterial infusion chemotherapy efficacy"}
+{"head": "Understanding predictors", "relation": "is essential for", "tail": "enhancing survival and quality of life for patients with advanced hepatocellular carcinoma"}
+{"head": "Age", "relation": "is associated with increased risk of", "tail": "breast cancer"}
+{"head": "Body mass index (BMI)", "relation": "is associated with increased risk of", "tail": "breast cancer"}
+{"head": "Triglyceride (TG) levels", "relation": "is associated with increased risk of", "tail": "breast cancer"}
+{"head": "High-density lipoprotein-cholesterol (HDL-C) levels", "relation": "is associated with decreased risk of", "tail": "breast cancer"}
+{"head": "Age in breast cancer group", "relation": "is higher than", "tail": "age in control group"}
+{"head": "Body mass index (BMI) in breast cancer group", "relation": "is higher than", "tail": "BMI in control group"}
+{"head": "Triglyceride (TG) levels in breast cancer group", "relation": "is higher than", "tail": "TG levels in control group"}
+{"head": "Low-density lipoprotein-cholesterol (LDL-C) levels in breast cancer group", "relation": "is higher than", "tail": "LDL-C levels in control group"}
+{"head": "High-density lipoprotein-cholesterol (HDL-C) levels in breast cancer group", "relation": "is lower than", "tail": "HDL-C levels in control group"}
+{"head": "Total cholesterol (TC) levels in breast cancer group", "relation": "is lower than", "tail": "TC levels in control group"}
+{"head": "Women aged \u2265 40 years old", "relation": "have increased risk of", "tail": "breast cancer"}
+{"head": "Total cholesterol (TC) levels", "relation": "show no significant variation between", "tail": "breast cancer and control groups"}
+{"head": "Low-density lipoprotein-cholesterol (LDL-C) levels", "relation": "show no significant variation between", "tail": "breast cancer and control groups"}
+{"head": "H3.3K27M mutation", "relation": "is a primary oncogenic driver of", "tail": "Diffuse Midline Glioma"}
+{"head": "H3.3K27M", "relation": "inhibits", "tail": "Polycomb Repressive Complex 2 methyltransferase activity"}
+{"head": "H3.3K27M", "relation": "leads to", "tail": "global reduction and redistribution of H3K27me3"}
+{"head": "CRISPR-Cas9 editing", "relation": "creates", "tail": "H3.3 wild-type, H3.3K27M, and combinations with EZH2 and EZH1 co-deletion in DMG patient-derived cell lines"}
+{"head": "PRC2 loss", "relation": "leads to", "tail": "widespread gene induction including HOX gene clusters"}
+{"head": "PRC2 loss", "relation": "leads to", "tail": "activation of biological pathways"}
+{"head": "K27M", "relation": "induces", "tail": "balanced gene deregulation with overall repressive effect on pathway activity"}
+{"head": "Genes uniquely affected by K27M independent of PRC2 loss", "relation": "show", "tail": "concordant changes in chromatin accessibility"}
+{"head": "Upregulated genes uniquely affected by K27M", "relation": "become", "tail": "more accessible"}
+{"head": "Xenografts of H3.3K27M/EZH1/2 WT cells", "relation": "form", "tail": "tumors"}
+{"head": "Xenografts of EZH1/2 knockout cells", "relation": "do not form", "tail": "tumors"}
+{"head": "H3.3K27M mutation", "relation": "alters", "tail": "chromatin accessibility"}
+{"head": "H3.3K27M mutation", "relation": "uniquely deregulates", "tail": "gene expression independent of H3K27 methylation loss"}
+{"head": "PRC2-independent functions of K27M", "relation": "contribute to", "tail": "changes in biological pathway activity"}
+{"head": "PRC2-independent functions of K27M", "relation": "are necessary for", "tail": "tumor development"}
+{"head": "SCNN1A expression", "relation": "is associated with", "tail": "poor prognosis in TNBC patients"}
+{"head": "SCNN1A expression", "relation": "is associated with", "tail": "advanced T stage"}
+{"head": "SCNN1A expression", "relation": "is associated with", "tail": "advanced N stage"}
+{"head": "SCNN1A expression", "relation": "is not associated with", "tail": "age"}
+{"head": "SCNN1A expression", "relation": "is not associated with", "tail": "HER2 status"}
+{"head": "SCNN1A expression", "relation": "is not associated with", "tail": "Ki-67 expression"}
+{"head": "SCNN1A expression", "relation": "is not associated with", "tail": "histological grade"}
+{"head": "High SCNN1A expression", "relation": "is more frequent in", "tail": "non-pCR patients compared to pCR patients"}
+{"head": "High SCNN1A expression", "relation": "is associated with", "tail": "lower overall survival"}
+{"head": "High SCNN1A expression", "relation": "is associated with", "tail": "lower disease-free survival"}
+{"head": "SCNN1A overexpression", "relation": "is associated with", "tail": "poor prognosis in TNBC patients undergoing neoadjuvant chemotherapy"}
+{"head": "SCNN1A overexpression", "relation": "is associated with", "tail": "non-pCR status in TNBC patients undergoing neoadjuvant chemotherapy"}
+{"head": "Polycystic ovary syndrome", "relation": "causes", "tail": "anovulatory infertility"}
+{"head": "Cellular senescence", "relation": "is present in", "tail": "granulosa cells of PCOS"}
+{"head": "Sphingolipid metabolism disorder", "relation": "is present in", "tail": "granulosa cells of PCOS"}
+{"head": "LYN", "relation": "is biomarker for", "tail": "PCOS-related anovulation"}
+{"head": "PLCG2", "relation": "is biomarker for", "tail": "PCOS-related anovulation"}
+{"head": "STAT5B", "relation": "is biomarker for", "tail": "PCOS-related anovulation"}
+{"head": "MMP9", "relation": "is biomarker for", "tail": "PCOS-related anovulation"}
+{"head": "IL6R", "relation": "is biomarker for", "tail": "PCOS-related anovulation"}
+{"head": "Biomarkers (LYN, PLCG2, STAT5B, MMP9, IL6R)", "relation": "are linked to", "tail": "immune cell types infiltration"}
+{"head": "Testosterone-stimulated granulosa cells", "relation": "show increased expression of", "tail": "biomarkers (LYN, PLCG2, STAT5B, MMP9, IL6R)"}
+{"head": "Testosterone-stimulated granulosa cells", "relation": "show signs of", "tail": "senescence"}
+{"head": "Testosterone-stimulated granulosa cells", "relation": "show changes in", "tail": "sphingolipids"}
+{"head": "Aspirin", "relation": "ameliorates", "tail": "senescence in granulosa cells"}
+{"head": "Aspirin", "relation": "ameliorates", "tail": "sphingolipid dysregulation in granulosa cells"}
+{"head": "Aspirin", "relation": "targets", "tail": "senescence"}
+{"head": "Aspirin", "relation": "is potential therapeutic drug for", "tail": "anovulation associated with PCOS"}
+{"head": "Hepatocellular carcinoma", "relation": "is treated by", "tail": "photothermal therapy and metalloimmunotherapy"}
+{"head": "Co + diABZI@J-dICG nanoparticles", "relation": "are used for", "tail": "HCC treatment"}
+{"head": "Indocyanine green", "relation": "is dimerized into", "tail": "J-aggregates"}
+{"head": "J-aggregates", "relation": "enhance", "tail": "photothermal therapy"}
+{"head": "STING agonist diABZI", "relation": "activates", "tail": "cGAS-STING pathway"}
+{"head": "Cobalt ions (Co2+)", "relation": "enhance", "tail": "immune responses"}
+{"head": "Co + diABZI@J-dICG nanoparticles", "relation": "accumulate in", "tail": "tumor"}
+{"head": "Co + diABZI@J-dICG nanoparticles", "relation": "activate", "tail": "immune system"}
+{"head": "Co + diABZI@J-dICG nanoparticles", "relation": "inhibit", "tail": "tumor growth"}
+{"head": "Co + diABZI@J-dICG nanoparticles", "relation": "reduce", "tail": "HCC recurrence after hepatectomy"}
+{"head": "machine learning model", "relation": "predicts", "tail": "distant metastasis in uterine carcinosarcoma"}
+{"head": "peritoneal cytology", "relation": "is used in", "tail": "machine learning model"}
+{"head": "Logistic Regression", "relation": "is a type of", "tail": "machine learning algorithm"}
+{"head": "SVM", "relation": "is a type of", "tail": "machine learning algorithm"}
+{"head": "GBM", "relation": "is a type of", "tail": "machine learning algorithm"}
+{"head": "Neural Network", "relation": "is a type of", "tail": "machine learning algorithm"}
+{"head": "RandomForest", "relation": "is a type of", "tail": "machine learning algorithm"}
+{"head": "KNN", "relation": "is a type of", "tail": "machine learning algorithm"}
+{"head": "AdaBoost", "relation": "is a type of", "tail": "machine learning algorithm"}
+{"head": "LightGBM", "relation": "is a type of", "tail": "machine learning algorithm"}
+{"head": "model performance", "relation": "is assessed by", "tail": "AUC"}
+{"head": "model performance", "relation": "is assessed by", "tail": "calibration curves"}
+{"head": "model performance", "relation": "is assessed by", "tail": "DCA"}
+{"head": "model performance", "relation": "is assessed by", "tail": "confusion matrices"}
+{"head": "model performance", "relation": "is assessed by", "tail": "sensitivity"}
+{"head": "model performance", "relation": "is assessed by", "tail": "specificity"}
+{"head": "Logistic Regression model", "relation": "has", "tail": "nomogram visualization"}
+{"head": "SHAP values", "relation": "interpret", "tail": "best-performing machine learning model"}
+{"head": "Peritoneal cytology", "relation": "influences", "tail": "distant metastasis in uterine carcinosarcoma patients"}
+{"head": "T stage", "relation": "influences", "tail": "distant metastasis in uterine carcinosarcoma patients"}
+{"head": "age", "relation": "influences", "tail": "distant metastasis in uterine carcinosarcoma patients"}
+{"head": "tumor size", "relation": "influences", "tail": "distant metastasis in uterine carcinosarcoma patients"}
+{"head": "Peritoneal cytology", "relation": "has significant weight in", "tail": "prediction models"}
+{"head": "logistic regression model", "relation": "has AUC", "tail": "0.882 in training set"}
+{"head": "logistic regression model", "relation": "has AUC", "tail": "0.881 in internal test set"}
+{"head": "GBM", "relation": "is", "tail": "best-performing model"}
+{"head": "GBM", "relation": "is explained by", "tail": "SHAP values"}
+{"head": "calibration curves", "relation": "indicate", "tail": "significant potential clinical utility"}
+{"head": "DCA curves", "relation": "indicate", "tail": "significant potential clinical utility"}
+{"head": "tool", "relation": "predicts", "tail": "distant metastasis in uterine carcinosarcoma patients"}
+{"head": "tool", "relation": "integrates", "tail": "peritoneal cytology features"}
+{"head": "tool", "relation": "aids in", "tail": "early identification of high-risk patients"}
+{"head": "early identification of high-risk patients", "relation": "enhances", "tail": "follow-up and monitoring during tumor development"}
+{"head": "tool", "relation": "supports", "tail": "optimization of personalized treatment strategies"}
+{"head": "Non-White populations", "relation": "have", "tail": "lower cervical cancer screening rates"}
+{"head": "Older women", "relation": "have", "tail": "lower cervical cancer screening rates"}
+{"head": "Rural populations", "relation": "have", "tail": "lower cervical cancer screening rates"}
+{"head": "Populations with low socioeconomic status", "relation": "have", "tail": "lower cervical cancer screening rates"}
+{"head": "Hispanic individuals", "relation": "have lower odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Non-White individuals", "relation": "have lower odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Foreign-born individuals", "relation": "have lower odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Individuals with limited English proficiency", "relation": "have lower odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Older age", "relation": "is associated with higher odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Higher comorbidity burden", "relation": "is associated with higher odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Greater healthcare utilization", "relation": "is associated with higher odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Having a female primary care provider", "relation": "is associated with higher odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Inactive online patient portal account", "relation": "is associated with lower odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Individuals with lower socioeconomic status", "relation": "have lower odds of", "tail": "up-to-date cervical cancer screening"}
+{"head": "Computed Tomography ventilation imaging", "relation": "is a", "tail": "ventilation imaging technique"}
+{"head": "CT LVAS", "relation": "is a", "tail": "CTVI commercial product"}
+{"head": "CT LVAS", "relation": "enables", "tail": "use in clinical practice"}
+{"head": "CT LVAS", "relation": "produces", "tail": "ventilation images"}
+{"head": "CTVI_HU", "relation": "produces", "tail": "ventilation images"}
+{"head": "CTVI_Jac", "relation": "produces", "tail": "ventilation images"}
+{"head": "CTVI images", "relation": "are compared to", "tail": "Galligas PET ventilation"}
+{"head": "Bland-Altman analysis", "relation": "shows", "tail": "overall bias of < 0.01% for all CTVI methods"}
+{"head": "CT LVAS", "relation": "has bias", "tail": "\u00b17.4%"}
+{"head": "CTVI_HU", "relation": "has bias", "tail": "\u00b19.1%"}
+{"head": "CTVI_Jac", "relation": "has bias", "tail": "\u00b17.9%"}
+{"head": "Mean Spearman correlation", "relation": "between CT LVAS and Galligas PET", "tail": "0.61 \u00b1 0.14"}
+{"head": "Mean Spearman correlation", "relation": "between CTVI_HU and Galligas PET", "tail": "0.68 \u00b1 0.10"}
+{"head": "Mean Spearman correlation", "relation": "between CTVI_Jac and Galligas PET", "tail": "0.57 \u00b1 0.15"}
+{"head": "Mean DSC for top 85% ventilation function", "relation": "is", "tail": "0.91 \u00b1 0.03 for CT LVAS"}
+{"head": "Mean DSC for top 85% ventilation function", "relation": "is", "tail": "0.92 \u00b1 0.02 for CTVI_HU"}
+{"head": "Mean DSC for top 85% ventilation function", "relation": "is", "tail": "0.91 \u00b1 0.03 for CTVI_Jac"}
+{"head": "DSC for CTVI_HU", "relation": "is significantly higher than", "tail": "DSC for CT LVAS and CTVI_Jac"}
+{"head": "Mean DSC for top 15% ventilation function", "relation": "is", "tail": "0.47 \u00b1 0.17 for CT LVAS"}
+{"head": "Mean DSC for top 15% ventilation function", "relation": "is", "tail": "0.53 \u00b1 0.16 for CTVI_HU"}
+{"head": "Mean DSC for top 15% ventilation function", "relation": "is", "tail": "0.47 \u00b1 0.18 for CTVI_Jac"}
+{"head": "CT LVAS", "relation": "performs similarly to", "tail": "previous CTVI methods"}
+{"head": "Bland-Altman analysis", "relation": "demonstrates", "tail": "negligible bias for quantification of lobar ventilation"}
+{"head": "Mean voxel-wise Spearman correlations", "relation": "are", "tail": "moderate to good"}
+{"head": "DSC of functionally thresholded lung regions", "relation": "are", "tail": "similar for all CTVI methods"}
+{"head": "Triple-negative breast cancer", "relation": "is subtype of", "tail": "breast cancer"}
+{"head": "LncRNA RMST", "relation": "competes with", "tail": "ITPR1 mRNA for miR-4295 binding"}
+{"head": "LncRNA RMST", "relation": "relieves suppression of", "tail": "ITPR1 by miR-4295"}
+{"head": "LncRNA RMST", "relation": "increases expression of", "tail": "ITPR1"}
+{"head": "Overexpression of LncRNA RMST", "relation": "inhibits", "tail": "TNBC cell proliferation and migration"}
+{"head": "Overexpression of ITPR1", "relation": "inhibits", "tail": "TNBC cell proliferation and migration"}
+{"head": "Overexpression of LncRNA RMST", "relation": "promotes", "tail": "apoptosis"}
+{"head": "Overexpression of ITPR1", "relation": "promotes", "tail": "apoptosis"}
+{"head": "Overexpression of LncRNA RMST", "relation": "enhances", "tail": "autophagy"}
+{"head": "Overexpression of ITPR1", "relation": "enhances", "tail": "autophagy"}
+{"head": "miR-4295 overexpression", "relation": "reverses effects of", "tail": "LncRNA RMST and ITPR1 overexpression"}
+{"head": "LncRNA RMST-miR-4295-ITPR1 axis", "relation": "regulates", "tail": "autophagy in TNBC cells"}
+{"head": "systemic immunoinflammatory response index", "relation": "is an independent predictor of", "tail": "overall survival"}
+{"head": "C-reactive protein-albumin ratio", "relation": "is an independent predictor of", "tail": "overall survival"}
+{"head": "tumor size", "relation": "is an independent predictor of", "tail": "overall survival"}
+{"head": "hepatitis B virus-DNA", "relation": "is an independent predictor of", "tail": "overall survival"}
+{"head": "prothrombin time", "relation": "is an independent predictor of", "tail": "overall survival"}
+{"head": "microvascular invasion", "relation": "is an independent predictor of", "tail": "overall survival"}
+{"head": "macroscopic vascular invasion", "relation": "is an independent predictor of", "tail": "overall survival"}
+{"head": "Edmondson-Steiner grade", "relation": "is an independent predictor of", "tail": "overall survival"}
+{"head": "nomogram", "relation": "predicts", "tail": "1-year overall survival"}
+{"head": "nomogram", "relation": "predicts", "tail": "3-year overall survival"}
+{"head": "nomogram", "relation": "predicts", "tail": "5-year overall survival"}
+{"head": "nomogram", "relation": "distinguishes between", "tail": "different risk groups"}
+{"head": "nomogram", "relation": "is practical for", "tail": "clinical use"}
+{"head": "combination of systemic immunoinflammatory response index and C-reactive protein-albumin ratio", "relation": "predicts prognosis in", "tail": "hepatocellular carcinoma patients undergoing radical surgery"}
+{"head": "Chordin-like 1 (CHRDL1)", "relation": "is", "tail": "secreted antagonist of bone morphogenetic proteins"}
+{"head": "CHRDL1 expression", "relation": "is reduced in", "tail": "tumor tissues compared to normal adjacent tissues in majority of cancer types"}
+{"head": "Lower CHRDL1 expression", "relation": "leads to negative prognosis in", "tail": "lung adenocarcinoma (LUAD)"}
+{"head": "Lower CHRDL1 expression", "relation": "leads to negative prognosis in", "tail": "melanoma (SKCM)"}
+{"head": "Lower CHRDL1 expression", "relation": "leads to negative prognosis in", "tail": "mesothelioma (MESO)"}
+{"head": "CHRDL1 expression", "relation": "is positively correlated with infiltration of", "tail": "CD4\u207a T cells in most tumors"}
+{"head": "CHRDL1 expression", "relation": "is positively correlated with infiltration of", "tail": "CD8\u207a T cells in most tumors"}
+{"head": "CHRDL1 expression", "relation": "is positively correlated with infiltration of", "tail": "B cells in most tumors"}
+{"head": "CHRDL1 expression", "relation": "is positively correlated with infiltration of", "tail": "neutrophils in most tumors"}
+{"head": "CHRDL1 expression", "relation": "is positively correlated with infiltration of", "tail": "macrophages in most tumors"}
+{"head": "CHRDL1 expression", "relation": "is positively correlated with infiltration of", "tail": "dendritic cells in most tumors"}
+{"head": "Higher CHRDL1 expression", "relation": "correlates with", "tail": "more favorable immune profiles"}
+{"head": "Higher CHRDL1 expression", "relation": "correlates with", "tail": "reduction in tumor stemness"}
+{"head": "CHRDL1 overexpression in A549 and H1299 cells", "relation": "reduces", "tail": "proliferation, migration, and invasion abilities"}
+{"head": "CHRDL1 overexpression in A549 cells", "relation": "inhibits", "tail": "growth in nude mice"}
+{"head": "CHRDL1", "relation": "is potential prognostic biomarker", "tail": ""}
+{"head": "immune checkpoint inhibitor therapy", "relation": "shows superior efficacy in", "tail": "early-stage colorectal cancer"}
+{"head": "immune checkpoint inhibitor therapy", "relation": "shows inferior efficacy in", "tail": "advanced colorectal cancer"}
+{"head": "tumor microenvironment", "relation": "differs between", "tail": "early-stage colorectal cancer and advanced-stage colorectal cancer"}
+{"head": "tertiary lymphoid structure", "relation": "differs between", "tail": "early-stage colorectal cancer and advanced-stage colorectal cancer"}
+{"head": "CD4+ Tfh cells", "relation": "have functional differences in", "tail": "early-stage colorectal cancer and advanced-stage colorectal cancer"}
+{"head": "BGC cells", "relation": "have functional differences in", "tail": "early-stage colorectal cancer and advanced-stage colorectal cancer"}
+{"head": "CXCL13 expression on CD8+ Tex cells", "relation": "regulates", "tail": "tertiary lymphoid structure functionality"}
+{"head": "CD40-CD40L interactions between CD4+ Tfh and BGC cells", "relation": "regulate", "tail": "tertiary lymphoid structure functionality"}
+{"head": "tertiary lymphoid structure functionality", "relation": "affects", "tail": "response to immunotherapy"}
+{"head": "advanced colorectal cancer", "relation": "has multilayered immune dysfunction", "tail": ""}
+{"head": "alterations in tertiary lymphoid structures", "relation": "occur during progression of", "tail": "colorectal cancer"}
+{"head": "multimodal classification model", "relation": "outperforms", "tail": "single-modal models"}
+{"head": "multimodal classification model", "relation": "has higher specificity than", "tail": "single-modal models"}
+{"head": "multimodal classification model", "relation": "has higher accuracy than", "tail": "single-modal models"}
+{"head": "multimodal classification model", "relation": "has higher precision than", "tail": "single-modal models"}
+{"head": "multimodal classification model", "relation": "has higher AUC than", "tail": "single-modal models"}
+{"head": "single-modal models", "relation": "have higher sensitivity than", "tail": "multimodal classification model"}
+{"head": "multimodal classification model", "relation": "assists", "tail": "physicians in improving breast cancer screening accuracy"}
+{"head": "multimodal classification model", "relation": "is based on", "tail": "mammography and ultrasound images"}
+{"head": "six deep learning classification models", "relation": "were used to identify best model for", "tail": "multimodal classification model"}
+{"head": "Neuroblastoma", "relation": "has", "tail": "clinical phenotypes"}
+{"head": "Computed tomography", "relation": "is diagnostic tool for", "tail": "Neuroblastoma"}
+{"head": "Machine vision imaging", "relation": "offers advantages over", "tail": "X-ray imaging"}
+{"head": "Machine vision imaging", "relation": "offers advantages over", "tail": "ultrasound imaging"}
+{"head": "YOLOv8-IE", "relation": "is modified version of", "tail": "YOLO algorithm"}
+{"head": "YOLOv8-IE", "relation": "integrates", "tail": "feature fusion"}
+{"head": "YOLOv8-IE", "relation": "integrates", "tail": "inverse residual attention mechanisms"}
+{"head": "YOLO-IE", "relation": "improves detection and classification of", "tail": "Neuroblastoma tumors"}
+{"head": "Inverse residual-based attention structure (iRMB)", "relation": "is implemented within", "tail": "detection network of YOLOv8"}
+{"head": "Inverse residual-based attention structure (iRMB)", "relation": "enhances", "tail": "model's ability to focus on significant image features"}
+{"head": "Centered feature pyramid EVC module", "relation": "is incorporated in", "tail": "YOLOv8 detection network"}
+{"head": "YOLO-IE detection network", "relation": "attains mean Average Precision 7.9% higher than", "tail": "baseline YOLO model"}
+{"head": "iRMB", "relation": "contributes 0.8% improvement over", "tail": "baseline YOLO model"}
+{"head": "EVC module", "relation": "contributes 3.6% improvement over", "tail": "baseline YOLO model"}
+{"head": "Machine learning and artificial intelligence", "relation": "have potential in", "tail": "medical diagnosis"}
+{"head": "Obesity", "relation": "increases risk of", "tail": "Polycystic ovary syndrome"}
+{"head": "Weight loss", "relation": "improves symptoms of", "tail": "Polycystic ovary syndrome"}
+{"head": "Coffee", "relation": "reduces", "tail": "Body weight"}
+{"head": "SLC16A6 gene", "relation": "is differentially expressed in", "tail": "Polycystic ovary syndrome patients"}
+{"head": "Caffeine", "relation": "improves symptoms of", "tail": "Obese polycystic ovary syndrome rats"}
+{"head": "Caffeine", "relation": "increases expression of", "tail": "SLC16A6 gene"}
+{"head": "Caffeine", "relation": "affects", "tail": "Body weight in obese PCOS rats"}
+{"head": "Caffeine", "relation": "affects", "tail": "Estrous cycle in obese PCOS rats"}
+{"head": "Caffeine", "relation": "affects", "tail": "Ovarian pathology in obese PCOS rats"}
+{"head": "Caffeine", "relation": "affects", "tail": "Serum insulin concentration in obese PCOS rats"}
+{"head": "Caffeine", "relation": "affects", "tail": "Insulin resistance index in obese PCOS rats"}
+{"head": "Caffeine", "relation": "affects", "tail": "SLC16A6 transporter gene expression in ovarian tissue of obese PCOS rats"}
+{"head": "PKM2", "relation": "is", "tail": "crucial enzyme that limits the pace of glycometabolism"}
+{"head": "PKM2", "relation": "is upregulated in", "tail": "most malignancies"}
+{"head": "PKM2", "relation": "is associated with", "tail": "bad prognosis"}
+{"head": "PKM2 DNA promoter", "relation": "is hypomethylated in", "tail": "some cancers"}
+{"head": "PKM2 expression", "relation": "is positively linked with", "tail": "most m6A-methylation-related genes in pan-cancer"}
+{"head": "PKM2 functions", "relation": "are associated with", "tail": "regulation of immune system"}
+{"head": "PKM2 functions", "relation": "are associated with", "tail": "glycolysis"}
+{"head": "PKM2 functions", "relation": "are associated with", "tail": "hypoxia"}
+{"head": "PKM2 functions", "relation": "are associated with", "tail": "angiogenesis"}
+{"head": "PKM2 functions", "relation": "are associated with", "tail": "epithelial-mesenchymal transition"}
+{"head": "PKM2", "relation": "is associated with", "tail": "neutrophils in tumor microenvironment of most cancers"}
+{"head": "PKM2", "relation": "is associated with", "tail": "cancer-associated fibroblasts in tumor microenvironment of most cancers"}
+{"head": "PKM2", "relation": "is correlated with", "tail": "CD274 (PD-L1) in most cancers"}
+{"head": "PKM2", "relation": "is correlated with", "tail": "CD276 in most cancers"}
+{"head": "PKM2", "relation": "is correlated with", "tail": "TGF-\u03b21 in most cancers"}
+{"head": "PKM2", "relation": "is correlated with", "tail": "VEGFA in most cancers"}
+{"head": "PKM2", "relation": "is correlated with", "tail": "HAVCR2 in most cancers"}
+{"head": "Silencing PKM2", "relation": "increases sensitivity of", "tail": "esophageal squamous cell carcinoma to cisplatin"}
+{"head": "Silencing PKM2", "relation": "regulates", "tail": "autophagy"}
+{"head": "PKM2", "relation": "affects", "tail": "autophagy-regulated tumor cell tolerance to chemotherapy"}
+{"head": "ALBI-Sarcopenia score", "relation": "predicts", "tail": "mortality in hepatocellular carcinoma"}
+{"head": "ALBI-Sarcopenia score", "relation": "predicts", "tail": "treatment response in hepatocellular carcinoma"}
+{"head": "Sarcopenia", "relation": "is prevalent in", "tail": "43.1% of hepatocellular carcinoma patients"}
+{"head": "Most patients", "relation": "are", "tail": "HCV-positive"}
+{"head": "Most patients", "relation": "are classified as", "tail": "CTP A or BCLC B"}
+{"head": "TACE", "relation": "is the most administered treatment", "tail": "hepatocellular carcinoma patients"}
+{"head": "Complete response rates", "relation": "decline over time", "tail": "from 31.7% at 1 month to 21.4% at 12 months"}
+{"head": "Progressive disease rates", "relation": "increase over time", "tail": "from 21.8% at 1 month to 37.8% at 12 months"}
+{"head": "ALBI-Sarcopenia score", "relation": "has higher predictive accuracy than", "tail": "ALBI score"}
+{"head": "ALBI-Sarcopenia score", "relation": "has higher predictive accuracy than", "tail": "MELD score"}
+{"head": "ALBI-Sarcopenia score", "relation": "is an independent predictor of", "tail": "treatment response at 1 month"}
+{"head": "ALBI-Sarcopenia score", "relation": "is an independent predictor of", "tail": "treatment response at 12 months"}
+{"head": "ALBI-Sarcopenia score", "relation": "predicts", "tail": "treatment outcomes in hepatocellular carcinoma"}
+{"head": "ALBI-Sarcopenia score", "relation": "offers superior prognostic accuracy compared to", "tail": "traditional scoring systems"}
+{"head": "ALBI-Sarcopenia score", "relation": "enhances", "tail": "patient stratification for optimized treatment planning"}
+{"head": "Glioma-associated mesenchymal stem/stromal cells", "relation": "fuse with", "tail": "glioma cells"}
+{"head": "Hybrid cells", "relation": "display", "tail": "lower levels of N6-methyladenosine modification"}
+{"head": "Hybrid cells", "relation": "modulate", "tail": "glioma microenvironment"}
+{"head": "Hybrid cells", "relation": "attract", "tail": "macrophages"}
+{"head": "Hybrid cells", "relation": "induce", "tail": "M2-like polarization of macrophages"}
+{"head": "Fat mass and obesity-associated protein", "relation": "mediates", "tail": "demethylation in hybrids"}
+{"head": "Fat mass and obesity-associated protein", "relation": "promotes", "tail": "macrophage colony-stimulating factor secretion"}
+{"head": "Fat mass and obesity-associated protein", "relation": "increases", "tail": "CSF1 RNA stability"}
+{"head": "CSF1 RNA stability", "relation": "is increased in", "tail": "m6A-YTH domain family 2-dependent manner"}
+{"head": "Oral cavity squamous cell carcinoma", "relation": "is", "tail": "most common head and neck region tumor"}
+{"head": "Pathologic T4a classification", "relation": "is defined by", "tail": "tumor invasion by skin, bone marrow, or depth of invasion > 10 mm and tumor size > 40 mm"}
+{"head": "Patients with pT4a gingivobuccal SCC", "relation": "were treated from", "tail": "January 2010 to December 2021"}
+{"head": "Patients with pT4a gingivobuccal SCC", "relation": "exhibited bone invasion", "tail": "55%"}
+{"head": "Patients with pT4a gingivobuccal SCC", "relation": "exhibited skin invasion", "tail": "51.7%"}
+{"head": "Patients with pT4a gingivobuccal SCC", "relation": "exhibited deep DOI (DOI > 10 mm and tumor size > 40 mm)", "tail": "36.7%"}
+{"head": "Median follow-up period for all patients", "relation": "was", "tail": "93.6 months"}
+{"head": "Median overall survival for patients with shallow DOI (\u2264 10 mm)", "relation": "was", "tail": "48.1 months"}
+{"head": "Median overall survival for patients with deep DOI", "relation": "was", "tail": "25.1 months"}
+{"head": "Deep DOI tumors", "relation": "influence", "tail": "poorer overall survival in patients classified as pT4a"}
+{"head": "Deep DOI", "relation": "predicts", "tail": "poor prognosis"}
+{"head": "Extranodal extension", "relation": "predicts", "tail": "poor prognosis"}
+{"head": "Positive resection margin", "relation": "predicts", "tail": "poor prognosis"}
+{"head": "Deep DOI", "relation": "predicts worse outcomes than", "tail": "bone or skin invasion in patients with pT4a gingivobuccal SCC"}
+{"head": "Breast cancer", "relation": "evades", "tail": "body's immune defences"}
+{"head": "Triple-negative breast cancer", "relation": "evades", "tail": "body's immune defences"}
+{"head": "Suppressing local steroidogenesis", "relation": "augments", "tail": "anti-tumour immunity against TNBC"}
+{"head": "Immunosuppressive steroids", "relation": "exist in", "tail": "TNBC patient tumours"}
+{"head": "Steroidogenic activity", "relation": "exists in", "tail": "immune-infiltrating regions"}
+{"head": "Genetic inhibition of immune cell steroidogenesis", "relation": "restricts", "tail": "TNBC tumour progression"}
+{"head": "Genetic inhibition of immune cell steroidogenesis", "relation": "reduces", "tail": "tumour associated macrophages"}
+{"head": "Steroidogenesis inhibition", "relation": "bolsters", "tail": "anti-tumour immune responses in dendritic and T cells"}
+{"head": "Steroidogenesis inhibition", "relation": "impedes", "tail": "glucocorticoid signalling"}
+{"head": "Posaconazole", "relation": "inhibits", "tail": "steroidogenesis"}
+{"head": "Posaconazole", "relation": "curtails", "tail": "tumour expansion in humanised TNBC mouse model"}
+{"head": "Incidence of colorectal cancer", "relation": "is increasing due to", "tail": "different mechanisms driving initiation and progression"}
+{"head": "Colorectal cancer", "relation": "originates from", "tail": "adenomatous-polyps induced by WNT activation"}
+{"head": "Colorectal cancer progression", "relation": "occurs through", "tail": "p53 loss"}
+{"head": "Early APC loss", "relation": "activates", "tail": "MYC"}
+{"head": "MYC", "relation": "upregulates transcriptionally", "tail": "URI"}
+{"head": "URI", "relation": "modulates", "tail": "MDM2 activity"}
+{"head": "MDM2 activity", "relation": "triggers", "tail": "p53 proteasomal degradation"}
+{"head": "p53 proteasomal degradation", "relation": "is essential for", "tail": "tumour initiation in colorectal cancer mice"}
+{"head": "p53 proteasomal degradation", "relation": "is essential for", "tail": "mutation burden accrual in colorectal cancer mice"}
+{"head": "Reinstating p53 levels via genetic URI depletion", "relation": "prevents", "tail": "tumour initiation in colorectal cancer mice with WNT pathway activation"}
+{"head": "p53 super-expression in colorectal cancer mice with WNT pathway activation", "relation": "prevents", "tail": "tumour initiation"}
+{"head": "Reinstating p53 levels via genetic URI depletion", "relation": "extends", "tail": "lifespan in colorectal cancer mice with WNT pathway activation"}
+{"head": "p53 super-expression in colorectal cancer mice with WNT pathway activation", "relation": "extends", "tail": "lifespan"}
+{"head": "MYC/URI axis", "relation": "controls", "tail": "p53 degradation"}
+{"head": "p53 degradation", "relation": "drives", "tail": "transitional mutation acquisition essential for colorectal cancer progression"}
+{"head": "APC loss-driven colorectal cancer initiation", "relation": "follows", "tail": "two-hit genetic model"}
+{"head": "Colorectal cancer", "relation": "is influenced by", "tail": "genetic factors"}
+{"head": "Amazonian indigenous populations", "relation": "have genomic profile analyzed by", "tail": "exome sequencing and bioinformatic tools"}
+{"head": "Amazonian indigenous populations", "relation": "have genetic variants in", "tail": "APC gene"}
+{"head": "Amazonian indigenous populations", "relation": "have genetic variants in", "tail": "MLH1 gene"}
+{"head": "Amazonian indigenous populations", "relation": "have genetic variants in", "tail": "MSH2 gene"}
+{"head": "Amazonian indigenous populations", "relation": "have genetic variants in", "tail": "MSH6 gene"}
+{"head": "Amazonian indigenous populations", "relation": "have genetic variants in", "tail": "PMS2 gene"}
+{"head": "Three novel variants exclusive to the Amazonian indigenous populations", "relation": "are located in", "tail": "MLH1 gene"}
+{"head": "Three novel variants exclusive to the Amazonian indigenous populations", "relation": "are located in", "tail": "MSH6 gene"}
+{"head": "Three novel variants exclusive to the Amazonian indigenous populations", "relation": "represent genetic risks for", "tail": "Colorectal cancer"}
+{"head": "Three high-impact variants", "relation": "are identified in", "tail": "APC gene"}
+{"head": "Three high-impact variants", "relation": "are identified in", "tail": "MSH2 gene"}
+{"head": "Amazonian indigenous groups", "relation": "have genetic isolation compared to", "tail": "continental populations"}
+{"head": "Sacituzumab govitecan", "relation": "treats", "tail": "breast cancer"}
+{"head": "Matrix metalloproteinase 1", "relation": "is overexpressed in", "tail": "many tumor types"}
+{"head": "Matrix metalloproteinase 1", "relation": "plays key role in", "tail": "tumor metastasis"}
+{"head": "Matrix metalloproteinase 1", "relation": "plays key role in", "tail": "drug resistance"}
+{"head": "Matrix metalloproteinase 1", "relation": "is overexpressed by approximately 30-fold in", "tail": "hormone receptor-positive breast cancer tissues"}
+{"head": "Matrix metalloproteinase 1", "relation": "is associated with", "tail": "poorer prognosis among hormone receptor-positive breast cancer patients"}
+{"head": "Hormone receptor-positive breast cancer with high Matrix metalloproteinase 1 expression", "relation": "displays resistance to", "tail": "Sacituzumab govitecan"}
+{"head": "Matrix metalloproteinase 1", "relation": "activates", "tail": "NF-\u03baB pathway"}
+{"head": "NF-\u03baB pathway", "relation": "influences", "tail": "epithelial-mesenchymal transition"}
+{"head": "Epithelial-mesenchymal transition", "relation": "contributes to", "tail": "Sacituzumab govitecan resistance"}
+{"head": "Temozolomide", "relation": "treats", "tail": "glioblastoma"}
+{"head": "glioblastoma cells", "relation": "develop", "tail": "TMZ resistance"}
+{"head": "TMZ-resistant cells", "relation": "exhibit", "tail": "mesenchymal-like state"}
+{"head": "mesenchymal-like state", "relation": "involves", "tail": "mesenchymal-epithelial transition"}
+{"head": "TLK1", "relation": "is", "tail": "DNA repair protein"}
+{"head": "TMZ-resistant cells", "relation": "have elevated expression of", "tail": "TLK1"}
+{"head": "J54", "relation": "inhibits", "tail": "TLK1"}
+{"head": "TLK1 inhibition", "relation": "enhances", "tail": "cytotoxicity in TMZ-resistant cells"}
+{"head": "TLK1 inhibition", "relation": "reduces", "tail": "cell migration"}
+{"head": "TLK1 inhibition", "relation": "reduces", "tail": "cell invasion"}
+{"head": "TLK1", "relation": "promotes", "tail": "metastasis"}
+{"head": "Hepatocellular carcinoma", "relation": "is a type of", "tail": "primary hepatic malignancy"}
+{"head": "Cholangiocarcinoma", "relation": "is a type of", "tail": "primary hepatic malignancy"}
+{"head": "Hepatocellular carcinoma", "relation": "has established pathway to", "tail": "transplantation"}
+{"head": "Cholangiocarcinoma", "relation": "has established pathway to", "tail": "transplantation"}
+{"head": "Hepatocellular carcinoma", "relation": "has established pathway to", "tail": "model for end-stage liver disease (MELD) exception points"}
+{"head": "Cholangiocarcinoma", "relation": "has established pathway to", "tail": "model for end-stage liver disease (MELD) exception points"}
+{"head": "Hepatic epithelioid hemangioendothelioma", "relation": "is managed with", "tail": "liver transplantation"}
+{"head": "Fibrolamellar hepatocellular carcinoma", "relation": "is managed with", "tail": "liver transplantation"}
+{"head": "Liver transplantation", "relation": "is used for", "tail": "metastatic neuroendocrine tumor"}
+{"head": "Liver transplantation", "relation": "has patient selection criteria for", "tail": "metastatic neuroendocrine tumor"}
+{"head": "Liver transplantation", "relation": "has path to", "tail": "model for end-stage liver disease (MELD) exception points"}
+{"head": "Liver transplantation", "relation": "is used for", "tail": "unresectable hepatic colorectal metastases"}
+{"head": "Tempus xF+", "relation": "is a", "tail": "liquid biopsy assay"}
+{"head": "Tempus xF+", "relation": "detects", "tail": "cell-free DNA in blood samples of patients with advanced solid tumors"}
+{"head": "xF+ panel", "relation": "covers", "tail": "523 genes spanning approximately 1.8 Mb of the human genome"}
+{"head": "xF+ panel", "relation": "detects", "tail": "single-nucleotide variants and insertions-deletions in 522 genes"}
+{"head": "xF+ panel", "relation": "detects", "tail": "copy number gains in 7 genes"}
+{"head": "xF+ panel", "relation": "detects", "tail": "translocations in 10 genes"}
+{"head": "xF+ panel", "relation": "allows for calculation of", "tail": "blood tumor mutational burden"}
+{"head": "Metastasis", "relation": "is disease of", "tail": "cancer"}
+{"head": "Circulating tumor cells", "relation": "spread from", "tail": "primary tumors to bloodstream"}
+{"head": "Circulating tumor cells", "relation": "disseminate to", "tail": "distant organs"}
+{"head": "Circulating tumor cells", "relation": "contribute to", "tail": "unfavorable patient outcomes"}
+{"head": "Dynamic CTC alterations", "relation": "indicate", "tail": "cancer progression"}
+{"head": "Dynamic CTC alterations", "relation": "indicate", "tail": "cancer regression"}
+{"head": "Dynamic CTC alterations", "relation": "serve as", "tail": "biomarkers for diagnoses and prognoses"}
+{"head": "CTC heterogeneity", "relation": "is impacted by", "tail": "intrinsic oncogenic changes"}
+{"head": "CTC heterogeneity", "relation": "is impacted by", "tail": "extrinsic microenvironmental factors"}
+{"head": "Extrinsic microenvironmental factors", "relation": "include", "tail": "immune system"}
+{"head": "Extrinsic microenvironmental factors", "relation": "include", "tail": "circadian rhythm"}
+{"head": "CTC heterogeneity", "relation": "alters", "tail": "genomic/genetic landscapes"}
+{"head": "CTC heterogeneity", "relation": "alters", "tail": "epigenomic/epigenetic landscapes"}
+{"head": "CTC heterogeneity", "relation": "alters", "tail": "proteomic landscapes"}
+{"head": "CTC heterogeneity", "relation": "alters", "tail": "post-translational landscapes"}
+{"head": "CTC heterogeneity", "relation": "alters", "tail": "metabolomic landscapes"}
+{"head": "Intercellular clustering of CTCs", "relation": "influences", "tail": "metastatic outcomes"}
+{"head": "CTCs", "relation": "form", "tail": "homotypic multi-cellular clusters"}
+{"head": "CTCs", "relation": "form", "tail": "heterotypic multi-cellular clusters"}
+{"head": "CTC clusters", "relation": "have", "tail": "20-100 times enhanced metastatic potential than single CTCs"}
+{"head": "CTC clusters", "relation": "promote", "tail": "cell survival"}
+{"head": "CTC clusters", "relation": "promote", "tail": "stemness"}
+{"head": "CTC clusters", "relation": "activate", "tail": "signaling pathways"}
+{"head": "Clustering-driving proteins", "relation": "include", "tail": "CD44"}
+{"head": "Clustering-driving proteins", "relation": "include", "tail": "CD81"}
+{"head": "Clustering-driving proteins", "relation": "include", "tail": "ICAM1"}
+{"head": "Clustering-driving proteins", "relation": "include", "tail": "Podocalyxin"}
+{"head": "Heterotypic CTC clusters", "relation": "protect", "tail": "CTCs from immune cell attacks"}
+{"head": "Cytotoxic immune cells", "relation": "clear", "tail": "CTCs"}
+{"head": "DNA methylation", "relation": "is an epigenetic marker", "tail": "epigenetic markers"}
+{"head": "DNA methylation", "relation": "plays a role in", "tail": "control of gene activity"}
+{"head": "DNA methylation", "relation": "plays a role in", "tail": "architecture of the nucleus of the cell"}
+{"head": "DNA methylation", "relation": "provides", "tail": "cancer biomarkers"}
+{"head": "liquid biopsy", "relation": "is a tool for", "tail": "management of cancer patients"}
+{"head": "liquid biopsy", "relation": "extracts information from", "tail": "circulating genetic material in peripheral blood"}
+{"head": "liquid biopsy", "relation": "characterizes", "tail": "evolution of a solid tumor in real time"}
+{"head": "DNA methylation in combination with liquid biopsy", "relation": "provides", "tail": "circulating epigenetic biomarkers of clinical importance"}
+{"head": "DNA methylation markers", "relation": "are tested in", "tail": "liquid biopsies"}
+{"head": "DNA methylation markers", "relation": "are potential biomarkers in", "tail": "various types of cancer"}
+{"head": "DNA methylation", "relation": "is studied in", "tail": "ctDNA"}
+{"head": "DNA methylation", "relation": "is studied in", "tail": "gDNA isolated from CTCs"}
+{"head": "liquid biopsy/DNA methylation analysis", "relation": "has potential for", "tail": "early cancer detection"}
+{"head": "alterations in DNA methylation in plasma", "relation": "can be detected early during", "tail": "cancer pathogenesis"}
+{"head": "methylated DNA", "relation": "can be used as", "tail": "blood circulating epigenetic biomarkers"}
+{"head": "modified nucleosomes", "relation": "can be used as", "tail": "blood circulating epigenetic biomarkers"}
+{"head": "noncoding RNAs", "relation": "can be used as", "tail": "blood circulating epigenetic biomarkers"}
+{"head": "DNA methylation", "relation": "provides", "tail": "novel biomarkers for improving cancer diagnostics"}
+{"head": "DNA methylation inhibitors", "relation": "are used in", "tail": "cancer treatment"}
+{"head": "epigenetic alterations detected in CTCs", "relation": "occur in", "tail": "various types of cancer"}
+{"head": "epigenetic alterations detected in CTCs", "relation": "have potential as", "tail": "novel liquid biopsy-based DNA methylation biomarkers"}
+{"head": "Circulating tumor cells", "relation": "enable", "tail": "molecular interrogation of patient tumor cells"}
+{"head": "Circulating tumor cells", "relation": "associate with", "tail": "clinical outcomes"}
+{"head": "Circulating tumor cells", "relation": "offer", "tail": "viable and established source of tumor biopsy in prostate cancer with bone metastasis"}
+{"head": "CTC enumeration", "relation": "has prognostic value in", "tail": "metastatic prostate cancer"}
+{"head": "Molecular CTC characterization", "relation": "is needed for", "tail": "effective patient stratification and disease management"}
+{"head": "Enrichment technologies", "relation": "have evolved from", "tail": "EpCAM-based enrichment to antigen-agnostic enrichment"}
+{"head": "Clinical utility of CTCs", "relation": "has evolved from", "tail": "enumeration to advanced downstream analyses including CTC proteomics, transcriptomics and genomics"}
+{"head": "CTCs", "relation": "are utilized in", "tail": "clinical studies in prostate cancer to determine molecular basis of clinical response and resistance"}
+{"head": "CTCs", "relation": "assist in", "tail": "disease management and treatment customization"}
+{"head": "Liquid biopsy", "relation": "includes", "tail": "circulating tumor DNA (ctDNA)"}
+{"head": "Liquid biopsy", "relation": "includes", "tail": "circulating tumor cells (CTCs)"}
+{"head": "Liquid biopsy", "relation": "is a tool for", "tail": "cancer diagnosis"}
+{"head": "Liquid biopsy", "relation": "is a tool for", "tail": "cancer monitoring"}
+{"head": "Liquid biopsy", "relation": "is less invasive than", "tail": "traditional tissue biopsy"}
+{"head": "Liquid biopsy", "relation": "enables", "tail": "comprehensive analysis of tumor molecular characteristics"}
+{"head": "Liquid biopsy", "relation": "captures", "tail": "dynamic nature of tumors"}
+{"head": "Liquid biopsy", "relation": "addresses limitations of", "tail": "tissue biopsy"}
+{"head": "Liquid biopsy", "relation": "provides insights into", "tail": "tumor heterogeneity over time"}
+{"head": "Liquid biopsy", "relation": "is studied in", "tail": "patients with advanced colorectal cancer"}
+{"head": "Liquid biopsy", "relation": "aids in", "tail": "diagnosis of colorectal cancer"}
+{"head": "Liquid biopsy", "relation": "predicts", "tail": "disease course in colorectal cancer"}
+{"head": "Liquid biopsy", "relation": "guides", "tail": "treatment selection in colorectal cancer"}
+{"head": "Identifying genetic changes", "relation": "is crucial for", "tail": "personalized medicine"}
+{"head": "Genetic changes", "relation": "cause", "tail": "cancer cells to become resistant to treatment"}
+{"head": "Circulating tumor cells (CTCs)", "relation": "have a role in", "tail": "colorectal cancer"}
+{"head": "Circulating tumor cells", "relation": "are released by", "tail": "primary tumors into the bloodstream"}
+{"head": "Circulating tumor cells", "relation": "inform on", "tail": "cancer heterogeneity"}
+{"head": "Circulating tumor cells", "relation": "inform on", "tail": "cancer progression"}
+{"head": "Circulating tumor cells", "relation": "inform on", "tail": "metastatic disease"}
+{"head": "Circulating tumor cells", "relation": "inform on", "tail": "therapy efficacy"}
+{"head": "Circulating tumor cells", "relation": "do not require", "tail": "invasive tumor biopsies"}
+{"head": "Circulating tumor cells", "relation": "occur at", "tail": "genotypic, phenotypic and functional levels"}
+{"head": "Circulating tumor cells", "relation": "have", "tail": "heterogeneity"}
+{"head": "Lung cancer", "relation": "is", "tail": "leading cause of cancer-related death worldwide"}
+{"head": "CTC heterogeneity", "relation": "can undermine", "tail": "clinical utility of circulating tumor cells biomarker"}
+{"head": "A fraction of circulating tumor cells", "relation": "is characterized by", "tail": "stem-like feature and partial epithelial-mesenchymal transition phenotype"}
+{"head": "A fraction of circulating tumor cells", "relation": "can sustain", "tail": "metastasis initiation"}
+{"head": "Cancer stem cells", "relation": "have potential to maintain", "tail": "primary tumors"}
+{"head": "Cancer stem cells", "relation": "have potential to initiate", "tail": "metastasis"}
+{"head": "Cancer stem cells", "relation": "have potential to escape", "tail": "chemotherapy treatments"}
+{"head": "Cancer stem cells", "relation": "have potential to escape", "tail": "immunotherapy treatments"}
+{"head": "Hybrid phenotype", "relation": "is characterized by retention of", "tail": "epithelial and mesenchymal traits"}
+{"head": "Hybrid phenotype", "relation": "is characterized by acquisition of", "tail": "cancer stem cell feature"}
+{"head": "Hybrid phenotype", "relation": "is characterized by", "tail": "increased metastatic potential"}
+{"head": "Hybrid phenotype", "relation": "has close connection with", "tail": "cancer stem cell feature"}
+{"head": "Circulating tumor cells subsets", "relation": "have", "tail": "stem-like and hybrid epithelial-mesenchymal transition phenotype"}
+{"head": "Tracking circulating cancer stem cells", "relation": "has potential to improve", "tail": "prognostic and predictive value of circulating tumor cells in non-small cell lung cancer setting"}
+{"head": "Tracking circulating cancer stem cells", "relation": "could provide", "tail": "novel insights into metastatic process"}
+{"head": "Tracking circulating cancer stem cells", "relation": "could provide", "tail": "identification of novel therapeutic targets"}
+{"head": "immune checkpoint inhibitors", "relation": "cause", "tail": "immune-related adverse events"}
+{"head": "immune checkpoint inhibitors", "relation": "treat", "tail": "cancer"}
+{"head": "Giant cell tumour", "relation": "occurs in", "tail": "parotid gland"}
+{"head": "Female patient in her late 40s", "relation": "presents with", "tail": "right-sided face swelling in the preauricular region"}
+{"head": "Fine-needle aspiration", "relation": "suggests", "tail": "primary giant cell tumour of the parotid"}
+{"head": "Histopathology", "relation": "confirms", "tail": "primary giant cell tumour of the parotid"}
+{"head": "Histopathology", "relation": "reveals", "tail": "biphasic population of mononuclear stromal cells and osteoclast-like giant cells"}
+{"head": "Cervical lymph node", "relation": "has no", "tail": "metastatic lesion"}
+{"head": "Tumour", "relation": "has no", "tail": "associated carcinomatous component"}
+{"head": "Immunohistochemistry", "relation": "is positive for", "tail": "haematopoietic markers"}
+{"head": "Immunohistochemistry", "relation": "is positive for", "tail": "monocytic-lineage markers"}
+{"head": "Immunohistochemistry", "relation": "is positive for", "tail": "mesenchymal markers"}
+{"head": "Immunohistochemistry", "relation": "is negative for", "tail": "epithelial markers"}
+{"head": "Immunohistochemistry", "relation": "is negative for", "tail": "myoepithelial markers"}
+{"head": "benign conjunctival fibrous histiocytoma", "relation": "involves", "tail": "medial rectus"}
+{"head": "woman in her 50s", "relation": "has lesion in", "tail": "left eye"}
+{"head": "subconjunctival nodule", "relation": "located in", "tail": "nasal conjunctiva"}
+{"head": "lesion", "relation": "infiltrates", "tail": "superficial sclera"}
+{"head": "lesion", "relation": "infiltrates", "tail": "insertion of the medial rectus muscle"}
+{"head": "histopathological analysis", "relation": "confirms diagnosis of", "tail": "benign fibrous histiocytoma"}
+{"head": "benign fibrous histiocytoma", "relation": "diagnosed by", "tail": "histopathological analysis"}
+{"head": "Tislelizumab", "relation": "is", "tail": "anti-programmed cell death protein-1 monoclonal antibody"}
+{"head": "Tislelizumab", "relation": "improves survival over", "tail": "standard of care for multiple cancers"}
+{"head": "Non-compartmental pharmacokinetic analysis", "relation": "was conducted using data from", "tail": "Asian and White patients enrolled in BGB-A317-001 and BGB-A317-102"}
+{"head": "Population pharmacokinetic analyses", "relation": "used pooled data from", "tail": "12 clinical studies"}
+{"head": "Population pharmacokinetic analyses", "relation": "evaluated impact of", "tail": "intrinsic/extrinsic factors on tislelizumab's pharmacokinetic properties"}
+{"head": "Population pharmacokinetic analyses", "relation": "evaluated impact of", "tail": "race effect on tislelizumab's pharmacokinetic properties"}
+{"head": "Tislelizumab", "relation": "exhibited", "tail": "dose-proportional pharmacokinetics"}
+{"head": "Tislelizumab pharmacokinetic parameters at 200 mg once every 3 weeks", "relation": "showed no clinically meaningful differences between", "tail": "BGB-A317-001 (83% White patients) and BGB-A317-102 (100% Chinese patients)"}
+{"head": "Race", "relation": "was not", "tail": "significant covariate for tislelizumab pharmacokinetics"}
+{"head": "Exposure-efficacy and exposure-safety relationships", "relation": "were not clinically relevant in", "tail": "BGB-A317-302 and BGB-A317-303 studies"}
+{"head": "Incidence of anti-drug antibodies (ADAs)", "relation": "was similar between", "tail": "Asian and White patients"}
+{"head": "Presence of ADAs", "relation": "was not clinically relevant for", "tail": "tislelizumab's pharmacokinetic properties"}
+{"head": "Presence of ADAs", "relation": "was not clinically relevant for", "tail": "tislelizumab's efficacy"}
+{"head": "Presence of ADAs", "relation": "was not clinically relevant for", "tail": "tislelizumab's safety"}
+{"head": "Tislelizumab's pharmacokinetic and ADA characteristics", "relation": "showed no differences between", "tail": "Asian and White patients with advanced cancer"}
+{"head": "Tislelizumab", "relation": "has no clinically relevant exposure-efficacy or exposure-safety dependency", "tail": "in Asian and White patients with advanced cancer"}
+{"head": "Immunogenicity", "relation": "has no impact on", "tail": "tislelizumab's efficacy and safety"}
+{"head": "Data from the extensive clinical program of tislelizumab", "relation": "support use of", "tail": "tislelizumab across broad patient populations with relevant tumor types"}
+{"head": "Tislelizumab 200 mg Q3W", "relation": "treats", "tail": "multiple cancers"}
+{"head": "Tislelizumab 150 mg Q2W", "relation": "has comparable exposure to", "tail": "Tislelizumab 200 mg Q3W"}
+{"head": "Tislelizumab 300 mg Q4W", "relation": "has comparable exposure to", "tail": "Tislelizumab 200 mg Q3W"}
+{"head": "Tislelizumab 400 mg Q6W", "relation": "has comparable exposure to", "tail": "Tislelizumab 200 mg Q3W"}
+{"head": "Simulated peak serum concentration at 300 mg Q4W", "relation": "is higher than", "tail": "Simulated peak serum concentration at 200 mg Q3W"}
+{"head": "Simulated peak serum concentration at 400 mg Q6W", "relation": "is higher than", "tail": "Simulated peak serum concentration at 200 mg Q3W"}
+{"head": "Simulated peak serum concentration at 300 mg Q4W", "relation": "is lower than", "tail": "Cmax of 5 mg/kg Q3W safety reference"}
+{"head": "Simulated peak serum concentration at 400 mg Q6W", "relation": "is lower than", "tail": "Cmax of 5 mg/kg Q3W safety reference"}
+{"head": "Trough serum concentration at 400 mg Q6W", "relation": "is slightly lower than", "tail": "Trough serum concentration at 200 mg Q3W"}
+{"head": "Trough serum concentration at 400 mg Q6W", "relation": "is 10.7% higher than", "tail": "2 mg/kg efficacy reference Ctrough"}
+{"head": "Tislelizumab 150 mg Q2W", "relation": "is expected to have similar safety and efficacy as", "tail": "Tislelizumab 200 mg Q3W"}
+{"head": "Tislelizumab 300 mg Q4W", "relation": "is expected to have similar safety and efficacy as", "tail": "Tislelizumab 200 mg Q3W"}
+{"head": "Tislelizumab 400 mg Q6W", "relation": "is expected to have similar safety and efficacy as", "tail": "Tislelizumab 200 mg Q3W"}
+{"head": "34-year-old male", "relation": "has", "tail": "8-mm red eroded nodule on left fifth toe"}
+{"head": "8-mm red eroded nodule on left fifth toe", "relation": "appeared after", "tail": "history of trauma"}
+{"head": "lesion", "relation": "clinically suspected to be", "tail": "pyogenic granuloma"}
+{"head": "shave biopsy", "relation": "revealed", "tail": "soft white subcutaneous mass"}
+{"head": "soft white subcutaneous mass", "relation": "removed from", "tail": "surrounding dermis"}
+{"head": "histology", "relation": "revealed", "tail": "soft-tissue mass with biphasic proliferation of elongated spindle cells with tapered nuclei"}
+{"head": "biphasic proliferation of elongated spindle cells with tapered nuclei", "relation": "occurred in", "tail": "compact cellular foci with palisading (Antoni A)"}
+{"head": "biphasic proliferation of elongated spindle cells with tapered nuclei", "relation": "occurred in", "tail": "paucicellular myxoid foci (Antoni B)"}
+{"head": "soft-tissue mass with biphasic proliferation of elongated spindle cells with tapered nuclei", "relation": "consistent with", "tail": "schwannoma"}
+{"head": "schwannoma", "relation": "is rare in", "tail": "foot"}
+{"head": "dorsum or interdigital space of the foot", "relation": "is least reported manifestation of", "tail": "schwannoma of the foot"}
+{"head": "podiatrists and dermatologists", "relation": "may consider", "tail": "schwannoma of the foot when evaluating chronic, non-healing, painful nodules and papules"}
+{"head": "Equinus deformity", "relation": "is secondary to", "tail": "hemangioma of the calf in children"}
+{"head": "Radiotherapy", "relation": "is a mode of treatment for", "tail": "equinus deformity secondary to hemangioma of the calf"}
+{"head": "Electrocoagulation", "relation": "is a mode of treatment for", "tail": "equinus deformity secondary to hemangioma of the calf"}
+{"head": "Surgery", "relation": "is a mode of treatment for", "tail": "equinus deformity secondary to hemangioma of the calf"}
+{"head": "Cryosurgery", "relation": "is a mode of treatment for", "tail": "equinus deformity secondary to hemangioma of the calf"}
+{"head": "Carbon dioxide snow", "relation": "is a mode of treatment for", "tail": "equinus deformity secondary to hemangioma of the calf"}
+{"head": "Silver nitrate", "relation": "is a mode of treatment for", "tail": "equinus deformity secondary to hemangioma of the calf"}
+{"head": "Sclerosing solutions", "relation": "is a mode of treatment for", "tail": "equinus deformity secondary to hemangioma of the calf"}
+{"head": "Ilizarov external fixator", "relation": "treats", "tail": "equinus deformity caused by an extensive hemangioma in the calf muscles"}
+{"head": "Techniques using Ilizarov external fixator", "relation": "offer", "tail": "considerable relief with minimal complications"}
+{"head": "Primary cutaneous diffuse large B-cell lymphoma, leg type", "relation": "is a type of", "tail": "non-Hodgkin lymphoma"}
+{"head": "Primary cutaneous diffuse large B-cell lymphoma, leg type", "relation": "is a", "tail": "fast-growing and aggressive cancer"}
+{"head": "Primary cutaneous diffuse large B-cell lymphoma, leg type", "relation": "secondarily invades and involves", "tail": "bone"}
+{"head": "Primary cutaneous diffuse large B-cell lymphoma, leg type", "relation": "has been reported in", "tail": "calcaneus"}
+{"head": "Primary cutaneous diffuse large B-cell lymphoma, leg type", "relation": "has been reported in", "tail": "tarsal bones"}
+{"head": "Primary cutaneous diffuse large B-cell lymphoma, leg type", "relation": "has been reported in", "tail": "lesser metatarsals"}
+{"head": "Primary cutaneous diffuse large B-cell lymphoma, leg type", "relation": "has been reported in", "tail": "ankle"}
+{"head": "Primary cutaneous diffuse large B-cell lymphoma, leg type", "relation": "was diagnosed from", "tail": "metatarsal bone biopsy"}
+{"head": "Melanoma invasion of regional lymph nodes", "relation": "is", "tail": "poor prognostic factor for patients with melanoma"}
+{"head": "Assessing lymph node involvement", "relation": "is", "tail": "routine part of diagnostic workup for patients with melanoma at T stage \u2265T2a"}
+{"head": "Histopathological analysis of tissue obtained during sentinel lymph node biopsy", "relation": "characterizes", "tail": "status and degree of melanoma lymph node involvement"}
+{"head": "Sentinel lymph node biopsy", "relation": "requires", "tail": "technically challenging sample preparation and interpretation by trained pathologist"}
+{"head": "Tissue-specific qRT-PCR-based protocol", "relation": "detects", "tail": "melanoma cells within tumor-draining lymph nodes"}
+{"head": "Murine models of lymph-node-invasive and lymph-node-noninvasive melanoma cell lines", "relation": "were used to validate", "tail": "qRT-PCR-based protocol"}
+{"head": "Melanin-biosynthesis-pathway-specific Trp2 gene expression assay", "relation": "was used in", "tail": "qRT-PCR-based protocol"}
+{"head": "qRT-PCR-based protocol", "relation": "is", "tail": "highly sensitive strategy for assessing lymph node involvement by melanoma"}
+{"head": "Glioblastoma", "relation": "is a type of", "tail": "central nervous system tumor"}
+{"head": "Plant alkaloids", "relation": "have contributed to", "tail": "oncology treatments"}
+{"head": "Plant alkaloids", "relation": "demonstrated", "tail": "anti-GBM activity"}
+{"head": "Alkaloids", "relation": "reduce", "tail": "glioma cell viability"}
+{"head": "Alkaloids", "relation": "suppress", "tail": "proliferation"}
+{"head": "Alkaloids", "relation": "inhibit", "tail": "migration and invasion"}
+{"head": "Alkaloids", "relation": "induce", "tail": "cell death"}
+{"head": "Alkaloids", "relation": "downregulate", "tail": "Bcl-2 and key signaling pathways"}
+{"head": "Alkaloids", "relation": "exhibit", "tail": "antiangiogenic effects"}
+{"head": "Alkaloids", "relation": "reduce", "tail": "tumor weight"}
+{"head": "Alkaloids", "relation": "improve", "tail": "survival rates"}
+{"head": "Noscapine", "relation": "shows", "tail": "favorable therapeutic potential"}
+{"head": "Lycorine", "relation": "shows", "tail": "favorable therapeutic potential"}
+{"head": "Capsaicin", "relation": "shows", "tail": "favorable therapeutic potential"}
+{"head": "Chelerythrine", "relation": "shows", "tail": "favorable therapeutic potential"}
+{"head": "Caffeine", "relation": "shows", "tail": "favorable therapeutic potential"}
+{"head": "Boldine", "relation": "shows", "tail": "favorable therapeutic potential"}
+{"head": "Colchicine", "relation": "shows", "tail": "favorable therapeutic potential"}
+{"head": "Tetrandrine", "relation": "may pose", "tail": "greater risks than benefits"}
+{"head": "Nitidine", "relation": "may pose", "tail": "greater risks than benefits"}
+{"head": "Harmine", "relation": "may pose", "tail": "greater risks than benefits"}
+{"head": "Harmaline", "relation": "may pose", "tail": "greater risks than benefits"}
+{"head": "Cyclopamine", "relation": "may pose", "tail": "greater risks than benefits"}
+{"head": "Cocaine", "relation": "may pose", "tail": "greater risks than benefits"}
+{"head": "Brucine", "relation": "may pose", "tail": "greater risks than benefits"}
+{"head": "Piperine", "relation": "has", "tail": "toxicity"}
+{"head": "Berberine", "relation": "has", "tail": "poor bioavailability"}
+{"head": "Kukoamine A", "relation": "requires", "tail": "further pharmacological and toxicological evaluation"}
+{"head": "Cyclovirobuxine D", "relation": "requires", "tail": "further pharmacological and toxicological evaluation"}
+{"head": "\u03b1-Solanine", "relation": "requires", "tail": "further pharmacological and toxicological evaluation"}
+{"head": "Oxymatrine", "relation": "requires", "tail": "further pharmacological and toxicological evaluation"}
+{"head": "Rutaecarpine", "relation": "requires", "tail": "further pharmacological and toxicological evaluation"}
+{"head": "Evodiamine", "relation": "requires", "tail": "further pharmacological and toxicological evaluation"}
+{"head": "Photodynamic therapy", "relation": "is based on interaction between", "tail": "light and a photosensitizer"}
+{"head": "Nanoparticles", "relation": "support", "tail": "photodynamic therapy"}
+{"head": "Photodynamic therapy", "relation": "treats", "tail": "breast cancer"}
+{"head": "Strategies", "relation": "improve", "tail": "therapeutic efficacy"}
+{"head": "Strategies", "relation": "enhance", "tail": "reactive oxygen species production"}
+{"head": "Strategies", "relation": "deliver precisely", "tail": "photosensitizers"}
+{"head": "Strategies", "relation": "stabilize", "tail": "photosensitizers in systemic circulation"}
+{"head": "Preclinical studies", "relation": "indicate", "tail": "improvements in therapeutic efficacy"}
+{"head": "Therapeutic efficacy improvements", "relation": "include", "tail": "inhibition of tumor growth"}
+{"head": "Therapeutic efficacy improvements", "relation": "include", "tail": "reduction in metastasis"}
+{"head": "Therapeutic efficacy improvements", "relation": "include", "tail": "improvement of immune microenvironment"}
+{"head": "Doxorubicin", "relation": "is", "tail": "anthracycline chemotherapeutic agent"}
+{"head": "Doxorubicin", "relation": "demonstrates efficacy against", "tail": "various types of cancer"}
+{"head": "Doxorubicin", "relation": "combined with", "tail": "hydralazine"}
+{"head": "Combination of Doxorubicin and hydralazine", "relation": "is proposed as", "tail": "cardioprotective combination therapy"}
+{"head": "Combination of Doxorubicin and hydralazine", "relation": "allows for", "tail": "use of reduced Doxorubicin dose"}
+{"head": "Doxorubicin and hydralazine", "relation": "co-loaded into", "tail": "PEGylated liposomes"}
+{"head": "PEGylated liposomes", "relation": "prepared using", "tail": "ethanol injection method"}
+{"head": "Lip-DOX-HDZ", "relation": "has particle size", "tail": "158 \u00b1 18 nm"}
+{"head": "Lip-DOX-HDZ", "relation": "has PDI", "tail": "0.22 \u00b1 0.08"}
+{"head": "Lip-DOX-HDZ", "relation": "has zeta potential", "tail": "-22 \u00b1 5 mV"}
+{"head": "Encapsulation efficiency of Doxorubicin in Lip-DOX-HDZ", "relation": "is", "tail": "90%"}
+{"head": "Encapsulation efficiency of hydralazine in Lip-DOX-HDZ", "relation": "is", "tail": "30%"}
+{"head": "Lip-DOX-HDZ", "relation": "has higher cytotoxicity against", "tail": "MDA-MB-231 breast cancer cell line"}
+{"head": "Lip-DOX-HDZ", "relation": "has higher cytotoxicity against", "tail": "MCF7 breast cancer cell line"}
+{"head": "Lip-DOX-HDZ", "relation": "has lower cytotoxicity against", "tail": "HDF normal cells"}
+{"head": "Lip-DOX-HDZ", "relation": "has lower cytotoxicity against", "tail": "H9C2 cardiac cells"}
+{"head": "Lip-DOX-HDZ", "relation": "has IC50 value", "tail": "5.5 \u00b1 0.4 \u00b5M against MDA-MB-231"}
+{"head": "Lip-DOX-HDZ", "relation": "has IC50 value", "tail": "6.25 \u00b1 0.9 \u00b5M against MCF7"}
+{"head": "Lip-DOX-HDZ", "relation": "has IC50 value", "tail": "20 \u00b1 3.0 \u00b5M against HDF cells"}
+{"head": "Lip-DOX-HDZ", "relation": "has IC50 value", "tail": "19.37 \u00b1 2.0 \u00b5M against H9C2 cardiac cells"}
+{"head": "Lip-DOX-HDZ", "relation": "shows ~4-fold lower toxicity and selectivity for", "tail": "normal cells compared to breast cancer cells"}
+{"head": "Lip-DOX-HDZ", "relation": "is", "tail": "promising nanocarrier for Doxorubicin and hydralazine"}
+{"head": "Cancer cells", "relation": "have increased demand for", "tail": "iron"}
+{"head": "Iron", "relation": "promotes", "tail": "cancer cell proliferation"}
+{"head": "Iron", "relation": "promotes", "tail": "cancer cell invasion"}
+{"head": "Iron", "relation": "promotes", "tail": "cancer cell metastasis"}
+{"head": "Excess iron", "relation": "catalyzes formation of", "tail": "reactive oxygen species"}
+{"head": "Reactive oxygen species", "relation": "induce", "tail": "ferroptosis"}
+{"head": "Reactive oxygen species", "relation": "initiate", "tail": "oncogenic signaling pathways"}
+{"head": "Deregulation of iron metabolism in cancer patients", "relation": "leads to", "tail": "anemia"}
+{"head": "Deregulation of iron metabolism in cancer patients", "relation": "leads to", "tail": "toxic iron overload"}
+{"head": "Deregulation of iron metabolism in cancer patients", "relation": "affects", "tail": "gut microbiota"}
+{"head": "Lactoferrin", "relation": "has", "tail": "strong iron chelating properties"}
+{"head": "Lactoferrin", "relation": "regulates availability of", "tail": "iron to cancer cells"}
+{"head": "Lactoferrin", "relation": "limits", "tail": "cancer cell growth"}
+{"head": "Lactoferrin", "relation": "limits", "tail": "cancer progression"}
+{"head": "Lactoferrin", "relation": "chelates", "tail": "free Fe ions"}
+{"head": "Lactoferrin", "relation": "reduces", "tail": "oxidative stress"}
+{"head": "Lactoferrin", "relation": "inhibits", "tail": "mechanisms that promote carcinogenesis"}
+{"head": "Lactoferrin", "relation": "exhibits", "tail": "immunomodulatory effects"}
+{"head": "Lactoferrin", "relation": "exhibits", "tail": "anti-inflammatory effects"}
+{"head": "Lactoferrin", "relation": "enhances", "tail": "body's anti-tumor response"}
+{"head": "Paclitaxel", "relation": "possesses", "tail": "multi-target antitumor effects"}
+{"head": "Camptothecin", "relation": "possesses", "tail": "multi-target antitumor effects"}
+{"head": "Curcumin", "relation": "possesses", "tail": "multi-target antitumor effects"}
+{"head": "Natural products", "relation": "have", "tail": "drug resistance"}
+{"head": "Natural products", "relation": "have", "tail": "non-specific distribution"}
+{"head": "Small RNAs", "relation": "achieve", "tail": "precise antitumor effects"}
+{"head": "Small RNAs", "relation": "have", "tail": "low delivery efficiency"}
+{"head": "Small RNAs", "relation": "are prone to", "tail": "degradation by nucleases"}
+{"head": "Nanomaterial-based drug delivery systems", "relation": "provide", "tail": "efficient platform for co-delivery of natural products and small RNAs"}
+{"head": "Nanomaterial-based drug delivery systems", "relation": "enhance", "tail": "targeting of delivery"}
+{"head": "Nanomaterial-based drug delivery systems", "relation": "improve", "tail": "synergistic antitumor effects"}
+{"head": "Androgen receptors", "relation": "are present in", "tail": "up to 90% of human breast tumors"}
+{"head": "Androgen receptors", "relation": "interact with", "tail": "estrogen-receptor signaling"}
+{"head": "Androgen receptors", "relation": "are key players in", "tail": "breast cancer biology"}
+{"head": "Androgen receptors", "relation": "offer", "tail": "new targets for therapeutic strategies"}
+{"head": "Female canine mammary tumors", "relation": "provide", "tail": "a natural model for the study of human breast cancer"}
+{"head": "Female canine mammary tumors", "relation": "have", "tail": "similar histopathologies and molecular features to human breast cancer"}
+{"head": "Photodynamic therapy", "relation": "treats", "tail": "cancer"}
+{"head": "Photothermal therapy", "relation": "treats", "tail": "cancer"}
+{"head": "Indocyanine green-loaded quenched nanoliposomes", "relation": "are", "tail": "activatable nanotheranostics"}
+{"head": "Q-ICG-NLs", "relation": "show", "tail": "significant quenching in near-infrared fluorescence emission"}
+{"head": "Q-ICG-NLs", "relation": "show", "tail": "significant quenching in singlet oxygen generation upon light irradiation"}
+{"head": "Photothermal effect of Q-ICG-NLs", "relation": "is greater than", "tail": "photothermal effect of free indocyanine green"}
+{"head": "Fluorescence and singlet oxygen generation of Q-ICG-NLs", "relation": "are restored when taken up into", "tail": "cancer cells"}
+{"head": "Q-ICG-NLs", "relation": "enable", "tail": "selective detection of cancer cells"}
+{"head": "Q-ICG-NLs", "relation": "enable", "tail": "phototherapy of cancer cells"}
+{"head": "Q-ICG-NLs", "relation": "can be used for", "tail": "selective near-infrared fluorescence imaging"}
+{"head": "Q-ICG-NLs", "relation": "can be used for", "tail": "image-guided photodynamic therapy of cancers"}
+{"head": "Q-ICG-NLs", "relation": "can be used for", "tail": "image-guided photothermal therapy of cancers"}
+{"head": "TGFBI", "relation": "promotes", "tail": "EMT"}
+{"head": "TGFBI", "relation": "promotes", "tail": "perineural invasion of pancreatic cancer"}
+{"head": "TGFBI", "relation": "is up-regulated in", "tail": "PNI tissue"}
+{"head": "TGFBI", "relation": "correlates with", "tail": "poor prognosis in pancreatic cancer patients"}
+{"head": "knockdown of TGFBI", "relation": "reduces", "tail": "neural invasion"}
+{"head": "knockdown of TGFBI", "relation": "reduces", "tail": "EMT"}
+{"head": "rTGFBI", "relation": "exhibits reverse effect on", "tail": "neural invasion and EMT"}
+{"head": "knockdown of TGFBI", "relation": "reduces phosphorylation of", "tail": "PI3K/AKT in Capan-2 and CFPAC-1"}
+{"head": "PI3K inhibitor LY294002", "relation": "counteracts effects of", "tail": "TGFBI on neural invasion and EMT in Capan-2 and CFPAC-1"}
+{"head": "knockdown of TGFBI", "relation": "inhibits", "tail": "tumor formation in the sciatic nerve of mice"}
+{"head": "TGFBI", "relation": "activates", "tail": "PI3K-AKT pathway in pancreatic cancer cells"}
+{"head": "activation of PI3K-AKT pathway", "relation": "promotes", "tail": "EMT"}
+{"head": "activation of PI3K-AKT pathway", "relation": "leads to", "tail": "perineural invasion"}
+{"head": "CDK4/6 inhibitor", "relation": "added to", "tail": "endocrine therapy"}
+{"head": "CDK4/6 inhibitor added to endocrine therapy", "relation": "prolongs survival in", "tail": "HR+/HER2- metastatic breast cancer"}
+{"head": "Abemaciclib", "relation": "causes", "tail": "gastrointestinal side effects"}
+{"head": "Gastrointestinal side effects", "relation": "include", "tail": "diarrhoea and abdominal pain"}
+{"head": "Diarrhoea", "relation": "increases", "tail": "symptom burden"}
+{"head": "Diarrhoea", "relation": "reduces", "tail": "quality of life"}
+{"head": "Diarrhoea", "relation": "affects", "tail": "treatment adherence"}
+{"head": "Patients treated with abemaciclib and endocrine therapy", "relation": "report", "tail": "diarrhoea"}
+{"head": "Above threshold diarrhoea", "relation": "defined as", "tail": "\u22653 loose/liquid stools daily"}
+{"head": "Patients with diarrhoea", "relation": "use", "tail": "dietary modifications"}
+{"head": "Patients with diarrhoea", "relation": "use", "tail": "non-prescribed medication"}
+{"head": "Patients with diarrhoea", "relation": "use", "tail": "nonadherence (dose interruption or reduction)"}
+{"head": "Diarrhoea", "relation": "disrupts", "tail": "everyday life"}
+{"head": "Symptom monitoring and supportive/educational interventions", "relation": "should be introduced to reduce", "tail": "negative impact of diarrhoea on patients' lives"}
+{"head": "Epithelioid hemangioendothelioma", "relation": "is", "tail": "ultra-rare translocated vascular sarcoma"}
+{"head": "Pazopanib", "relation": "is used as", "tail": "first-line treatment in metastatic epithelioid hemangioendothelioma"}
+{"head": "Pazopanib", "relation": "achieves median progression-free survival", "tail": "35.1 months in metastatic epithelioid hemangioendothelioma"}
+{"head": "Pazopanib", "relation": "achieves median overall survival", "tail": "53.8 months in metastatic epithelioid hemangioendothelioma"}
+{"head": "Pazopanib", "relation": "achieves median progression-free survival", "tail": "12.6 months in patients with prior tumor progression"}
+{"head": "Pazopanib", "relation": "achieves median overall survival", "tail": "105 months in patients with prior tumor progression"}
+{"head": "Pazopanib", "relation": "achieves median progression-free survival", "tail": "6.1 months in patients with serosal effusion or systemic symptoms"}
+{"head": "Pazopanib", "relation": "achieves median overall survival", "tail": "10.3 months in patients with serosal effusion or systemic symptoms"}
+{"head": "Pazopanib", "relation": "provides clinical benefit rate", "tail": "62% in overall cohort"}
+{"head": "Pazopanib", "relation": "reduces symptoms", "tail": "pain and ascites reduction or hemoptysis in some patients"}
+{"head": "Pazopanib toxicity", "relation": "is mainly", "tail": "gastrointestinal"}
+{"head": "Pazopanib toxicity", "relation": "is manageable with", "tail": "dose reductions"}
+{"head": "Pazopanib", "relation": "requires permanent treatment interruption due to toxicity", "tail": "in one patient"}
+{"head": "Pazopanib", "relation": "is active and safe in", "tail": "patients with metastatic epithelioid hemangioendothelioma"}
+{"head": "Pazopanib", "relation": "may be considered as alternative to", "tail": "sirolimus for specific patient subgroups"}
+{"head": "RECIST criteria", "relation": "should be questioned for evaluation of", "tail": "treatment response in epithelioid hemangioendothelioma"}
+{"head": "Physicians", "relation": "play role in", "tail": "decision-making"}
+{"head": "Oncologists", "relation": "discuss", "tail": "treatment options"}
+{"head": "Oncologists", "relation": "discuss", "tail": "clinical trial participation"}
+{"head": "Oncologists", "relation": "treat", "tail": "colon cancer"}
+{"head": "Oncologists", "relation": "have access to", "tail": "clinical trials"}
+{"head": "Clinical trials", "relation": "were discussed in", "tail": "nearly all conversations"}
+{"head": "Conversations with Black female patients", "relation": "were shorter than", "tail": "conversations with white female patients"}
+{"head": "9 of 21 oncologists", "relation": "recommended", "tail": "clinical trial"}
+{"head": "9 of 21 oncologists", "relation": "deferred", "tail": "decision"}
+{"head": "3 of 21 oncologists", "relation": "recommended", "tail": "standard of care"}
+{"head": "86% of oncologists", "relation": "said they recommended", "tail": "clinical trial"}
+{"head": "43% of oncologists", "relation": "actually recommended", "tail": "clinical trial"}
+{"head": "centromere protein M", "relation": "is upregulated in", "tail": "non-small cell lung cancer tissues"}
+{"head": "centromere protein M", "relation": "is positively correlated with", "tail": "poor prognosis in non-small cell lung cancer"}
+{"head": "overexpression of centromere protein M", "relation": "promotes", "tail": "cell proliferation in non-small cell lung cancer cell lines"}
+{"head": "overexpression of centromere protein M", "relation": "increases", "tail": "tumorigenic potential of non-small cell lung cancer cell lines"}
+{"head": "overexpression of centromere protein M", "relation": "leads to", "tail": "accelerated tumor progression in non-small cell lung cancer"}
+{"head": "overexpression of centromere protein M", "relation": "leads to", "tail": "reduced survival time in tumor-bearing mice"}
+{"head": "centromere protein M", "relation": "activates", "tail": "Wnt/beta-catenin signaling pathway"}
+{"head": "centromere protein M", "relation": "activates via", "tail": "cell division cycle 20/MYB proto-oncogene-like 2 axis"}
+{"head": "inhibition of Wnt signaling", "relation": "attenuates", "tail": "tumorigenic potential induced by centromere protein M"}
+{"head": "inhibition of CDC20/MYBL2 axis", "relation": "attenuates", "tail": "tumorigenic potential induced by centromere protein M"}
+{"head": "centromere protein M", "relation": "drives", "tail": "non-small cell lung cancer development"}
+{"head": "centromere protein M", "relation": "serves as", "tail": "biomarker for predicting non-small cell lung cancer progression"}
+{"head": "IMPACTOR study", "relation": "studies", "tail": "abemaciclib treatment for HR+, HER2- metastatic breast cancer"}
+{"head": "abemaciclib", "relation": "treats", "tail": "HR+, HER2- metastatic breast cancer"}
+{"head": "participants", "relation": "experience", "tail": "side effects from abemaciclib treatment"}
+{"head": "participants", "relation": "manage", "tail": "side effects from abemaciclib treatment"}
+{"head": "family support", "relation": "relates to", "tail": "impact of metastatic breast cancer on roles and relationships"}
+{"head": "Nonroutine discharge", "relation": "is associated with", "tail": "increased healthcare costs"}
+{"head": "Nonroutine discharge", "relation": "is associated with", "tail": "higher readmission rates"}
+{"head": "Sociodemographic factors", "relation": "influence", "tail": "nonroutine discharge in surgical patients with spinal metastases"}
+{"head": "Disease-related factors", "relation": "influence", "tail": "nonroutine discharge in surgical patients with spinal metastases"}
+{"head": "Other factors", "relation": "influence", "tail": "nonroutine discharge in surgical patients with spinal metastases"}
+{"head": "Age", "relation": "is a", "tail": "sociodemographic factor influencing nonroutine discharge"}
+{"head": "Race", "relation": "is a", "tail": "sociodemographic factor influencing nonroutine discharge"}
+{"head": "Insurance status", "relation": "is a", "tail": "sociodemographic factor influencing nonroutine discharge"}
+{"head": "Marital status", "relation": "is a", "tail": "sociodemographic factor influencing nonroutine discharge"}
+{"head": "Family member involvement", "relation": "is a", "tail": "sociodemographic factor influencing nonroutine discharge"}
+{"head": "Spinal cord injury grade", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "Serum albumin level", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "Body mass index", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "Spinal surgery segment", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "Type of surgery", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "Preoperative functional dependency", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "ASA grade", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "Emergency versus elective surgery", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "Activities of daily living at discharge", "relation": "is a", "tail": "disease-related factor influencing nonroutine discharge"}
+{"head": "Frailty index", "relation": "is a", "tail": "other factor influencing nonroutine discharge"}
+{"head": "Comorbidity index", "relation": "is a", "tail": "other factor influencing nonroutine discharge"}
+{"head": "Efficiency of the referral or discharge process", "relation": "is a", "tail": "other factor influencing nonroutine discharge"}
+{"head": "Early identification of patients at risk for nonroutine discharge", "relation": "is crucial for", "tail": "implementing a comprehensive nurse-led discharge plan"}
+{"head": "Comprehensive nurse-led discharge plan", "relation": "aims to reduce", "tail": "hospital stay duration"}
+{"head": "Comprehensive nurse-led discharge plan", "relation": "aims to minimize", "tail": "related complications"}
+{"head": "Succinate dehydrogenase", "relation": "links", "tail": "tricarboxylic acid cycle and electron transport chain"}
+{"head": "Succinate dehydrogenase", "relation": "plays role in", "tail": "adenosine triphosphate production"}
+{"head": "Succinate dehydrogenase", "relation": "plays role in", "tail": "cell physiology"}
+{"head": "SDH deficiency", "relation": "is characteristic of", "tail": "many cancers"}
+{"head": "Dysregulation of SDH", "relation": "results in", "tail": "decreased catalytic activity"}
+{"head": "Dysregulation of SDH", "relation": "results in", "tail": "accumulation of succinate"}
+{"head": "Accumulation of succinate", "relation": "promotes", "tail": "tumor progression"}
+{"head": "Defective SDH", "relation": "fosters", "tail": "carcinogenesis"}
+{"head": "SDH-deficient and cumulative succinate", "relation": "are features of", "tail": "gastrointestinal stromal tumors"}
+{"head": "SDH-deficient and cumulative succinate", "relation": "are features of", "tail": "pheochromocytomas"}
+{"head": "SDH-deficient and cumulative succinate", "relation": "are features of", "tail": "paragangliomas"}
+{"head": "National Comprehensive Cancer Network Distress Thermometer", "relation": "assesses", "tail": "distress in cancer genetics patients"}
+{"head": "Younger age", "relation": "is associated with", "tail": "reporting high distress"}
+{"head": "Female sex assigned at birth", "relation": "is associated with", "tail": "reporting high distress"}
+{"head": "Personal history of cancer", "relation": "is not associated with", "tail": "high distress"}
+{"head": "Worry", "relation": "is", "tail": "commonly patient-reported problem"}
+{"head": "Fatigue", "relation": "is", "tail": "commonly patient-reported problem"}
+{"head": "Sleep disturbance", "relation": "is", "tail": "commonly patient-reported problem"}
+{"head": "Distress Thermometer", "relation": "identifies", "tail": "patients undergoing cancer genetic counseling experiencing high distress"}
+{"head": "Craniopharyngioma surgery in children", "relation": "leads to", "tail": "high rate of recurrence"}
+{"head": "Craniopharyngioma surgery in children", "relation": "leads to", "tail": "morbid complications"}
+{"head": "Transcranial approach", "relation": "is", "tail": "most frequently proposed surgical technique"}
+{"head": "Transsphenoidal endoscopic approach", "relation": "is", "tail": "also used surgical technique"}
+{"head": "Surgical total removal", "relation": "was possible in", "tail": "88% of cases"}
+{"head": "Children with hypothalamic involvement", "relation": "are more likely to have", "tail": "endocrine deficits"}
+{"head": "Children with hypothalamic involvement", "relation": "are more likely to be", "tail": "overweight or obese pre-operatively"}
+{"head": "Children with hypothalamic involvement", "relation": "have", "tail": "higher risk of early post-operative complications"}
+{"head": "Children with hypothalamic involvement", "relation": "have", "tail": "higher risk of late morbidities"}
+{"head": "Children with craniopharyngioma and strong hypothalamic involvement", "relation": "have", "tail": "higher risk of pre- and post-operative complications"}
+{"head": "Complete removal", "relation": "is associated with", "tail": "high rate of cure"}
+{"head": "Complete removal", "relation": "is associated with", "tail": "global good neuropsychological results"}
+{"head": "Early multidisciplinary post-operative management", "relation": "should be reinforced to improve", "tail": "long-term outcome"}
+{"head": "Surgery with total removal", "relation": "can insure", "tail": "definitive acceptable clinical results"}
+{"head": "Acute myeloid leukemia cells", "relation": "rely on", "tail": "aerobic glycolysis for energy metabolism"}
+{"head": "Activated T cells", "relation": "rely on", "tail": "aerobic glycolysis for energy metabolism"}
+{"head": "TP53-induced glycolysis and apoptosis regulator (TIGAR)", "relation": "inhibits", "tail": "glycolysis"}
+{"head": "TP53-induced glycolysis and apoptosis regulator (TIGAR)", "relation": "protects", "tail": "AML cells from apoptosis"}
+{"head": "TIGAR depletion", "relation": "enhances", "tail": "CD8+ T cell counts"}
+{"head": "TIGAR depletion", "relation": "raises", "tail": "CD4/CD8 ratio"}
+{"head": "TIGAR depletion", "relation": "downregulates", "tail": "CD44 on cell surface of CD8+ T cells"}
+{"head": "TIGAR depletion", "relation": "downregulates", "tail": "immune checkpoint CTLA-4 on cell surface of CD8+ T cells"}
+{"head": "TIGAR depletion", "relation": "downregulates", "tail": "immune checkpoint LAG-3 on cell surface of CD8+ T cells"}
+{"head": "TIGAR depletion", "relation": "downregulates", "tail": "immune checkpoint PD-1 on cell surface of CD8+ T cells"}
+{"head": "TIGAR depletion", "relation": "boosts cytokine secretion by", "tail": "CD8+ T cells"}
+{"head": "Cytokine secretion by CD8+ T cells", "relation": "includes", "tail": "IFN-\u03b3"}
+{"head": "Cytokine secretion by CD8+ T cells", "relation": "includes", "tail": "perforin"}
+{"head": "Cytokine secretion by CD8+ T cells", "relation": "includes", "tail": "granzyme B"}
+{"head": "Cytokine secretion by CD8+ T cells", "relation": "includes", "tail": "TNF-\u03b1"}
+{"head": "TIGAR depletion", "relation": "boosts cytokine secretion by", "tail": "CD4+ T cells"}
+{"head": "Cytokine secretion by CD4+ T cells", "relation": "includes", "tail": "IL-2"}
+{"head": "Cytokine secretion by CD4+ T cells", "relation": "includes", "tail": "TNF-\u03b1"}
+{"head": "TIGAR depletion", "relation": "improves", "tail": "cytotoxicity against AML cells"}
+{"head": "TIGAR depletion", "relation": "improves", "tail": "proliferation of CD8+ T cells"}
+{"head": "TIGAR depletion", "relation": "reduces", "tail": "apoptosis of CD8+ T cells"}
+{"head": "TIGAR suppression in host with 2-DG", "relation": "prolongs", "tail": "AML mouse survival"}
+{"head": "TIGAR suppression in host with 2-DG", "relation": "decreases", "tail": "tumor burden"}
+{"head": "TIGAR suppression in host with 2-DG", "relation": "decreases", "tail": "leukemic infiltration"}
+{"head": "TIGAR suppression", "relation": "restores", "tail": "thymic T cell development"}
+{"head": "TIGAR suppression", "relation": "restores", "tail": "peripheral immune balance"}
+{"head": "High TIGAR expression", "relation": "influences", "tail": "glycolysis pathway"}
+{"head": "High TIGAR expression", "relation": "correlates with", "tail": "markers of T cell exhaustion"}
+{"head": "Blocking TIGAR", "relation": "prevents", "tail": "CD8+ T cell dysfunction"}
+{"head": "Blocking TIGAR", "relation": "induces", "tail": "anti-AML immunity"}
+{"head": "physical therapy interventions", "relation": "treat", "tail": "secondary lymphedema in patients with head and neck cancer"}
+{"head": "kinesio taping", "relation": "is a type of", "tail": "intervention"}
+{"head": "compression therapy", "relation": "is a type of", "tail": "intervention"}
+{"head": "manual lymphatic drainage", "relation": "is a type of", "tail": "intervention"}
+{"head": "exercise", "relation": "is a type of", "tail": "intervention"}
+{"head": "exercise program plus manual lymphatic drainage supplemented with kinesio taping or compression therapy", "relation": "could be beneficial for", "tail": "external lymphedema"}
+{"head": "kinesio taping", "relation": "supplements", "tail": "exercise program plus manual lymphatic drainage"}
+{"head": "compression therapy", "relation": "supplements", "tail": "exercise program plus manual lymphatic drainage"}
+{"head": "exercise program plus manual lymphatic drainage supplemented with kinesio taping or compression therapy", "relation": "does not improve", "tail": "internal lymphedema"}
+{"head": "tumor cells", "relation": "are vulnerable to", "tail": "lipid peroxidation"}
+{"head": "lipid peroxidation", "relation": "is driven by", "tail": "redox imbalance"}
+{"head": "lipid peroxidation", "relation": "is driven by", "tail": "lipid overabundance within the tumor microenvironment"}
+{"head": "ferroptosis", "relation": "is a form of", "tail": "regulated cell death"}
+{"head": "ferroptosis", "relation": "is predicated on", "tail": "lipid peroxidation"}
+{"head": "lipid peroxidation products", "relation": "include", "tail": "4-hydroxynonenal (HNE)"}
+{"head": "lipid peroxidation and its products", "relation": "damage", "tail": "DNA"}
+{"head": "lipid peroxidation and its products", "relation": "shape", "tail": "an environment conducive to tumor growth and metastasis"}
+{"head": "lipid peroxidation process", "relation": "polarizes", "tail": "macrophages towards a pro-inflammatory phenotype"}
+{"head": "lipid peroxidation process", "relation": "dampens", "tail": "antigen-presenting capacity of dendritic cells"}
+{"head": "lipid peroxidation process", "relation": "undermines", "tail": "cytotoxic functions of T and NK cells"}
+{"head": "lipid peroxidation process", "relation": "transforms", "tail": "neutrophils into pro-tumorigenic polymorphonuclear myeloid-derived suppressor cells (PMN-MDSCs)"}
+{"head": "lipid peroxidation of stroma cells", "relation": "contributes to", "tail": "tumor progression"}
+{"head": "advanced nanotherapies", "relation": "target", "tail": "tumor cells precisely"}
+{"head": "lipid peroxidation products and ferroptosis", "relation": "contribute to", "tail": "an immunosuppressive state"}
+{"head": "immunosuppressive state", "relation": "is temporally distinct from", "tail": "cell death"}
+{"head": "ferroptosis-derived immunosuppression", "relation": "encompasses", "tail": "all types of immune cells within the tumor microenvironment"}
+{"head": "lipid peroxidation products", "relation": "hinder", "tail": "clinical translation of ferroptosis-based therapies"}
+{"head": "Liver metastases", "relation": "have", "tail": "poor prognosis"}
+{"head": "Stereotactic body radiation therapy", "relation": "treats", "tail": "liver metastases"}
+{"head": "Stereotactic body radiation therapy", "relation": "offers", "tail": "durable tumor control"}
+{"head": "Stereotactic body radiation therapy", "relation": "has", "tail": "minimal toxicity"}
+{"head": "Prescribed dose", "relation": "is", "tail": "strongest independent predictor of local control"}
+{"head": "Prescribed dose", "relation": "improves", "tail": "1-year freedom from local progression rates"}
+{"head": "Optimal threshold of 77.44 Gy EQD2", "relation": "improves", "tail": "1-year freedom from local progression rates"}
+{"head": "Advanced motion management techniques", "relation": "demonstrate", "tail": "superior local control outcomes"}
+{"head": "Internal breath-hold with image-guided radiotherapy", "relation": "is a type of", "tail": "advanced motion management techniques"}
+{"head": "Prescribed dose", "relation": "correlates with", "tail": "high tumor control probability"}
+{"head": "Prescribed dose", "relation": "outperforms", "tail": "other dose metrics"}
+{"head": "Toxicity", "relation": "is", "tail": "minimal"}
+{"head": "3.9% of patients", "relation": "experience", "tail": "grade \u2265 3 adverse events"}
+{"head": "Stereotactic body radiation therapy", "relation": "is", "tail": "highly effective and safe approach for liver metastases"}
+{"head": "Prescribed dose and advanced imaging", "relation": "are", "tail": "pivotal determinants of tumor control"}
+{"head": "Precise dosimetric planning and motion management", "relation": "optimize", "tail": "SBRT outcomes"}
+{"head": "SBRT", "relation": "is integrated as", "tail": "cornerstone in multidisciplinary management of liver metastases"}
+{"head": "Conventional therapies", "relation": "treat", "tail": "oral squamous cell carcinoma"}
+{"head": "Drug delivery systems based on nanoparticles", "relation": "improve", "tail": "drug stability"}
+{"head": "Drug delivery systems based on nanoparticles", "relation": "improve", "tail": "target accuracy"}
+{"head": "Drug delivery systems based on nanoparticles", "relation": "lower", "tail": "toxicity"}
+{"head": "Delivery of cisplatin via liposomes", "relation": "results in", "tail": "40% improvement in tumor suppression"}
+{"head": "PLGA nanoparticles", "relation": "produce", "tail": "2.3 times more intertumoral drug accumulation"}
+{"head": "Nanoparticle platforms", "relation": "administer", "tail": "curcumin"}
+{"head": "Nanoparticle platforms", "relation": "administer", "tail": "paclitaxel"}
+{"head": "Nanoparticle platforms", "relation": "enhance", "tail": "therapeutic results"}
+{"head": "Nanoparticle platforms", "relation": "reduce", "tail": "adverse effects"}
+{"head": "PLGA nanoparticles", "relation": "have", "tail": "scaling issues"}
+{"head": "Liposomes", "relation": "are removed from", "tail": "circulation quickly"}
+{"head": "EGFR-targeted gold nanoparticles", "relation": "improve", "tail": "selectivity"}
+{"head": "EGFR-targeted gold nanoparticles", "relation": "improve", "tail": "effectiveness"}
+{"head": "EGFR-targeted gold nanoparticles", "relation": "obtain", "tail": "up to 90% receptor binding"}
+{"head": "Nanoparticles", "relation": "accumulate preferentially in", "tail": "tumors via EPR effect"}
+{"head": "Nanoparticles", "relation": "improve", "tail": "immunotherapy"}
+{"head": "Nanoparticles", "relation": "improve", "tail": "radiation"}
+{"head": "Nanoparticles", "relation": "increase", "tail": "cancer cell death"}
+{"head": "Nanoparticles", "relation": "cause", "tail": "DNA damage"}
+{"head": "Nanoparticles", "relation": "interfere with", "tail": "cell division"}
+{"head": "Nanoparticles", "relation": "produce", "tail": "reactive oxygen species"}
+{"head": "Metallic nanoparticles", "relation": "accumulate in", "tail": "liver"}
+{"head": "Multifunctional platforms", "relation": "show promise for overcoming", "tail": "nanoparticle toxicity and manufacturing issues"}
+{"head": "Stimuli-responsive nanoparticles", "relation": "show promise for overcoming", "tail": "nanoparticle toxicity and manufacturing issues"}
+{"head": "Developments in multifunctional platforms and stimuli-responsive nanoparticles", "relation": "enable", "tail": "more individualized and successful OSCC therapies"}
+{"head": "Tissue-resident memory T cells", "relation": "are protective against", "tail": "foreign antigens in non-lymphoid tissues"}
+{"head": "Tissue-resident memory T cells", "relation": "have protective roles in", "tail": "antitumor immunity"}
+{"head": "Tissue-resident memory T cells", "relation": "contribute to", "tail": "enhanced survival"}
+{"head": "Tissue-resident memory T cells", "relation": "contribute to", "tail": "tumor growth inhibition"}
+{"head": "Tissue-resident memory T cells", "relation": "exhibit paradoxical effects", "tail": "promoting tumor progression"}
+{"head": "Tissue-resident memory T cells", "relation": "lead to", "tail": "adverse outcomes during antitumor immune responses"}
+{"head": "Tissue-resident memory T cells", "relation": "have protective functions in", "tail": "combating cancers"}
+{"head": "Tissue-resident memory T cells", "relation": "have unfavorable potential to exacerbate", "tail": "tumor development"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "Interleukin-18"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "platelet count"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "white blood cell count"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "PDW"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "RBC"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "MCHC"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "RDW-CV"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "MCH"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "HCT"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "PCT"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "MPV"}
+{"head": "Chronic Myeloid Leukemia", "relation": "is associated with", "tail": "RDW-SD"}
+{"head": "Control group", "relation": "has different age distribution than", "tail": "CML patients"}
+{"head": "Exosomes of MDA-MB-231 cells", "relation": "are isolated from", "tail": "serum-free media"}
+{"head": "Size distribution", "relation": "is assessed using", "tail": "dynamic light scattering"}
+{"head": "Exosome morphology", "relation": "is examined using", "tail": "scanning electron microscopy"}
+{"head": "Flow cytometry analysis", "relation": "shows expression of", "tail": "metastatic markers CD105 and CD133 in exosomes"}
+{"head": "Cancer cells", "relation": "exhibit low expression of", "tail": "metastatic markers CD105 and CD133"}
+{"head": "Exosomes", "relation": "are labeled with", "tail": "Aco-490"}
+{"head": "Exosomes", "relation": "are internalized by", "tail": "MDA-MB-231 cells"}
+{"head": "Exosomes", "relation": "are internalized by", "tail": "MCF-7 cells"}
+{"head": "CD133-positive exosomes", "relation": "increase phosphorylation of", "tail": "AKT"}
+{"head": "CD133-positive exosomes", "relation": "increase phosphorylation of", "tail": "extracellular signal-regulated kinase"}
+{"head": "CD133-positive exosomes", "relation": "do not influence", "tail": "cyclin D1 levels"}
+{"head": "MORC2", "relation": "facilitates", "tail": "cholangiocarcinoma progression"}
+{"head": "MORC2", "relation": "accelerates", "tail": "CCA cell proliferation"}
+{"head": "MORC2", "relation": "promotes", "tail": "cell cycle progression"}
+{"head": "MORC2", "relation": "activates", "tail": "TNF-\u03b1 signaling"}
+{"head": "TNF-\u03b1 signaling", "relation": "activates", "tail": "NFKB signaling pathway"}
+{"head": "Downregulation of MORC2", "relation": "induces", "tail": "cell cycle arrest"}
+{"head": "Downregulation of MORC2", "relation": "upregulates", "tail": "CCL3"}
+{"head": "Upregulation of CCL3", "relation": "facilitates", "tail": "neutrophil infiltration"}
+{"head": "MORC2", "relation": "modifies", "tail": "immunosuppressive tumor microenvironment"}
+{"head": "Targeting MORC2", "relation": "is potential therapeutic approach for", "tail": "patients with advanced CCA"}
+{"head": "Immune checkpoint inhibitors", "relation": "treat", "tail": "cancer"}
+{"head": "Tumors with low tumor mutational burden", "relation": "have suboptimal response to", "tail": "immune checkpoint inhibitors"}
+{"head": "Mutations in DAXX", "relation": "are associated with", "tail": "poorer survival outcomes"}
+{"head": "Mutations in HLA-A", "relation": "are associated with", "tail": "poorer survival outcomes"}
+{"head": "Mutations in H3C2", "relation": "are associated with", "tail": "poorer survival outcomes"}
+{"head": "Mutations in IGF1R", "relation": "are associated with", "tail": "poorer survival outcomes"}
+{"head": "Mutations in CTNNB1", "relation": "are associated with", "tail": "poorer survival outcomes"}
+{"head": "Mutations in SMARCA4", "relation": "are associated with", "tail": "poorer survival outcomes"}
+{"head": "Mutations in KMT2D", "relation": "are associated with", "tail": "poorer survival outcomes"}
+{"head": "Mutations in TP53", "relation": "are associated with", "tail": "poorer survival outcomes"}
+{"head": "VHL mutations in renal cell carcinoma patients", "relation": "predict", "tail": "improved overall survival following immune checkpoint inhibitor treatment"}
+{"head": "Tumor mutational burden alone", "relation": "does not predict", "tail": "immune checkpoint inhibitor response"}
+{"head": "Machine learning models", "relation": "optimize", "tail": "immune checkpoint inhibitor treatment decisions"}

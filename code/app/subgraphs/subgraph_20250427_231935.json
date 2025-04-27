@@ -1,0 +1,177 @@
+{
+  "nodes": [
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:165",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "survival in HR+/HER2- metastatic breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:164",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "CDK4/6 inhibitor added to endocrine therapy"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2839",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "HR+/HER2- metastatic breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:162",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "CDK4/6 inhibitor"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:163",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "endocrine therapy"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:166",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "abemaciclib"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:167",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "gastrointestinal side effects"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:168",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "diarrhoea and abdominal pain"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2840",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Abemaciclib"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2874",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "HR+, HER2- metastatic breast cancer"
+      }
+    },
+    {
+      "element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2841",
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Gastrointestinal side effects"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:131",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:164",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:165",
+      "properties": {
+        "type": "prolongs"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:2199",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:164",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2839",
+      "properties": {
+        "type": "prolongs survival in"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:130",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:162",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:163",
+      "properties": {
+        "type": "added to"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:132",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:166",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:167",
+      "properties": {
+        "type": "causes"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:133",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:167",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:168",
+      "properties": {
+        "type": "include"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:2200",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2840",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:167",
+      "properties": {
+        "type": "causes"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:2230",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:166",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2874",
+      "properties": {
+        "type": "treats"
+      }
+    },
+    {
+      "element_id": "5:54096497-a51b-49c1-979f-bc0dbd8f50d3:2201",
+      "type": "RELATION",
+      "start_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:2841",
+      "end_node_element_id": "4:54096497-a51b-49c1-979f-bc0dbd8f50d3:168",
+      "properties": {
+        "type": "include"
+      }
+    }
+  ]
+}

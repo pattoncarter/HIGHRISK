@@ -148,6 +148,6 @@ sudo make up
 - If desired, it can be easily deployed to AWS, GCP, or Azure using Docker Compose or container orchestration services.
 - PubMed data fetching may be subject to OpenAI API and PubMed API usage limits when scaled up significantly.
 - If you want to run Cypher commands against your neo4j database directly, you can access the portal at http://localhost:7474 and connect with no password
-- The Neo4j database is currently configured without a password in order to simplify deployment. Please be aware this was done with the intent of fully local deployment. If you choose to host this application it is best parctice to enable authentication on the Neo4j database.
+- The Neo4j database is currently configured without a password in order to simplify deployment. Please be aware this was done with the intent of fully local deployment. If you choose to host this application it is best practice to enable authentication on the Neo4j database.
 
 ---
